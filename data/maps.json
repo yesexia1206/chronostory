@@ -1,0 +1,3082 @@
+{
+  "30000": {
+    "id": 30000,
+    "name": {
+      "zh": "菇菇村東入口",
+      "en": "East Entrance to Mushroom Town"
+    },
+    "region": "楓之島"
+  },
+  "40000": {
+    "id": 40000,
+    "name": {
+      "zh": "嫩寶狩獵場Ⅰ",
+      "en": "Snail Hunting Ground I"
+    },
+    "region": "楓之島"
+  },
+  "40001": {
+    "id": 40001,
+    "name": {
+      "zh": "嫩寶狩獵場Ⅱ",
+      "en": "Snail Hunting Ground II"
+    },
+    "region": "楓之島"
+  },
+  "40002": {
+    "id": 40002,
+    "name": {
+      "zh": "嫩寶狩獵場Ⅲ",
+      "en": "Snail Hunting Ground III"
+    },
+    "region": "楓之島"
+  },
+  "50000": {
+    "id": 50000,
+    "name": {
+      "zh": "岔道",
+      "en": "A Split Road"
+    },
+    "region": "楓之島"
+  },
+  "50001": {
+    "id": 50001,
+    "name": {
+      "zh": "楓之港西郊平原",
+      "en": "The Field West of Southperry"
+    },
+    "region": "楓之島"
+  },
+  "60002": {
+    "id": 60002,
+    "name": {
+      "zh": "海賊藏身處",
+      "en": "Pirate's Hideout"
+    },
+    "region": "隱藏街道"
+  },
+  "1000000": {
+    "id": 1000000,
+    "name": {
+      "zh": "楓葉村西郊平原",
+      "en": "The Field West of Amherst"
+    },
+    "region": "楓之島"
+  },
+  "1000001": {
+    "id": 1000001,
+    "name": {
+      "zh": "小樹林",
+      "en": "In A Small Forest"
+    },
+    "region": "楓之島"
+  },
+  "1000002": {
+    "id": 1000002,
+    "name": {
+      "zh": "危險的樹林",
+      "en": "Dangerous Forest"
+    },
+    "region": "楓之島"
+  },
+  "1000003": {
+    "id": 1000003,
+    "name": {
+      "zh": "菇菇山丘",
+      "en": "Mushroom Garden"
+    },
+    "region": "隱藏街道"
+  },
+  "1000004": {
+    "id": 1000004,
+    "name": {
+      "zh": "小嫩寶",
+      "en": "Snail Garden"
+    },
+    "region": "楓之島"
+  },
+  "1000005": {
+    "id": 1000005,
+    "name": {
+      "zh": "草叢狩獵場Ⅰ",
+      "en": "Hunting Ground Middle of the Forest I"
+    },
+    "region": "楓之島"
+  },
+  "1000006": {
+    "id": 1000006,
+    "name": {
+      "zh": "草叢狩獵場Ⅱ",
+      "en": "Hunting Ground Middle of the Forest II"
+    },
+    "region": "楓之島"
+  },
+  "1010004": {
+    "id": 1010004,
+    "name": {
+      "zh": "嫩寶花園",
+      "en": "Snail Field of Flowers"
+    },
+    "region": "楓之島"
+  },
+  "1020000": {
+    "id": 1020000,
+    "name": {
+      "zh": "楓葉村東郊平原",
+      "en": "The Field East of Amherst"
+    },
+    "region": "楓之島"
+  },
+  "1020001": {
+    "id": 1020001,
+    "name": {
+      "zh": "番茄園",
+      "en": "Tomato Field"
+    },
+    "region": "楓之島"
+  },
+  "100000002": {
+    "id": 100000002,
+    "name": {
+      "zh": "空屋",
+      "en": "An Empty House"
+    },
+    "region": "隱藏街道"
+  },
+  "100000003": {
+    "id": 100000003,
+    "name": {
+      "zh": "鋼之肥肥公園Ⅰ",
+      "en": "Pig Park"
+    },
+    "region": "隱藏街道"
+  },
+  "100000004": {
+    "id": 100000004,
+    "name": {
+      "zh": "鋼之肥肥公園Ⅱ",
+      "en": "Pig Park II"
+    },
+    "region": "隱藏街道"
+  },
+  "100000005": {
+    "id": 100000005,
+    "name": {
+      "zh": "菇菇王出沒地",
+      "en": "Someone Else's House"
+    },
+    "region": "隱藏街道"
+  },
+  "100010000": {
+    "id": 100010000,
+    "name": {
+      "zh": "弓箭手村東部小山",
+      "en": "The Hill East of Henesys"
+    },
+    "region": "弓箭手村"
+  },
+  "100020000": {
+    "id": 100020000,
+    "name": {
+      "zh": "弓箭手村東部草叢",
+      "en": "The Rain-Forest East of Henesys"
+    },
+    "region": "弓箭手村"
+  },
+  "100020100": {
+    "id": 100020100,
+    "name": {
+      "zh": "哼聲森林小徑",
+      "en": "Henesys Pig Farm"
+    },
+    "region": "弓箭手村"
+  },
+  "100030000": {
+    "id": 100030000,
+    "name": {
+      "zh": "弓箭手村東部森林",
+      "en": "The Forest East of Henesys"
+    },
+    "region": "弓箭手村"
+  },
+  "100030001": {
+    "id": 100030001,
+    "name": {
+      "zh": "藍菇菇樹林",
+      "en": "The Blue Mushroom Forest"
+    },
+    "region": "隱藏街道"
+  },
+  "100040000": {
+    "id": 100040000,
+    "name": {
+      "zh": "魔法森林南部",
+      "en": "The Forest South of Ellinia"
+    },
+    "region": "魔法森林"
+  },
+  "100040001": {
+    "id": 100040001,
+    "name": {
+      "zh": "南部森林訓練場Ⅰ",
+      "en": "Dungeon, Southern Forest I"
+    },
+    "region": "魔法森林"
+  },
+  "100040002": {
+    "id": 100040002,
+    "name": {
+      "zh": "南部森林訓練場Ⅱ",
+      "en": "Dungeon, Southern Forest II"
+    },
+    "region": "魔法森林"
+  },
+  "100040003": {
+    "id": 100040003,
+    "name": {
+      "zh": "南部森林訓練場Ⅲ",
+      "en": "Dungeon, Southern Forest III"
+    },
+    "region": "魔法森林"
+  },
+  "100040004": {
+    "id": 100040004,
+    "name": {
+      "zh": "南部森林訓練場Ⅳ",
+      "en": "Dungeon, Southern Forest IV"
+    },
+    "region": "魔法森林"
+  },
+  "100040100": {
+    "id": 100040100,
+    "name": {
+      "zh": "智慧森林",
+      "en": "The Forest of Wisdom"
+    },
+    "region": "魔法森林"
+  },
+  "100040101": {
+    "id": 100040101,
+    "name": {
+      "zh": "猴子森林Ⅰ",
+      "en": "Monkey Forest I"
+    },
+    "region": "隱藏街道"
+  },
+  "100040103": {
+    "id": 100040103,
+    "name": {
+      "zh": "猴子森林Ⅱ",
+      "en": "Monkey Forest II"
+    },
+    "region": "隱藏街道"
+  },
+  "100040105": {
+    "id": 100040105,
+    "name": {
+      "zh": "巫婆森林Ⅰ",
+      "en": "The Forest of Evil I"
+    },
+    "region": "隱藏街道"
+  },
+  "100040106": {
+    "id": 100040106,
+    "name": {
+      "zh": "巫婆森林Ⅱ",
+      "en": "The Forest of Evil II"
+    },
+    "region": "隱藏街道"
+  },
+  "100040110": {
+    "id": 100040110,
+    "name": {
+      "zh": "樹林底層",
+      "en": "Downstairs at the Forest"
+    },
+    "region": "隱藏街道"
+  },
+  "100040500": {
+    "id": 100040500,
+    "name": {
+      "zh": "石人寺院Ⅴ",
+      "en": "Golem's Temple V"
+    },
+    "region": "弓箭手村"
+  },
+  "100050000": {
+    "id": 100050000,
+    "name": {
+      "zh": "魔法森林南郊",
+      "en": "The Field South of Ellinia"
+    },
+    "region": "魔法森林"
+  },
+  "101010000": {
+    "id": 101010000,
+    "name": {
+      "zh": "魔法森林北郊",
+      "en": "The Field Up North of Ellinia"
+    },
+    "region": "魔法森林"
+  },
+  "101010100": {
+    "id": 101010100,
+    "name": {
+      "zh": "大木林Ⅰ",
+      "en": "The Tree That Grew I"
+    },
+    "region": "魔法森林"
+  },
+  "101010101": {
+    "id": 101010101,
+    "name": {
+      "zh": "大木林Ⅱ",
+      "en": "The Tree That Grew II"
+    },
+    "region": "魔法森林"
+  },
+  "101010102": {
+    "id": 101010102,
+    "name": {
+      "zh": "大木林Ⅲ",
+      "en": "The Tree That Grew III"
+    },
+    "region": "魔法森林"
+  },
+  "101020002": {
+    "id": 101020002,
+    "name": {
+      "zh": "北部森林訓練場Ⅰ",
+      "en": "Tree Dungeon, Forest Up North I"
+    },
+    "region": "魔法森林"
+  },
+  "101020003": {
+    "id": 101020003,
+    "name": {
+      "zh": "北部森林訓練場Ⅱ",
+      "en": "Tree Dungeon, Forest Up North II"
+    },
+    "region": "魔法森林"
+  },
+  "101020004": {
+    "id": 101020004,
+    "name": {
+      "zh": "北部森林訓練場Ⅲ",
+      "en": "Tree Dungeon, Forest Up North III"
+    },
+    "region": "魔法森林"
+  },
+  "101020005": {
+    "id": 101020005,
+    "name": {
+      "zh": "北部森林訓練場Ⅳ",
+      "en": "Tree Dungeon, Forest Up North IV"
+    },
+    "region": "魔法森林"
+  },
+  "101020006": {
+    "id": 101020006,
+    "name": {
+      "zh": "北部森林訓練場Ⅴ",
+      "en": "Tree Dungeon, Forest Up North V"
+    },
+    "region": "魔法森林"
+  },
+  "101020007": {
+    "id": 101020007,
+    "name": {
+      "zh": "北部森林訓練場Ⅵ",
+      "en": "Tree Dungeon, Forest Up North VI"
+    },
+    "region": "魔法森林"
+  },
+  "101020008": {
+    "id": 101020008,
+    "name": {
+      "zh": "北部森林訓練場Ⅶ",
+      "en": "Tree Dungeon, Forest Up North VII"
+    },
+    "region": "魔法森林"
+  },
+  "101020009": {
+    "id": 101020009,
+    "name": {
+      "zh": "北部森林訓練場Ⅷ",
+      "en": "Tree Dungeon, Forest Up North VIII"
+    },
+    "region": "魔法森林"
+  },
+  "101030000": {
+    "id": 101030000,
+    "name": {
+      "zh": "勇士之村東部",
+      "en": "East Domain of Perion"
+    },
+    "region": "勇士之村"
+  },
+  "101030001": {
+    "id": 101030001,
+    "name": {
+      "zh": "黑肥肥領土Ⅱ",
+      "en": "The Land of Wild Boar II"
+    },
+    "region": "隱藏街道"
+  },
+  "101030100": {
+    "id": 101030100,
+    "name": {
+      "zh": "岩石路Ⅲ",
+      "en": "Rocky Road III"
+    },
+    "region": "勇士之村"
+  },
+  "101030101": {
+    "id": 101030101,
+    "name": {
+      "zh": "遺跡發掘地Ⅰ",
+      "en": "Excavation Site I"
+    },
+    "region": "勇士之村"
+  },
+  "101030102": {
+    "id": 101030102,
+    "name": {
+      "zh": "遺跡發掘地Ⅱ",
+      "en": "Excavation Site II"
+    },
+    "region": "勇士之村"
+  },
+  "101030103": {
+    "id": 101030103,
+    "name": {
+      "zh": "遺跡發掘地Ⅲ",
+      "en": "Excavation Site III"
+    },
+    "region": "勇士之村"
+  },
+  "101030105": {
+    "id": 101030105,
+    "name": {
+      "zh": "遺跡之墓Ⅰ",
+      "en": "Remains <Tomb> I"
+    },
+    "region": "勇士之村"
+  },
+  "101030106": {
+    "id": 101030106,
+    "name": {
+      "zh": "遺跡之墓Ⅱ",
+      "en": "Remains <Tomb> II"
+    },
+    "region": "勇士之村"
+  },
+  "101030107": {
+    "id": 101030107,
+    "name": {
+      "zh": "遺跡之墓Ⅲ",
+      "en": "Remains <Tomb> III"
+    },
+    "region": "勇士之村"
+  },
+  "101030108": {
+    "id": 101030108,
+    "name": {
+      "zh": "遺跡之墓Ⅳ",
+      "en": "Remains <Tomb> IV"
+    },
+    "region": "勇士之村"
+  },
+  "101030109": {
+    "id": 101030109,
+    "name": {
+      "zh": "遺跡之峭壁",
+      "en": "Remains <Cliff>"
+    },
+    "region": "勇士之村"
+  },
+  "101030110": {
+    "id": 101030110,
+    "name": {
+      "zh": "第1軍營",
+      "en": "Camp 1"
+    },
+    "region": "勇士之村"
+  },
+  "101030111": {
+    "id": 101030111,
+    "name": {
+      "zh": "第2軍營",
+      "en": "Camp 2"
+    },
+    "region": "勇士之村"
+  },
+  "101030112": {
+    "id": 101030112,
+    "name": {
+      "zh": "第3軍營",
+      "en": "Camp 3"
+    },
+    "region": "勇士之村"
+  },
+  "101030200": {
+    "id": 101030200,
+    "name": {
+      "zh": "岩石路Ⅱ",
+      "en": "Rocky Road II"
+    },
+    "region": "勇士之村"
+  },
+  "101030300": {
+    "id": 101030300,
+    "name": {
+      "zh": "岩石路Ⅰ",
+      "en": "Rocky Road I"
+    },
+    "region": "勇士之村"
+  },
+  "101030400": {
+    "id": 101030400,
+    "name": {
+      "zh": "東方岩石山Ⅰ",
+      "en": "East Rocky Mountain I"
+    },
+    "region": "勇士之村"
+  },
+  "101030401": {
+    "id": 101030401,
+    "name": {
+      "zh": "東方岩石山Ⅱ",
+      "en": "East Rocky Mountain II"
+    },
+    "region": "勇士之村"
+  },
+  "101030402": {
+    "id": 101030402,
+    "name": {
+      "zh": "東方岩石山Ⅲ",
+      "en": "East Rocky Mountain III"
+    },
+    "region": "勇士之村"
+  },
+  "101030403": {
+    "id": 101030403,
+    "name": {
+      "zh": "東方岩石山Ⅳ",
+      "en": "East Rocky Mountain IV"
+    },
+    "region": "勇士之村"
+  },
+  "101030404": {
+    "id": 101030404,
+    "name": {
+      "zh": "東方岩石山Ⅴ",
+      "en": "East Rocky Mountain V"
+    },
+    "region": "勇士之村"
+  },
+  "101030405": {
+    "id": 101030405,
+    "name": {
+      "zh": "東方岩石山Ⅵ",
+      "en": "East Rocky Mountain VI"
+    },
+    "region": "勇士之村"
+  },
+  "101030406": {
+    "id": 101030406,
+    "name": {
+      "zh": "東方岩石山Ⅶ",
+      "en": "East Rocky Mountain VII"
+    },
+    "region": "勇士之村"
+  },
+  "101040000": {
+    "id": 101040000,
+    "name": {
+      "zh": "勇士之村東入口",
+      "en": "Perion Street Corner"
+    },
+    "region": "勇士之村"
+  },
+  "101040001": {
+    "id": 101040001,
+    "name": {
+      "zh": "黑肥肥領土",
+      "en": "Land of Wild Boar"
+    },
+    "region": "隱藏街道"
+  },
+  "101040002": {
+    "id": 101040002,
+    "name": {
+      "zh": "野外之地",
+      "en": "Over the Wall"
+    },
+    "region": "隱藏街道"
+  },
+  "101040003": {
+    "id": 101040003,
+    "name": {
+      "zh": "鋼之黑肥肥之地",
+      "en": "Iron Boar Land"
+    },
+    "region": "隱藏街道"
+  },
+  "102010000": {
+    "id": 102010000,
+    "name": {
+      "zh": "勇士之村西入口",
+      "en": "West Street Corner of Perion"
+    },
+    "region": "勇士之村"
+  },
+  "102020000": {
+    "id": 102020000,
+    "name": {
+      "zh": "西部岩山Ⅰ",
+      "en": "West Rocky Mountain I"
+    },
+    "region": "勇士之村"
+  },
+  "102020100": {
+    "id": 102020100,
+    "name": {
+      "zh": "西部岩山Ⅱ",
+      "en": "West Rocky Mountain II"
+    },
+    "region": "勇士之村"
+  },
+  "102020200": {
+    "id": 102020200,
+    "name": {
+      "zh": "西部岩山Ⅲ",
+      "en": "West Rocky Mountain III"
+    },
+    "region": "勇士之村"
+  },
+  "102020300": {
+    "id": 102020300,
+    "name": {
+      "zh": "西部岩山Ⅳ",
+      "en": "West Rocky Mountain IV"
+    },
+    "region": "勇士之村"
+  },
+  "102030000": {
+    "id": 102030000,
+    "name": {
+      "zh": "勇士之村西部",
+      "en": "West Domain of Perion"
+    },
+    "region": "勇士之村"
+  },
+  "102040000": {
+    "id": 102040000,
+    "name": {
+      "zh": "墮落城市北方工地",
+      "en": "Construction Site North of Kerning City"
+    },
+    "region": "墮落城市"
+  },
+  "102040001": {
+    "id": 102040001,
+    "name": {
+      "zh": "北方工地頂端",
+      "en": "Northern Top of Construction Site"
+    },
+    "region": "隱藏街道"
+  },
+  "102050000": {
+    "id": 102050000,
+    "name": {
+      "zh": "墮落城市北入口",
+      "en": "Sunset Sky"
+    },
+    "region": "墮落城市"
+  },
+  "103000101": {
+    "id": 103000101,
+    "name": {
+      "zh": "地鐵一號線[地區01]",
+      "en": "Line 1 <Area 1>"
+    },
+    "region": "墮落城市"
+  },
+  "103000102": {
+    "id": 103000102,
+    "name": {
+      "zh": "轉乘區",
+      "en": "Transfer Area"
+    },
+    "region": "墮落城市"
+  },
+  "103000103": {
+    "id": 103000103,
+    "name": {
+      "zh": "地鐵一號線[地區02]",
+      "en": "Line 1 <Area 2>"
+    },
+    "region": "墮落城市"
+  },
+  "103000104": {
+    "id": 103000104,
+    "name": {
+      "zh": "地鐵一號線[地區03]",
+      "en": "Line 1 <Area 3>"
+    },
+    "region": "墮落城市"
+  },
+  "103000105": {
+    "id": 103000105,
+    "name": {
+      "zh": "地鐵一號線[地區04]",
+      "en": "Line 1 <Area 4>"
+    },
+    "region": "墮落城市"
+  },
+  "103000200": {
+    "id": 103000200,
+    "name": {
+      "zh": "地鐵二號線[01]",
+      "en": "Line 2 <Area 1>"
+    },
+    "region": "墮落城市"
+  },
+  "103000201": {
+    "id": 103000201,
+    "name": {
+      "zh": "地鐵二號線[地區02]",
+      "en": "Line 2 <Area 2>"
+    },
+    "region": "墮落城市"
+  },
+  "103000202": {
+    "id": 103000202,
+    "name": {
+      "zh": "地鐵二號線[地區03]",
+      "en": "Line 2 <Area 3>"
+    },
+    "region": "墮落城市"
+  },
+  "103010000": {
+    "id": 103010000,
+    "name": {
+      "zh": "墮落城市工地",
+      "en": "Kerning City Construction Site"
+    },
+    "region": "墮落城市"
+  },
+  "103010001": {
+    "id": 103010001,
+    "name": {
+      "zh": "小心掉落",
+      "en": "Caution Falling Down"
+    },
+    "region": "隱藏街道"
+  },
+  "103020000": {
+    "id": 103020000,
+    "name": {
+      "zh": "歷恩森林Ⅰ",
+      "en": "L Forest I"
+    },
+    "region": "墮落城市"
+  },
+  "103020100": {
+    "id": 103020100,
+    "name": {
+      "zh": "歷恩森林Ⅱ",
+      "en": "L Forest II"
+    },
+    "region": "墮落城市"
+  },
+  "103020200": {
+    "id": 103020200,
+    "name": {
+      "zh": "歷恩森林Ⅲ",
+      "en": "L Forest III"
+    },
+    "region": "墮落城市"
+  },
+  "103030000": {
+    "id": 103030000,
+    "name": {
+      "zh": "墮落城市森林Ⅰ",
+      "en": "Kerning City Middle Forest I"
+    },
+    "region": "墮落城市"
+  },
+  "103030100": {
+    "id": 103030100,
+    "name": {
+      "zh": "墮落城市森林Ⅱ",
+      "en": "Kerning City Middle Forest II"
+    },
+    "region": "墮落城市"
+  },
+  "103030200": {
+    "id": 103030200,
+    "name": {
+      "zh": "墮落城市森林Ⅲ",
+      "en": "Kerning City Middle Forest III"
+    },
+    "region": "墮落城市"
+  },
+  "104000100": {
+    "id": 104000100,
+    "name": {
+      "zh": "維多利亞港郊外",
+      "en": "Right Around Lith Harbor"
+    },
+    "region": "維多利亞港"
+  },
+  "104000200": {
+    "id": 104000200,
+    "name": {
+      "zh": "海岸草叢Ⅰ",
+      "en": "Thicket Around the Beach I"
+    },
+    "region": "維多利亞港"
+  },
+  "104000300": {
+    "id": 104000300,
+    "name": {
+      "zh": "海岸草叢Ⅱ",
+      "en": "Thicket Around the Beach II"
+    },
+    "region": "維多利亞港"
+  },
+  "104000400": {
+    "id": 104000400,
+    "name": {
+      "zh": "海岸草叢Ⅲ",
+      "en": "Thicket Around the Beach III"
+    },
+    "region": "維多利亞港"
+  },
+  "104010000": {
+    "id": 104010000,
+    "name": {
+      "zh": "三叉路",
+      "en": "3-Way Road-Split"
+    },
+    "region": "維多利亞港"
+  },
+  "104010001": {
+    "id": 104010001,
+    "name": {
+      "zh": "肥肥海岸",
+      "en": "The Pig Beach"
+    },
+    "region": "隱藏街道"
+  },
+  "104010002": {
+    "id": 104010002,
+    "name": {
+      "zh": "海岸狩獵場",
+      "en": "Beach Hunting Ground"
+    },
+    "region": "隱藏街道"
+  },
+  "104020000": {
+    "id": 104020000,
+    "name": {
+      "zh": "弓箭手村西部森林",
+      "en": "Forest West of Henesys"
+    },
+    "region": "弓箭手村"
+  },
+  "104030000": {
+    "id": 104030000,
+    "name": {
+      "zh": "弓箭手村西部小山",
+      "en": "A Hill West of Henesys"
+    },
+    "region": "弓箭手村"
+  },
+  "104030001": {
+    "id": 104030001,
+    "name": {
+      "zh": "菇菇山",
+      "en": "Mushroom Garden"
+    },
+    "region": "隱藏街道"
+  },
+  "104040000": {
+    "id": 104040000,
+    "name": {
+      "zh": "弓箭手訓練場Ⅰ",
+      "en": "Henesys Hunting Ground I"
+    },
+    "region": "弓箭手村"
+  },
+  "104040001": {
+    "id": 104040001,
+    "name": {
+      "zh": "弓箭手訓練場Ⅱ",
+      "en": "Henesys Hunting Ground II"
+    },
+    "region": "弓箭手村"
+  },
+  "104040002": {
+    "id": 104040002,
+    "name": {
+      "zh": "弓箭手訓練場Ⅲ",
+      "en": "Henesys Hunting Ground III"
+    },
+    "region": "弓箭手村"
+  },
+  "105030000": {
+    "id": 105030000,
+    "name": {
+      "zh": "森林深處",
+      "en": "Deep Forest"
+    },
+    "region": "奇幻村"
+  },
+  "105040000": {
+    "id": 105040000,
+    "name": {
+      "zh": "黑森林通道",
+      "en": "Swampy Land in a Deep Forest"
+    },
+    "region": "奇幻村"
+  },
+  "105040100": {
+    "id": 105040100,
+    "name": {
+      "zh": "黑森林狩獵場I",
+      "en": "Hunting Ground in the Deep Forest I"
+    },
+    "region": "奇幻村"
+  },
+  "105040200": {
+    "id": 105040200,
+    "name": {
+      "zh": "黑森林狩獵場II",
+      "en": "Hunting Ground in the Deep Forest II"
+    },
+    "region": "奇幻村"
+  },
+  "105040301": {
+    "id": 105040301,
+    "name": {
+      "zh": "森林迷宮I",
+      "en": "Sleepy Dungeon I"
+    },
+    "region": "奇幻村"
+  },
+  "105040302": {
+    "id": 105040302,
+    "name": {
+      "zh": "森林迷宮II",
+      "en": "Sleepy Dungeon II"
+    },
+    "region": "奇幻村"
+  },
+  "105040303": {
+    "id": 105040303,
+    "name": {
+      "zh": "森林迷宮III",
+      "en": "Sleepy Dungeon III"
+    },
+    "region": "奇幻村"
+  },
+  "105040304": {
+    "id": 105040304,
+    "name": {
+      "zh": "森林迷宮IV",
+      "en": "Sleepy Dungeon IV"
+    },
+    "region": "奇幻村"
+  },
+  "105040305": {
+    "id": 105040305,
+    "name": {
+      "zh": "森林迷宮V",
+      "en": "Sleepy Dungeon V"
+    },
+    "region": "奇幻村"
+  },
+  "105040306": {
+    "id": 105040306,
+    "name": {
+      "zh": "巨人之林",
+      "en": "The Forest of Golem"
+    },
+    "region": "奇幻村"
+  },
+  "105040320": {
+    "id": 105040320,
+    "name": {
+      "zh": "倒塌的石巨人聖地",
+      "en": "Golem's Castle Ruins"
+    },
+    "region": "奇幻村"
+  },
+  "105050000": {
+    "id": 105050000,
+    "name": {
+      "zh": "螞蟻洞Ⅰ",
+      "en": "Ant Tunnel I"
+    },
+    "region": "奇幻村"
+  },
+  "105050100": {
+    "id": 105050100,
+    "name": {
+      "zh": "螞蟻洞Ⅱ",
+      "en": "Ant Tunnel II"
+    },
+    "region": "奇幻村"
+  },
+  "105050101": {
+    "id": 105050101,
+    "name": {
+      "zh": "菇菇生長之地",
+      "en": "Cave of Mushrooms"
+    },
+    "region": "奇幻村"
+  },
+  "105050200": {
+    "id": 105050200,
+    "name": {
+      "zh": "螞蟻洞Ⅲ",
+      "en": "Ant Tunnel III"
+    },
+    "region": "奇幻村"
+  },
+  "105050300": {
+    "id": 105050300,
+    "name": {
+      "zh": "螞蟻洞Ⅳ",
+      "en": "Ant Tunnel IV"
+    },
+    "region": "奇幻村"
+  },
+  "105050400": {
+    "id": 105050400,
+    "name": {
+      "zh": "黑暗通道",
+      "en": "Dark Cave"
+    },
+    "region": "奇幻村"
+  },
+  "105060000": {
+    "id": 105060000,
+    "name": {
+      "zh": "蝙蝠洞",
+      "en": "Dangerous Steam"
+    },
+    "region": "奇幻村"
+  },
+  "105060100": {
+    "id": 105060100,
+    "name": {
+      "zh": "幽深螞蟻洞Ⅰ",
+      "en": "Deep Ant Tunnel I"
+    },
+    "region": "奇幻村"
+  },
+  "105070000": {
+    "id": 105070000,
+    "name": {
+      "zh": "幽深螞蟻洞Ⅱ",
+      "en": "Deep Ant Tunnel II"
+    },
+    "region": "奇幻村"
+  },
+  "105070001": {
+    "id": 105070001,
+    "name": {
+      "zh": "螞蟻礦坑",
+      "en": "Ant Tunnel Park"
+    },
+    "region": "奇幻村"
+  },
+  "105070002": {
+    "id": 105070002,
+    "name": {
+      "zh": "蘑菇王之墓",
+      "en": "The Grave of Mushmom"
+    },
+    "region": "奇幻村"
+  },
+  "105070100": {
+    "id": 105070100,
+    "name": {
+      "zh": "火獨眼獸洞穴I",
+      "en": "The Cave of Evil Eye"
+    },
+    "region": "奇幻村"
+  },
+  "105070200": {
+    "id": 105070200,
+    "name": {
+      "zh": "火獨眼獸洞穴II",
+      "en": "The Cave of Curse Eye"
+    },
+    "region": "奇幻村"
+  },
+  "105070300": {
+    "id": 105070300,
+    "name": {
+      "zh": "火獨眼獸洞穴III",
+      "en": "The Cave of Cold Eye"
+    },
+    "region": "奇幻村"
+  },
+  "105070400": {
+    "id": 105070400,
+    "name": {
+      "zh": "火獨眼獸洞穴IV",
+      "en": "The Cave of Dark Eye"
+    },
+    "region": "奇幻村"
+  },
+  "105080000": {
+    "id": 105080000,
+    "name": {
+      "zh": "龍族狩獵場",
+      "en": "Drake Hunting Ground"
+    },
+    "region": "奇幻村"
+  },
+  "105090000": {
+    "id": 105090000,
+    "name": {
+      "zh": "冰獨眼獸洞穴Ⅰ",
+      "en": "The Tunnel That Lost Light I"
+    },
+    "region": "奇幻村"
+  },
+  "105090100": {
+    "id": 105090100,
+    "name": {
+      "zh": "冰獨眼獸洞穴Ⅱ",
+      "en": "The Tunnel That Lost Light II"
+    },
+    "region": "奇幻村"
+  },
+  "105090300": {
+    "id": 105090300,
+    "name": {
+      "zh": "龍穴",
+      "en": "Drake's Meal Table"
+    },
+    "region": "奇幻村"
+  },
+  "105090301": {
+    "id": 105090301,
+    "name": {
+      "zh": "魔龍領土Ⅰ",
+      "en": "Wild Kargo Area I"
+    },
+    "region": "奇幻村"
+  },
+  "105090302": {
+    "id": 105090302,
+    "name": {
+      "zh": "魔龍領土Ⅱ",
+      "en": "Wild Kargo Area II"
+    },
+    "region": "奇幻村"
+  },
+  "105090310": {
+    "id": 105090310,
+    "name": {
+      "zh": "龍族之地",
+      "en": "Drake Area"
+    },
+    "region": "奇幻村"
+  },
+  "105090311": {
+    "id": 105090311,
+    "name": {
+      "zh": "冰冷的搖籃",
+      "en": "Cold Cradle"
+    },
+    "region": "奇幻村"
+  },
+  "105090312": {
+    "id": 105090312,
+    "name": {
+      "zh": "龍族之巢",
+      "en": "Drake's Nest"
+    },
+    "region": "奇幻村"
+  },
+  "105090320": {
+    "id": 105090320,
+    "name": {
+      "zh": "龍族的藍色洞穴",
+      "en": "Drake's Blue Cave"
+    },
+    "region": "奇幻村"
+  },
+  "105090400": {
+    "id": 105090400,
+    "name": {
+      "zh": "寺院入口",
+      "en": "Another Path"
+    },
+    "region": "奇幻村"
+  },
+  "105090500": {
+    "id": 105090500,
+    "name": {
+      "zh": "寺院通道Ⅰ",
+      "en": "Sanctuary Entrance I"
+    },
+    "region": "奇幻村"
+  },
+  "105090600": {
+    "id": 105090600,
+    "name": {
+      "zh": "寺院通道Ⅱ",
+      "en": "Sanctuary Entrance II"
+    },
+    "region": "奇幻村"
+  },
+  "105090700": {
+    "id": 105090700,
+    "name": {
+      "zh": "寺院通道Ⅲ",
+      "en": "Sanctuary Entrance III"
+    },
+    "region": "奇幻村"
+  },
+  "105090800": {
+    "id": 105090800,
+    "name": {
+      "zh": "寺院通道Ⅳ",
+      "en": "Sanctuary Entrance IV"
+    },
+    "region": "奇幻村"
+  },
+  "105090900": {
+    "id": 105090900,
+    "name": {
+      "zh": "被詛咒的寺院",
+      "en": "The Cursed Sanctuary"
+    },
+    "region": "奇幻村"
+  },
+  "106000000": {
+    "id": 106000000,
+    "name": {
+      "zh": "幽深的峽谷Ⅰ",
+      "en": "Deep Valley I"
+    },
+    "region": "勇士之村"
+  },
+  "106000001": {
+    "id": 106000001,
+    "name": {
+      "zh": "危險的峽谷",
+      "en": "Dangerous Valley"
+    },
+    "region": "隱藏街道"
+  },
+  "106000002": {
+    "id": 106000002,
+    "name": {
+      "zh": "危險的峽谷Ⅱ",
+      "en": "Dangerous Valley II"
+    },
+    "region": "隱藏街道"
+  },
+  "106000100": {
+    "id": 106000100,
+    "name": {
+      "zh": "幽深的峽谷Ⅱ",
+      "en": "Deep Valley II"
+    },
+    "region": "勇士之村"
+  },
+  "106000101": {
+    "id": 106000101,
+    "name": {
+      "zh": "火焰之地Ⅰ",
+      "en": "The Burnt Land I"
+    },
+    "region": "勇士之村"
+  },
+  "106000110": {
+    "id": 106000110,
+    "name": {
+      "zh": "火焰之地Ⅱ",
+      "en": "The Burnt Land II"
+    },
+    "region": "勇士之村"
+  },
+  "106000120": {
+    "id": 106000120,
+    "name": {
+      "zh": "火焰之地Ⅲ",
+      "en": "The Burnt Land III"
+    },
+    "region": "勇士之村"
+  },
+  "106000130": {
+    "id": 106000130,
+    "name": {
+      "zh": "火焰之地Ⅳ",
+      "en": "The Burnt Land IV"
+    },
+    "region": "勇士之村"
+  },
+  "106000140": {
+    "id": 106000140,
+    "name": {
+      "zh": "火焰之地Ⅴ",
+      "en": "The Burnt Land V"
+    },
+    "region": "勇士之村"
+  },
+  "106000200": {
+    "id": 106000200,
+    "name": {
+      "zh": "幽深峽谷Ⅲ",
+      "en": "Deep Valley III"
+    },
+    "region": "勇士之村"
+  },
+  "106000300": {
+    "id": 106000300,
+    "name": {
+      "zh": "勇士之村迷宮入口",
+      "en": "Perion Dungeon Entrance"
+    },
+    "region": "勇士之村"
+  },
+  "106010000": {
+    "id": 106010000,
+    "name": {
+      "zh": "迷宮通道",
+      "en": "The Road to the Dungeon"
+    },
+    "region": "弓箭手村"
+  },
+  "106010100": {
+    "id": 106010100,
+    "name": {
+      "zh": "弓箭手村迷宮入口",
+      "en": "Henesys Dungeon Entrance"
+    },
+    "region": "弓箭手村"
+  },
+  "106010101": {
+    "id": 106010101,
+    "name": {
+      "zh": "石人寺院門外",
+      "en": "The Breathing Rock"
+    },
+    "region": "隱藏街道"
+  },
+  "106010102": {
+    "id": 106010102,
+    "name": {
+      "zh": "石人寺院入口",
+      "en": "The Entrance of Golem's Temple"
+    },
+    "region": "弓箭手村"
+  },
+  "106010103": {
+    "id": 106010103,
+    "name": {
+      "zh": "石人寺院Ⅰ",
+      "en": "Golem's Temple I"
+    },
+    "region": "弓箭手村"
+  },
+  "106010104": {
+    "id": 106010104,
+    "name": {
+      "zh": "石人寺院Ⅱ",
+      "en": "Golem's Temple II"
+    },
+    "region": "弓箭手村"
+  },
+  "106010105": {
+    "id": 106010105,
+    "name": {
+      "zh": "石人寺院Ⅲ",
+      "en": "Golem's Temple III"
+    },
+    "region": "弓箭手村"
+  },
+  "106010106": {
+    "id": 106010106,
+    "name": {
+      "zh": "石人寺院Ⅳ",
+      "en": "Golem's Temple IV"
+    },
+    "region": "弓箭手村"
+  },
+  "107000000": {
+    "id": 107000000,
+    "name": {
+      "zh": "沼澤地Ⅰ",
+      "en": "The Swamp of Despair I"
+    },
+    "region": "墮落城市"
+  },
+  "107000001": {
+    "id": 107000001,
+    "name": {
+      "zh": "青蛇濕地",
+      "en": "Swamp of the Jr. Necki"
+    },
+    "region": "隱藏街道"
+  },
+  "107000100": {
+    "id": 107000100,
+    "name": {
+      "zh": "沼澤地Ⅱ",
+      "en": "The Swamp of Despair II"
+    },
+    "region": "墮落城市"
+  },
+  "107000200": {
+    "id": 107000200,
+    "name": {
+      "zh": "沼澤地Ⅲ",
+      "en": "The Swamp of Despair III"
+    },
+    "region": "墮落城市"
+  },
+  "107000300": {
+    "id": 107000300,
+    "name": {
+      "zh": "鱷魚潭Ⅰ",
+      "en": "Dangerous Croco I"
+    },
+    "region": "墮落城市"
+  },
+  "107000400": {
+    "id": 107000400,
+    "name": {
+      "zh": "鱷魚潭Ⅱ",
+      "en": "Dangerous Croco II"
+    },
+    "region": "墮落城市"
+  },
+  "107000401": {
+    "id": 107000401,
+    "name": {
+      "zh": "猴子沼澤地Ⅰ",
+      "en": "Monkey Swamp I"
+    },
+    "region": "隱藏街道"
+  },
+  "107000402": {
+    "id": 107000402,
+    "name": {
+      "zh": "猴子沼澤地Ⅱ",
+      "en": "Monkey Swamp II"
+    },
+    "region": "隱藏街道"
+  },
+  "107000403": {
+    "id": 107000403,
+    "name": {
+      "zh": "猴子沼澤地Ⅲ",
+      "en": "Monkey Swamp III"
+    },
+    "region": "隱藏街道"
+  },
+  "107000500": {
+    "id": 107000500,
+    "name": {
+      "zh": "黑森林西入口",
+      "en": "Damp Tree-Forest"
+    },
+    "region": "奇幻村"
+  },
+  "107000501": {
+    "id": 107000501,
+    "name": {
+      "zh": "黑森林沼澤",
+      "en": "Damp Forest"
+    },
+    "region": "奇幻村"
+  },
+  "200010000": {
+    "id": 200010000,
+    "name": {
+      "zh": "雲彩公園Ⅰ",
+      "en": "Cloud Park I"
+    },
+    "region": "天空之城"
+  },
+  "200010100": {
+    "id": 200010100,
+    "name": {
+      "zh": "前往三色庭園的路",
+      "en": "The Road to Garden of 3 Colors"
+    },
+    "region": "天空之城"
+  },
+  "200010110": {
+    "id": 200010110,
+    "name": {
+      "zh": "紅光庭園Ⅰ",
+      "en": "Garden of Red I"
+    },
+    "region": "天空之城"
+  },
+  "200010111": {
+    "id": 200010111,
+    "name": {
+      "zh": "紅光庭園 II",
+      "en": "Garden of Red II"
+    },
+    "region": "天空之城"
+  },
+  "200010120": {
+    "id": 200010120,
+    "name": {
+      "zh": "黃光庭園Ⅰ",
+      "en": "Garden of Yellow I"
+    },
+    "region": "天空之城"
+  },
+  "200010121": {
+    "id": 200010121,
+    "name": {
+      "zh": "黃光庭園 II",
+      "en": "Garden of Yellow II"
+    },
+    "region": "天空之城"
+  },
+  "200010130": {
+    "id": 200010130,
+    "name": {
+      "zh": "藍光庭園Ⅰ",
+      "en": "Garden of Green I"
+    },
+    "region": "天空之城"
+  },
+  "200010131": {
+    "id": 200010131,
+    "name": {
+      "zh": "藍光庭園 II",
+      "en": "Garden of Green II"
+    },
+    "region": "天空之城"
+  },
+  "200010200": {
+    "id": 200010200,
+    "name": {
+      "zh": "天空階梯Ⅰ",
+      "en": "Stairway to the Sky I"
+    },
+    "region": "天空之城"
+  },
+  "200010300": {
+    "id": 200010300,
+    "name": {
+      "zh": "天空階梯 II",
+      "en": "Stairway to the Sky II"
+    },
+    "region": "天空之城"
+  },
+  "200010301": {
+    "id": 200010301,
+    "name": {
+      "zh": "黑光庭園Ⅰ",
+      "en": "Garden of Darkness I"
+    },
+    "region": "天空之城"
+  },
+  "200010302": {
+    "id": 200010302,
+    "name": {
+      "zh": "黑光庭園 II",
+      "en": "Garden of Darkness II"
+    },
+    "region": "天空之城"
+  },
+  "200020000": {
+    "id": 200020000,
+    "name": {
+      "zh": "雲彩公園Ⅱ",
+      "en": "Cloud Park II"
+    },
+    "region": "天空之城"
+  },
+  "200030000": {
+    "id": 200030000,
+    "name": {
+      "zh": "散步路Ⅰ",
+      "en": "Strolling Path"
+    },
+    "region": "天空之城"
+  },
+  "200040000": {
+    "id": 200040000,
+    "name": {
+      "zh": "雲彩公園Ⅲ",
+      "en": "Cloud Park III"
+    },
+    "region": "天空之城"
+  },
+  "200040001": {
+    "id": 200040001,
+    "name": {
+      "zh": "暗影花園",
+      "en": "Disposed Flower Garden"
+    },
+    "region": "天空之城"
+  },
+  "200050000": {
+    "id": 200050000,
+    "name": {
+      "zh": "雲彩公園Ⅳ",
+      "en": "Cloud Park IV"
+    },
+    "region": "天空之城"
+  },
+  "200060000": {
+    "id": 200060000,
+    "name": {
+      "zh": "散步路Ⅱ",
+      "en": "Strolling Path II"
+    },
+    "region": "天空之城"
+  },
+  "200070000": {
+    "id": 200070000,
+    "name": {
+      "zh": "雲彩公園Ⅴ",
+      "en": "Cloud Park V"
+    },
+    "region": "天空之城"
+  },
+  "200080000": {
+    "id": 200080000,
+    "name": {
+      "zh": "雲彩公園Ⅵ",
+      "en": "Cloud Park VI"
+    },
+    "region": "天空之城"
+  },
+  "200080200": {
+    "id": 200080200,
+    "name": {
+      "zh": "天空之城塔<20層>",
+      "en": "Orbis Tower <5th Floor>"
+    },
+    "region": "天空之城"
+  },
+  "200080700": {
+    "id": 200080700,
+    "name": {
+      "zh": "天空之城塔<15層>",
+      "en": "Orbis Tower <4th Floor>"
+    },
+    "region": "天空之城"
+  },
+  "200081200": {
+    "id": 200081200,
+    "name": {
+      "zh": "天空之城塔<10層>",
+      "en": "Orbis Tower <3rd Floor>"
+    },
+    "region": "天空之城"
+  },
+  "200081500": {
+    "id": 200081500,
+    "name": {
+      "zh": "天空之城塔<7層>",
+      "en": "Orbis Tower <2nd Floor>"
+    },
+    "region": "天空之城"
+  },
+  "200082100": {
+    "id": 200082100,
+    "name": {
+      "zh": "天空之城塔<1層>",
+      "en": "Orbis Tower <1st Floor>"
+    },
+    "region": "天空之城"
+  },
+  "200082300": {
+    "id": 200082300,
+    "name": {
+      "zh": "天空之塔<地下2樓>",
+      "en": "Orbis Tower <B2>"
+    },
+    "region": "天空之城"
+  },
+  "211000200": {
+    "id": 211000200,
+    "name": {
+      "zh": "冰雪山丘",
+      "en": "Snowy Hill"
+    },
+    "region": "冰原雪域"
+  },
+  "211010000": {
+    "id": 211010000,
+    "name": {
+      "zh": "冰面Ⅰ",
+      "en": "Watch Out for Icy Path I"
+    },
+    "region": "冰原雪域"
+  },
+  "211020000": {
+    "id": 211020000,
+    "name": {
+      "zh": "冰面Ⅱ",
+      "en": "Watch Out for Icy Path II"
+    },
+    "region": "冰原雪域"
+  },
+  "211030000": {
+    "id": 211030000,
+    "name": {
+      "zh": "結冰的平原Ⅰ",
+      "en": "Cold Field I"
+    },
+    "region": "冰原雪域"
+  },
+  "211030001": {
+    "id": 211030001,
+    "name": {
+      "zh": "寒冷的平原",
+      "en": "Chill Field"
+    },
+    "region": "冰原雪域"
+  },
+  "211040000": {
+    "id": 211040000,
+    "name": {
+      "zh": "結冰的平原Ⅱ",
+      "en": "Cold Field II"
+    },
+    "region": "冰原雪域"
+  },
+  "211040001": {
+    "id": 211040001,
+    "name": {
+      "zh": "王冠之地I",
+      "en": "The Crown-Flyer 1"
+    },
+    "region": "隱藏街道"
+  },
+  "211040002": {
+    "id": 211040002,
+    "name": {
+      "zh": "王冠之地II",
+      "en": "The Crown-Flyer 2"
+    },
+    "region": "隱藏街道"
+  },
+  "211040100": {
+    "id": 211040100,
+    "name": {
+      "zh": "冰雪峽谷Ⅰ",
+      "en": "Ice Valley I"
+    },
+    "region": "冰原雪域"
+  },
+  "211040101": {
+    "id": 211040101,
+    "name": {
+      "zh": "雪人之谷",
+      "en": "Valley of Snowman"
+    },
+    "region": "隱藏街道"
+  },
+  "211040200": {
+    "id": 211040200,
+    "name": {
+      "zh": "冰雪峽谷Ⅱ",
+      "en": "Ice Valley II"
+    },
+    "region": "冰原雪域"
+  },
+  "211040300": {
+    "id": 211040300,
+    "name": {
+      "zh": "尖銳的絕壁Ⅰ",
+      "en": "Sharp Cliff I"
+    },
+    "region": "冰原雪域"
+  },
+  "211040400": {
+    "id": 211040400,
+    "name": {
+      "zh": "尖銳的絕壁Ⅱ",
+      "en": "Sharp Cliff II"
+    },
+    "region": "冰原雪域"
+  },
+  "211040500": {
+    "id": 211040500,
+    "name": {
+      "zh": "尖銳的絕壁3",
+      "en": "Wolf Territory I"
+    },
+    "region": "冰原雪域"
+  },
+  "211040600": {
+    "id": 211040600,
+    "name": {
+      "zh": "尖銳的絕壁4",
+      "en": "Wolf Territory II"
+    },
+    "region": "冰原雪域"
+  },
+  "211040700": {
+    "id": 211040700,
+    "name": {
+      "zh": "危險的絕壁",
+      "en": "Dangerous Cliff"
+    },
+    "region": "冰原雪域"
+  },
+  "211040800": {
+    "id": 211040800,
+    "name": {
+      "zh": "狼的領土1",
+      "en": "Wolf Territory III"
+    },
+    "region": "冰原雪域"
+  },
+  "211040900": {
+    "id": 211040900,
+    "name": {
+      "zh": "狼的領土2",
+      "en": "Wolf Territory IV"
+    },
+    "region": "冰原雪域"
+  },
+  "211041000": {
+    "id": 211041000,
+    "name": {
+      "zh": "狼的領土3",
+      "en": "Wolf Territory V"
+    },
+    "region": "冰原雪域"
+  },
+  "211041100": {
+    "id": 211041100,
+    "name": {
+      "zh": "亡者之林Ⅰ",
+      "en": "Forest of Dead Trees I"
+    },
+    "region": "冰原雪域"
+  },
+  "211041200": {
+    "id": 211041200,
+    "name": {
+      "zh": "亡者之林Ⅱ",
+      "en": "Forest of Dead Trees II"
+    },
+    "region": "冰原雪域"
+  },
+  "211041300": {
+    "id": 211041300,
+    "name": {
+      "zh": "亡者之林Ⅲ",
+      "en": "Forest of Dead Trees III"
+    },
+    "region": "冰原雪域"
+  },
+  "211041400": {
+    "id": 211041400,
+    "name": {
+      "zh": "亡者之林Ⅳ",
+      "en": "Forest of Dead Trees IV"
+    },
+    "region": "冰原雪域"
+  },
+  "211041500": {
+    "id": 211041500,
+    "name": {
+      "zh": "廢棄礦坑Ⅰ",
+      "en": "Dead Mine I"
+    },
+    "region": "冰原雪域"
+  },
+  "211041600": {
+    "id": 211041600,
+    "name": {
+      "zh": "廢棄礦坑Ⅱ",
+      "en": "Dead Mine II"
+    },
+    "region": "冰原雪域"
+  },
+  "211041700": {
+    "id": 211041700,
+    "name": {
+      "zh": "廢棄礦坑Ⅲ",
+      "en": "Dead Mine III"
+    },
+    "region": "冰原雪域"
+  },
+  "211041800": {
+    "id": 211041800,
+    "name": {
+      "zh": "廢棄礦坑Ⅳ",
+      "en": "Dead Mine IV"
+    },
+    "region": "冰原雪域"
+  },
+  "211041900": {
+    "id": 211041900,
+    "name": {
+      "zh": "火山通道",
+      "en": "The Passage"
+    },
+    "region": "冰原雪域"
+  },
+  "211042000": {
+    "id": 211042000,
+    "name": {
+      "zh": "試煉的洞穴1",
+      "en": "The Cave of Trial I"
+    },
+    "region": "冰原雪域"
+  },
+  "211042100": {
+    "id": 211042100,
+    "name": {
+      "zh": "試煉的洞穴2",
+      "en": "The Cave of Trial II"
+    },
+    "region": "冰原雪域"
+  },
+  "211042101": {
+    "id": 211042101,
+    "name": {
+      "zh": "洞穴裡的小洞穴",
+      "en": "Cave Within the Cave"
+    },
+    "region": "隱藏街道"
+  },
+  "211042200": {
+    "id": 211042200,
+    "name": {
+      "zh": "試煉的洞穴3",
+      "en": "The Cave of Trial III"
+    },
+    "region": "冰原雪域"
+  },
+  "211050000": {
+    "id": 211050000,
+    "name": {
+      "zh": "寒冰平原",
+      "en": "Icy Cold Field"
+    },
+    "region": "冰原雪域"
+  },
+  "220010300": {
+    "id": 220010300,
+    "name": {
+      "zh": "雲彩露臺<2>",
+      "en": "Cloud Terrace<2>"
+    },
+    "region": "玩具城"
+  },
+  "220010400": {
+    "id": 220010400,
+    "name": {
+      "zh": "雲彩露臺<1>",
+      "en": "Cloud Terrace<1>"
+    },
+    "region": "玩具城"
+  },
+  "220010500": {
+    "id": 220010500,
+    "name": {
+      "zh": "露臺中庭",
+      "en": "Terrace Hall"
+    },
+    "region": "玩具城"
+  },
+  "220010600": {
+    "id": 220010600,
+    "name": {
+      "zh": "天空露臺<1>",
+      "en": "Sky Terrace<1>"
+    },
+    "region": "玩具城"
+  },
+  "220010700": {
+    "id": 220010700,
+    "name": {
+      "zh": "天空露臺<2>",
+      "en": "Sky Terrace<2>"
+    },
+    "region": "玩具城"
+  },
+  "220020000": {
+    "id": 220020000,
+    "name": {
+      "zh": "玩具工廠<A工程1>",
+      "en": "Toy Factory Processing Zone"
+    },
+    "region": "玩具城"
+  },
+  "220020300": {
+    "id": 220020300,
+    "name": {
+      "zh": "玩具工廠<主工程A>",
+      "en": "Toy Factory <Main Process 1>"
+    },
+    "region": "玩具城"
+  },
+  "220020600": {
+    "id": 220020600,
+    "name": {
+      "zh": "玩具工廠<機械室>",
+      "en": "Toy Factory <Aparatus Room>"
+    },
+    "region": "玩具城"
+  },
+  "220030200": {
+    "id": 220030200,
+    "name": {
+      "zh": "玩具工廠<主工程B>",
+      "en": "Toy Factory <Main Process 2>"
+    },
+    "region": "玩具城"
+  },
+  "220040000": {
+    "id": 220040000,
+    "name": {
+      "zh": "時間之路<1>",
+      "en": "The Path of Time <1>"
+    },
+    "region": "玩具城"
+  },
+  "220040100": {
+    "id": 220040100,
+    "name": {
+      "zh": "時間之路<2>",
+      "en": "The Path of Time <2>"
+    },
+    "region": "玩具城"
+  },
+  "220040200": {
+    "id": 220040200,
+    "name": {
+      "zh": "時間分岔道",
+      "en": "Crossroad of Time"
+    },
+    "region": "玩具城"
+  },
+  "220040300": {
+    "id": 220040300,
+    "name": {
+      "zh": "時間之路<3>",
+      "en": "The Path of Time <3>"
+    },
+    "region": "玩具城"
+  },
+  "220040400": {
+    "id": 220040400,
+    "name": {
+      "zh": "時間之路<4>",
+      "en": "The Path of Time <4>"
+    },
+    "region": "玩具城"
+  },
+  "220050000": {
+    "id": 220050000,
+    "name": {
+      "zh": "遺失的時間<1>",
+      "en": "Lost Time <1>"
+    },
+    "region": "玩具城"
+  },
+  "220050100": {
+    "id": 220050100,
+    "name": {
+      "zh": "時間漩渦",
+      "en": "Whirlpool of Time"
+    },
+    "region": "玩具城"
+  },
+  "220050200": {
+    "id": 220050200,
+    "name": {
+      "zh": "遺失的時間<2>",
+      "en": "Lost Time <2>"
+    },
+    "region": "玩具城"
+  },
+  "220060000": {
+    "id": 220060000,
+    "name": {
+      "zh": "扭曲的時間之路<1>",
+      "en": "Warped Path of Time<1>"
+    },
+    "region": "玩具城"
+  },
+  "220060100": {
+    "id": 220060100,
+    "name": {
+      "zh": "扭曲的時間之路<2>",
+      "en": "Warped Path of Time<2>"
+    },
+    "region": "玩具城"
+  },
+  "220060200": {
+    "id": 220060200,
+    "name": {
+      "zh": "扭曲的時間之路<3>",
+      "en": "Warped Path of Time<3>"
+    },
+    "region": "玩具城"
+  },
+  "220060201": {
+    "id": 220060201,
+    "name": {
+      "zh": "彎曲的時間",
+      "en": "Unbalanced Time"
+    },
+    "region": "隱藏街道"
+  },
+  "220060300": {
+    "id": 220060300,
+    "name": {
+      "zh": "扭曲的時間之路<4>",
+      "en": "Warped Path of Time<4>"
+    },
+    "region": "玩具城"
+  },
+  "220060301": {
+    "id": 220060301,
+    "name": {
+      "zh": "糾結的時間",
+      "en": "Twisted Time"
+    },
+    "region": "隱藏街道"
+  },
+  "220060400": {
+    "id": 220060400,
+    "name": {
+      "zh": "扭曲的迴廊",
+      "en": "Warped Passage"
+    },
+    "region": "玩具城"
+  },
+  "220070000": {
+    "id": 220070000,
+    "name": {
+      "zh": "遺忘的時間之路<1>",
+      "en": "Forgotten Path of Time<1>"
+    },
+    "region": "玩具城"
+  },
+  "220070100": {
+    "id": 220070100,
+    "name": {
+      "zh": "遺忘的時間之路<2>",
+      "en": "Forgotten Path of Time<2>"
+    },
+    "region": "玩具城"
+  },
+  "220070200": {
+    "id": 220070200,
+    "name": {
+      "zh": "遺忘的時間之路<3>",
+      "en": "Forgotten Path of Time<3>"
+    },
+    "region": "玩具城"
+  },
+  "220070201": {
+    "id": 220070201,
+    "name": {
+      "zh": "毀壞的時間",
+      "en": "Lost Time"
+    },
+    "region": "隱藏街道"
+  },
+  "220070300": {
+    "id": 220070300,
+    "name": {
+      "zh": "遺忘的時間之路<4>",
+      "en": "Forgotten Path of Time<4>"
+    },
+    "region": "玩具城"
+  },
+  "220070301": {
+    "id": 220070301,
+    "name": {
+      "zh": "禁忌的時間",
+      "en": "Forbidden Time"
+    },
+    "region": "隱藏街道"
+  },
+  "220070400": {
+    "id": 220070400,
+    "name": {
+      "zh": "遺忘的迴廊",
+      "en": "Forgotten Passage"
+    },
+    "region": "玩具城"
+  },
+  "221020000": {
+    "id": 221020000,
+    "name": {
+      "zh": "愛奧斯塔1樓",
+      "en": "Eos Tower 1st Floor"
+    },
+    "region": "玩具城"
+  },
+  "221020100": {
+    "id": 221020100,
+    "name": {
+      "zh": "愛奧斯塔2樓",
+      "en": "Eos Tower 2nd Floor"
+    },
+    "region": "玩具城"
+  },
+  "221020300": {
+    "id": 221020300,
+    "name": {
+      "zh": "愛奧斯塔4樓",
+      "en": "Eos Tower 4th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221020700": {
+    "id": 221020700,
+    "name": {
+      "zh": "愛奧斯塔3樓",
+      "en": "Eos Tower 3rd Floor"
+    },
+    "region": "玩具城"
+  },
+  "221020701": {
+    "id": 221020701,
+    "name": {
+      "zh": "隱藏之塔",
+      "en": "Hidden Tower"
+    },
+    "region": "隱藏街道"
+  },
+  "221020800": {
+    "id": 221020800,
+    "name": {
+      "zh": "愛奧斯塔5樓",
+      "en": "Eos Tower 5th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221020900": {
+    "id": 221020900,
+    "name": {
+      "zh": "愛奧斯塔6樓",
+      "en": "Eos Tower 6th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021100": {
+    "id": 221021100,
+    "name": {
+      "zh": "愛奧斯塔20樓",
+      "en": "Eos Tower 20th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021200": {
+    "id": 221021200,
+    "name": {
+      "zh": "愛奧斯塔21樓",
+      "en": "Eos Tower 21st Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021300": {
+    "id": 221021300,
+    "name": {
+      "zh": "愛奧斯塔22樓",
+      "en": "Eos Tower 22nd Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021400": {
+    "id": 221021400,
+    "name": {
+      "zh": "愛奧斯塔23樓",
+      "en": "Eos Tower 23rd Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021500": {
+    "id": 221021500,
+    "name": {
+      "zh": "愛奧斯塔24樓",
+      "en": "Eos Tower 24th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021700": {
+    "id": 221021700,
+    "name": {
+      "zh": "愛奧斯塔56樓",
+      "en": "Eos Tower 56th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221021800": {
+    "id": 221021800,
+    "name": {
+      "zh": "愛奧斯塔57樓",
+      "en": "Eos Tower 57th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221022000": {
+    "id": 221022000,
+    "name": {
+      "zh": "愛奧斯塔59樓",
+      "en": "Eos Tower 59th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221022100": {
+    "id": 221022100,
+    "name": {
+      "zh": "愛奧斯塔58樓",
+      "en": "Eos Tower 58th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221022500": {
+    "id": 221022500,
+    "name": {
+      "zh": "愛奧斯塔95樓",
+      "en": "Eos Tower 95th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221022600": {
+    "id": 221022600,
+    "name": {
+      "zh": "愛奧斯塔96樓",
+      "en": "Eos Tower 96th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221022700": {
+    "id": 221022700,
+    "name": {
+      "zh": "愛奧斯塔97樓",
+      "en": "Eos Tower 97th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221023000": {
+    "id": 221023000,
+    "name": {
+      "zh": "愛奧斯塔98樓",
+      "en": "Eos Tower 98th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221023100": {
+    "id": 221023100,
+    "name": {
+      "zh": "愛奧斯塔99樓",
+      "en": "Eos Tower 99th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221023200": {
+    "id": 221023200,
+    "name": {
+      "zh": "愛奧斯塔100樓",
+      "en": "Eos Tower 100th Floor"
+    },
+    "region": "玩具城"
+  },
+  "221023401": {
+    "id": 221023401,
+    "name": {
+      "zh": "兔子鼓手隱身處",
+      "en": "Drummer Bunny's Lair"
+    },
+    "region": "玩具城"
+  },
+  "221030000": {
+    "id": 221030000,
+    "name": {
+      "zh": "危險地帶",
+      "en": "Off-Limits"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030100": {
+    "id": 221030100,
+    "name": {
+      "zh": "梅卡堤安草原",
+      "en": "Mecateon Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221030200": {
+    "id": 221030200,
+    "name": {
+      "zh": "奧特拉草原",
+      "en": "Ultra Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221030300": {
+    "id": 221030300,
+    "name": {
+      "zh": "洛斯威爾草原Ⅰ",
+      "en": "Boswell Field I"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030301": {
+    "id": 221030301,
+    "name": {
+      "zh": "馬堤安草原",
+      "en": "Mateon Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221030400": {
+    "id": 221030400,
+    "name": {
+      "zh": "洛斯威爾草原Ⅱ",
+      "en": "Boswell Field II"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030401": {
+    "id": 221030401,
+    "name": {
+      "zh": "培利堤安草原",
+      "en": "Plateon Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221030500": {
+    "id": 221030500,
+    "name": {
+      "zh": "洛斯威爾草原Ⅲ",
+      "en": "Boswell Field III"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030501": {
+    "id": 221030501,
+    "name": {
+      "zh": "澤塔草原",
+      "en": "Zeta Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221030510": {
+    "id": 221030510,
+    "name": {
+      "zh": "走廊 101",
+      "en": "Corridor 101"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030511": {
+    "id": 221030511,
+    "name": {
+      "zh": "走廊 102",
+      "en": "Corridor 102"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030512": {
+    "id": 221030512,
+    "name": {
+      "zh": "走廊 203",
+      "en": "Corridor 203"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030513": {
+    "id": 221030513,
+    "name": {
+      "zh": "走廊 302",
+      "en": "Corridor 302"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030514": {
+    "id": 221030514,
+    "name": {
+      "zh": "走廊 104",
+      "en": "Corridor 104"
+    },
+    "region": "隱藏街道"
+  },
+  "221030515": {
+    "id": 221030515,
+    "name": {
+      "zh": "走廊 304",
+      "en": "Corridor 304"
+    },
+    "region": "隱藏街道"
+  },
+  "221030600": {
+    "id": 221030600,
+    "name": {
+      "zh": "洛斯威爾草原Ⅳ",
+      "en": "Boswell Field IV"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030601": {
+    "id": 221030601,
+    "name": {
+      "zh": "堤安之地",
+      "en": "MT-09 Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221030610": {
+    "id": 221030610,
+    "name": {
+      "zh": "走廊 201",
+      "en": "Corridor 201"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030620": {
+    "id": 221030620,
+    "name": {
+      "zh": "走廊 202",
+      "en": "Corridor 202"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030630": {
+    "id": 221030630,
+    "name": {
+      "zh": "走廊 301",
+      "en": "Corridor 301"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030650": {
+    "id": 221030650,
+    "name": {
+      "zh": "走廊 103",
+      "en": "Corridor 103"
+    },
+    "region": "地球防衛本部"
+  },
+  "221030900": {
+    "id": 221030900,
+    "name": {
+      "zh": "主控室",
+      "en": "Control Room"
+    },
+    "region": "地球防衛本部"
+  },
+  "221040000": {
+    "id": 221040000,
+    "name": {
+      "zh": "克嵐草原Ⅰ",
+      "en": "Kulan Field I"
+    },
+    "region": "地球防衛本部"
+  },
+  "221040100": {
+    "id": 221040100,
+    "name": {
+      "zh": "克嵐草原Ⅱ",
+      "en": "Kulan Field II"
+    },
+    "region": "地球防衛本部"
+  },
+  "221040200": {
+    "id": 221040200,
+    "name": {
+      "zh": "克嵐草原Ⅲ",
+      "en": "Kulan Field III"
+    },
+    "region": "地球防衛本部"
+  },
+  "221040201": {
+    "id": 221040201,
+    "name": {
+      "zh": "巴那草原",
+      "en": "Barnard Field"
+    },
+    "region": "隱藏街道"
+  },
+  "221040300": {
+    "id": 221040300,
+    "name": {
+      "zh": "克嵐草原Ⅳ",
+      "en": "Kulan Field IV"
+    },
+    "region": "地球防衛本部"
+  },
+  "221040301": {
+    "id": 221040301,
+    "name": {
+      "zh": "克嵐草原Ⅴ",
+      "en": "Kulan Field V"
+    },
+    "region": "隱藏街道"
+  },
+  "221040400": {
+    "id": 221040400,
+    "name": {
+      "zh": "葛雷之谷",
+      "en": "Chief's Prairie"
+    },
+    "region": "隱藏街道"
+  },
+  "230010000": {
+    "id": 230010000,
+    "name": {
+      "zh": "海底出入口",
+      "en": "Ocean I.C"
+    },
+    "region": "水世界"
+  },
+  "230010001": {
+    "id": 230010001,
+    "name": {
+      "zh": "企鵝遊樂場",
+      "en": "Penguin's Playground"
+    },
+    "region": "隱藏街道"
+  },
+  "230010100": {
+    "id": 230010100,
+    "name": {
+      "zh": "水中峽谷",
+      "en": "Crystal Gorge"
+    },
+    "region": "水世界"
+  },
+  "230010200": {
+    "id": 230010200,
+    "name": {
+      "zh": "紅珊瑚之林",
+      "en": "Red Coral Forest"
+    },
+    "region": "水世界"
+  },
+  "230010300": {
+    "id": 230010300,
+    "name": {
+      "zh": "貝殼山丘",
+      "en": "Turban Shell Hill"
+    },
+    "region": "水世界"
+  },
+  "230010400": {
+    "id": 230010400,
+    "name": {
+      "zh": "西海岔道",
+      "en": "Forked Road: West Sea"
+    },
+    "region": "水世界"
+  },
+  "230020000": {
+    "id": 230020000,
+    "name": {
+      "zh": "東海岔道",
+      "en": "Forked Road: East Sea"
+    },
+    "region": "水世界"
+  },
+  "230020100": {
+    "id": 230020100,
+    "name": {
+      "zh": "海藻塔",
+      "en": "The Seaweed Tower"
+    },
+    "region": "水世界"
+  },
+  "230020101": {
+    "id": 230020101,
+    "name": {
+      "zh": "隱藏村落",
+      "en": "The Hidden Town"
+    },
+    "region": "隱藏街道"
+  },
+  "230020200": {
+    "id": 230020200,
+    "name": {
+      "zh": "沙塔休息地",
+      "en": "Sand Castle Playground"
+    },
+    "region": "水世界"
+  },
+  "230020300": {
+    "id": 230020300,
+    "name": {
+      "zh": "大魚峽谷",
+      "en": "Big Fish Valley"
+    },
+    "region": "水世界"
+  },
+  "230030000": {
+    "id": 230030000,
+    "name": {
+      "zh": "綠海藻之地",
+      "en": "Blue Seaweed Road"
+    },
+    "region": "水世界"
+  },
+  "230030001": {
+    "id": 230030001,
+    "name": {
+      "zh": "魚兒休息地",
+      "en": "Fish Resting Spot"
+    },
+    "region": "隱藏街道"
+  },
+  "230030100": {
+    "id": 230030100,
+    "name": {
+      "zh": "菇菇珊瑚地",
+      "en": "Mushroom Coral Hill"
+    },
+    "region": "水世界"
+  },
+  "230030200": {
+    "id": 230030200,
+    "name": {
+      "zh": "四角地帶",
+      "en": "The Sharp Unknown"
+    },
+    "region": "水世界"
+  },
+  "230040100": {
+    "id": 230040100,
+    "name": {
+      "zh": "深海峽谷 2",
+      "en": "Deep Sea Gorge II"
+    },
+    "region": "水世界"
+  },
+  "230040101": {
+    "id": 230040101,
+    "name": {
+      "zh": "骨骸魚洞穴",
+      "en": "Bone Fish Cave"
+    },
+    "region": "隱藏街道"
+  },
+  "230040200": {
+    "id": 230040200,
+    "name": {
+      "zh": "危險海峽1",
+      "en": "Dangerous Sea Gorge I"
+    },
+    "region": "水世界"
+  },
+  "230040201": {
+    "id": 230040201,
+    "name": {
+      "zh": "烏賊怪洞穴",
+      "en": "Squid Cave"
+    },
+    "region": "隱藏街道"
+  },
+  "230040300": {
+    "id": 230040300,
+    "name": {
+      "zh": "危險海峽2",
+      "en": "Dangerous Sea Gorge II"
+    },
+    "region": "水世界"
+  },
+  "230040302": {
+    "id": 230040302,
+    "name": {
+      "zh": "致命烏賊怪洞穴",
+      "en": "Risell Squid Cave"
+    },
+    "region": "隱藏街道"
+  },
+  "230040400": {
+    "id": 230040400,
+    "name": {
+      "zh": "受難船的墓地",
+      "en": "The Grave of a Wrecked Ship"
+    },
+    "region": "水世界"
+  },
+  "230040402": {
+    "id": 230040402,
+    "name": {
+      "zh": "鯊魚洞穴",
+      "en": "Shark Cave"
+    },
+    "region": "隱藏街道"
+  },
+  "230040403": {
+    "id": 230040403,
+    "name": {
+      "zh": "尖鼻鯊魚洞穴",
+      "en": "Cold Shark Cave"
+    },
+    "region": "隱藏街道"
+  },
+  "230040420": {
+    "id": 230040420,
+    "name": {
+      "zh": "海怒斯洞穴",
+      "en": "The Cave of Pianus"
+    },
+    "region": "水世界"
+  },
+  "240010000": {
+    "id": 240010000,
+    "name": {
+      "zh": "神木村西邊森林",
+      "en": "West Leafre Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240010100": {
+    "id": 240010100,
+    "name": {
+      "zh": "米納爾森林西邊境界",
+      "en": "Forest West Border"
+    },
+    "region": "米納爾森林"
+  },
+  "240010101": {
+    "id": 240010101,
+    "name": {
+      "zh": "毛毛森林",
+      "en": "Fuzzy Forest"
+    },
+    "region": "隱藏街道"
+  },
+  "240010200": {
+    "id": 240010200,
+    "name": {
+      "zh": "怪脾氣森林",
+      "en": "Cranky Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240010300": {
+    "id": 240010300,
+    "name": {
+      "zh": "尖峭的山丘",
+      "en": "Steep Hill"
+    },
+    "region": "米納爾森林"
+  },
+  "240010400": {
+    "id": 240010400,
+    "name": {
+      "zh": "森林岔道",
+      "en": "Forest Crossroad"
+    },
+    "region": "米納爾森林"
+  },
+  "240010500": {
+    "id": 240010500,
+    "name": {
+      "zh": "山羊峽谷",
+      "en": "Valley of the Antelope"
+    },
+    "region": "米納爾森林"
+  },
+  "240010600": {
+    "id": 240010600,
+    "name": {
+      "zh": "天空之巢Ⅱ",
+      "en": "Sky Nest II"
+    },
+    "region": "米納爾森林"
+  },
+  "240010700": {
+    "id": 240010700,
+    "name": {
+      "zh": "天空之巢Ⅰ",
+      "en": "Sky Nest I"
+    },
+    "region": "米納爾森林"
+  },
+  "240010800": {
+    "id": 240010800,
+    "name": {
+      "zh": "天空之巢路口",
+      "en": "Entrance to Sky Nest"
+    },
+    "region": "米納爾森林"
+  },
+  "240010900": {
+    "id": 240010900,
+    "name": {
+      "zh": "米納爾森林東邊境界",
+      "en": "Forest East Border"
+    },
+    "region": "米納爾森林"
+  },
+  "240010901": {
+    "id": 240010901,
+    "name": {
+      "zh": "戰火森林",
+      "en": "Beetle Forest"
+    },
+    "region": "隱藏街道"
+  },
+  "240011000": {
+    "id": 240011000,
+    "name": {
+      "zh": "神木村東邊森林",
+      "en": "East Leafre Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240020000": {
+    "id": 240020000,
+    "name": {
+      "zh": "火燄半人馬領土",
+      "en": "The Area of Red Kentaurus"
+    },
+    "region": "米納爾森林"
+  },
+  "240020100": {
+    "id": 240020100,
+    "name": {
+      "zh": "火燄死亡戰場",
+      "en": "Battlefield of Fire and Darkness"
+    },
+    "region": "米納爾森林"
+  },
+  "240020101": {
+    "id": 240020101,
+    "name": {
+      "zh": "格瑞芬多森林",
+      "en": "Griffey's Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240020200": {
+    "id": 240020200,
+    "name": {
+      "zh": "暗黑半人馬領土",
+      "en": "The Area of Black Kentaurus"
+    },
+    "region": "米納爾森林"
+  },
+  "240020201": {
+    "id": 240020201,
+    "name": {
+      "zh": "菁英半人馬領土",
+      "en": "The Area of Elite Kentaurus"
+    },
+    "region": "隱藏街道"
+  },
+  "240020300": {
+    "id": 240020300,
+    "name": {
+      "zh": "冰冷死亡戰場",
+      "en": "Battlefield of Water and Darkness"
+    },
+    "region": "米納爾森林"
+  },
+  "240020400": {
+    "id": 240020400,
+    "name": {
+      "zh": "寒冰半人馬領土",
+      "en": "The Area of Blue Kentaurus"
+    },
+    "region": "米納爾森林"
+  },
+  "240020401": {
+    "id": 240020401,
+    "name": {
+      "zh": "噴火龍棲息地",
+      "en": "Manon's Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240020500": {
+    "id": 240020500,
+    "name": {
+      "zh": "冰火戰場",
+      "en": "Battlefield of Fire and Water"
+    },
+    "region": "米納爾森林"
+  },
+  "240030000": {
+    "id": 240030000,
+    "name": {
+      "zh": "龍森林路口",
+      "en": "Entrance to Dragon Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240030100": {
+    "id": 240030100,
+    "name": {
+      "zh": "龍森林Ⅰ",
+      "en": "Dragon Forest I"
+    },
+    "region": "米納爾森林"
+  },
+  "240030101": {
+    "id": 240030101,
+    "name": {
+      "zh": "火焰森林",
+      "en": "The Burning Forest"
+    },
+    "region": "米納爾森林"
+  },
+  "240030102": {
+    "id": 240030102,
+    "name": {
+      "zh": "神秘森林",
+      "en": "The Forest That Disappeared"
+    },
+    "region": "米納爾森林"
+  },
+  "240030103": {
+    "id": 240030103,
+    "name": {
+      "zh": "隱密的龍之墓Ⅰ",
+      "en": "The Hidden Dragon Tomb I"
+    },
+    "region": "隱藏街道"
+  },
+  "240030104": {
+    "id": 240030104,
+    "name": {
+      "zh": "隱密的龍之墓Ⅱ",
+      "en": "The Hidden Dragon Tomb II"
+    },
+    "region": "隱藏街道"
+  },
+  "240030200": {
+    "id": 240030200,
+    "name": {
+      "zh": "龍森林Ⅱ",
+      "en": "Dragon Forest II"
+    },
+    "region": "米納爾森林"
+  },
+  "240030300": {
+    "id": 240030300,
+    "name": {
+      "zh": "龍森林Ⅲ",
+      "en": "Dragon Forest III"
+    },
+    "region": "米納爾森林"
+  }
+}

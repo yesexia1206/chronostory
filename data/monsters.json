@@ -1,0 +1,6549 @@
+{
+  "2000": {
+    "id": 2000,
+    "icon": "img_2000.png",
+    "name": {
+      "zh": "楓之島的箱子",
+      "en": "Amherst Crate"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "楓之島的箱子",
+      "amherst crate"
+    ]
+  },
+  "100100": {
+    "id": 100100,
+    "icon": "img_100100.png",
+    "name": {
+      "zh": "嫩寶",
+      "en": "Snail"
+    },
+    "level": 1,
+    "hp": 8,
+    "exp": 3,
+    "acc": 20,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "嫩寶",
+      "snail"
+    ],
+    "mapIds": [
+      104000100,
+      104000200,
+      40000,
+      40001,
+      40002,
+      50000,
+      1000004,
+      1010004,
+      101040000
+    ]
+  },
+  "100101": {
+    "id": 100101,
+    "icon": "img_100101.png",
+    "name": {
+      "zh": "藍寶",
+      "en": "Blue Snail"
+    },
+    "level": 2,
+    "hp": 15,
+    "exp": 4,
+    "acc": 20,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "藍寶",
+      "blue snail"
+    ],
+    "mapIds": [
+      104040000,
+      104020000,
+      102050000,
+      104000100,
+      104000300,
+      40001,
+      40002,
+      50000,
+      1000000,
+      1000004,
+      1010004,
+      102010000,
+      101040000
+    ]
+  },
+  "100110": {
+    "id": 100110,
+    "icon": "img_100100.png",
+    "name": {
+      "zh": "嫩寶",
+      "en": "Bob"
+    },
+    "level": 69,
+    "hp": 13000,
+    "exp": 1400,
+    "acc": 170,
+    "avoid": 20,
+    "isBoss": true,
+    "searchIndex": [
+      "嫩寶",
+      "bob"
+    ],
+    "mapIds": [
+      105090300
+    ]
+  },
+  "120100": {
+    "id": 120100,
+    "icon": "img_120100.png",
+    "name": {
+      "zh": "菇菇仔",
+      "en": "Shroom"
+    },
+    "level": 2,
+    "hp": 20,
+    "exp": 5,
+    "acc": 30,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "菇菇仔",
+      "shroom"
+    ],
+    "mapIds": [
+      104030000,
+      100010000,
+      104010000,
+      50000,
+      1000000,
+      1000002,
+      1000003
+    ]
+  },
+  "130100": {
+    "id": 130100,
+    "icon": "img_130100.png",
+    "name": {
+      "zh": "木妖",
+      "en": "Stump"
+    },
+    "level": 4,
+    "hp": 40,
+    "exp": 8,
+    "acc": 30,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "木妖",
+      "stump"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      101010000,
+      100050000,
+      100040000,
+      100030000,
+      104040001,
+      102040000,
+      102050000,
+      103010000,
+      50001,
+      1000001,
+      1020000,
+      102010000,
+      102020000,
+      102030000,
+      101040000,
+      101030400,
+      101030300,
+      101030200,
+      101030100,
+      101030000,
+      101030401
+    ]
+  },
+  "130101": {
+    "id": 130101,
+    "icon": "img_130101.png",
+    "name": {
+      "zh": "紅寶",
+      "en": "Red Snail"
+    },
+    "level": 4,
+    "hp": 45,
+    "exp": 8,
+    "acc": 35,
+    "avoid": 1,
+    "isBoss": false,
+    "searchIndex": [
+      "紅寶",
+      "red snail"
+    ],
+    "mapIds": [
+      104040000,
+      104020000,
+      104000100,
+      104000400,
+      104010000,
+      104010002,
+      40002,
+      50000,
+      50001,
+      1000004,
+      1010004,
+      1020000,
+      102010000,
+      102020000,
+      102030000,
+      101040000,
+      101030400,
+      101030300,
+      101030200
+    ]
+  },
+  "210100": {
+    "id": 210100,
+    "icon": "img_210100.png",
+    "name": {
+      "zh": "綠水靈",
+      "en": "Slime"
+    },
+    "level": 6,
+    "hp": 50,
+    "exp": 10,
+    "acc": 35,
+    "avoid": 1,
+    "isBoss": false,
+    "searchIndex": [
+      "綠水靈",
+      "slime"
+    ],
+    "buffType": [
+      "雷弱點"
+    ],
+    "mapIds": [
+      101010000,
+      101010100,
+      100050000,
+      100040100,
+      100040000,
+      101020002,
+      100040001,
+      104040000,
+      104020000,
+      100030000,
+      103020000,
+      103020100,
+      104010000,
+      1000006,
+      1020000
+    ]
+  },
+  "1072000": {
+    "id": 1072000,
+    "icon": "img_1072000.png",
+    "name": {
+      "zh": "墮落城市的植物",
+      "en": "Witchgrass"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "墮落城市的植物",
+      "witchgrass"
+    ]
+  },
+  "1110100": {
+    "id": 1110100,
+    "icon": "img_1110100.png",
+    "name": {
+      "zh": "綠菇菇",
+      "en": "Green Mushroom"
+    },
+    "level": 15,
+    "hp": 250,
+    "exp": 26,
+    "acc": 45,
+    "avoid": 5,
+    "isBoss": false,
+    "searchIndex": [
+      "綠菇菇",
+      "green mushroom"
+    ],
+    "buffType": [
+      "毒抵抗",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      100040100,
+      100040000,
+      101010102,
+      101020005,
+      100040003,
+      104040000,
+      104040001,
+      104040002,
+      102050000,
+      103020000,
+      103020100,
+      103020200,
+      50001,
+      1000001,
+      105030000,
+      105040000
+    ]
+  },
+  "1110101": {
+    "id": 1110101,
+    "icon": "img_1110101.png",
+    "name": {
+      "zh": "黑木妖",
+      "en": "Dark Stump"
+    },
+    "level": 10,
+    "hp": 250,
+    "exp": 18,
+    "acc": 42,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "黑木妖",
+      "dark stump"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      100040000,
+      101010101,
+      101020003,
+      100040002,
+      102010000,
+      102020000,
+      102030000,
+      101030400,
+      101030300,
+      101030200,
+      101030000,
+      101030402,
+      101030404
+    ]
+  },
+  "1120100": {
+    "id": 1120100,
+    "icon": "img_1120100.png",
+    "name": {
+      "zh": "三眼章魚",
+      "en": "Octopus"
+    },
+    "level": 12,
+    "hp": 200,
+    "exp": 24,
+    "acc": 40,
+    "avoid": 4,
+    "isBoss": false,
+    "searchIndex": [
+      "三眼章魚",
+      "octopus"
+    ],
+    "buffType": [
+      "雷弱點"
+    ],
+    "mapIds": [
+      101020004,
+      102040001,
+      102050000,
+      103010000,
+      103010001,
+      102030000
+    ]
+  },
+  "1130100": {
+    "id": 1130100,
+    "icon": "img_1130100.png",
+    "name": {
+      "zh": "斧木妖",
+      "en": "Axe Stump"
+    },
+    "level": 17,
+    "hp": 300,
+    "exp": 30,
+    "acc": 50,
+    "avoid": 5,
+    "isBoss": false,
+    "searchIndex": [
+      "斧木妖",
+      "axe stump"
+    ],
+    "mapIds": [
+      102040000,
+      102010000,
+      101030200,
+      101030100,
+      101030000,
+      106000000,
+      101030403,
+      101030404
+    ]
+  },
+  "1140100": {
+    "id": 1140100,
+    "icon": "img_1140100.png",
+    "name": {
+      "zh": "發芽木妖",
+      "en": "Ghost Stump"
+    },
+    "level": 19,
+    "hp": 330,
+    "exp": 33,
+    "acc": 55,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "發芽木妖",
+      "ghost stump"
+    ],
+    "mapIds": [
+      101030100,
+      101030101
+    ]
+  },
+  "1210100": {
+    "id": 1210100,
+    "icon": "img_1210100.png",
+    "name": {
+      "zh": "肥肥",
+      "en": "Pig"
+    },
+    "level": 7,
+    "hp": 75,
+    "exp": 15,
+    "acc": 40,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "肥肥",
+      "pig"
+    ],
+    "mapIds": [
+      104030000,
+      104020000,
+      100020000,
+      100030000,
+      100000002,
+      104040001,
+      104010000,
+      104010001,
+      1000005,
+      1020000
+    ]
+  },
+  "1210101": {
+    "id": 1210101,
+    "icon": "img_1210101.png",
+    "name": {
+      "zh": "緞帶肥肥",
+      "en": "Ribbon Pig"
+    },
+    "level": 10,
+    "hp": 120,
+    "exp": 20,
+    "acc": 40,
+    "avoid": 2,
+    "isBoss": false,
+    "searchIndex": [
+      "緞帶肥肥",
+      "ribbon pig"
+    ],
+    "mapIds": [
+      104030000,
+      104020000,
+      100030000,
+      104040001,
+      100020100,
+      104000300,
+      104010000,
+      104010001,
+      1020000,
+      1020001
+    ]
+  },
+  "1210102": {
+    "id": 1210102,
+    "icon": "img_1210102.png",
+    "name": {
+      "zh": "菇菇寶貝",
+      "en": "Orange Mushroom"
+    },
+    "level": 8,
+    "hp": 80,
+    "exp": 15,
+    "acc": 42,
+    "avoid": 1,
+    "isBoss": false,
+    "searchIndex": [
+      "菇菇寶貝",
+      "orange mushroom"
+    ],
+    "mapIds": [
+      104040000,
+      104030000,
+      100010000,
+      100000002,
+      104040002,
+      104030001,
+      102040000,
+      103010000,
+      103020000,
+      103020100,
+      103020200,
+      103030000,
+      104010000,
+      50001,
+      1000002
+    ]
+  },
+  "1210103": {
+    "id": 1210103,
+    "icon": "img_1210103.png",
+    "name": {
+      "zh": "藍水靈",
+      "en": "Bubbling"
+    },
+    "level": 15,
+    "hp": 240,
+    "exp": 26,
+    "acc": 80,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "藍水靈",
+      "bubbling"
+    ],
+    "mapIds": [
+      101020006,
+      103000101,
+      107000500,
+      105030000,
+      107000501
+    ]
+  },
+  "1210111": {
+    "id": 1210111,
+    "icon": "img_1210111.png",
+    "name": {
+      "zh": "奇怪的豬",
+      "en": "Alpha Ribbon Pig"
+    },
+    "level": 20,
+    "hp": 350,
+    "exp": 32,
+    "acc": 55,
+    "avoid": 8,
+    "isBoss": false,
+    "searchIndex": [
+      "奇怪的豬",
+      "alpha ribbon pig"
+    ],
+    "mapIds": [
+      1020001
+    ]
+  },
+  "2002011": {
+    "id": 2002011,
+    "icon": "img_2000.png",
+    "name": {
+      "zh": "天空之城的箱子",
+      "en": "Orbis Crate"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "天空之城的箱子",
+      "orbis crate"
+    ]
+  },
+  "2110200": {
+    "id": 2110200,
+    "icon": "img_2110200.png",
+    "name": {
+      "zh": "刺菇菇",
+      "en": "Horny Mushroom"
+    },
+    "level": 22,
+    "hp": 300,
+    "exp": 35,
+    "acc": 55,
+    "avoid": 7,
+    "isBoss": false,
+    "searchIndex": [
+      "刺菇菇",
+      "horny mushroom"
+    ],
+    "mapIds": [
+      100040000,
+      100040004,
+      106010000,
+      106010100,
+      103020200,
+      103030000,
+      103030100,
+      105040000,
+      105050000,
+      105050100,
+      105050200,
+      105050300
+    ]
+  },
+  "2130100": {
+    "id": 2130100,
+    "icon": "img_2130100.png",
+    "name": {
+      "zh": "黑斧木妖",
+      "en": "Dark Axe Stump"
+    },
+    "level": 22,
+    "hp": 550,
+    "exp": 38,
+    "acc": 45,
+    "avoid": 7,
+    "isBoss": false,
+    "searchIndex": [
+      "黑斧木妖",
+      "dark axe stump"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      102010000,
+      102020000,
+      101030000,
+      106000300,
+      106000000,
+      106000100,
+      106000200,
+      102020100,
+      102020200,
+      105030000
+    ]
+  },
+  "2130103": {
+    "id": 2130103,
+    "icon": "img_2130103.png",
+    "name": {
+      "zh": "青蛇",
+      "en": "Jr. Necki"
+    },
+    "level": 21,
+    "hp": 285,
+    "exp": 38,
+    "acc": 120,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "青蛇",
+      "jr. necki"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      107000000,
+      107000001,
+      107000100,
+      107000200,
+      107000400
+    ]
+  },
+  "2220000": {
+    "id": 2220000,
+    "icon": "img_2220000.png",
+    "name": {
+      "zh": "紅寶王",
+      "en": "Mano"
+    },
+    "level": 20,
+    "hp": 2000,
+    "exp": 120,
+    "acc": 60,
+    "avoid": 8,
+    "isBoss": true,
+    "searchIndex": [
+      "紅寶王",
+      "mano"
+    ],
+    "mapIds": [
+      104000400
+    ]
+  },
+  "2220100": {
+    "id": 2220100,
+    "icon": "img_2220100.png",
+    "name": {
+      "zh": "藍菇菇",
+      "en": "BlueMushroom"
+    },
+    "level": 20,
+    "hp": 350,
+    "exp": 32,
+    "acc": 55,
+    "avoid": 7,
+    "isBoss": false,
+    "searchIndex": [
+      "藍菇菇",
+      "bluemushroom"
+    ],
+    "mapIds": [
+      100030000,
+      106010000,
+      104040002,
+      100030001,
+      103030000,
+      103030100
+    ]
+  },
+  "2230100": {
+    "id": 2230100,
+    "icon": "img_2230100.png",
+    "name": {
+      "zh": "火獨眼獸",
+      "en": "Evil Eye"
+    },
+    "level": 27,
+    "hp": 720,
+    "exp": 50,
+    "acc": 60,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "火獨眼獸",
+      "evil eye"
+    ],
+    "mapIds": [
+      101020007,
+      105070000,
+      105070001,
+      105070100
+    ]
+  },
+  "2230101": {
+    "id": 2230101,
+    "icon": "img_2230101.png",
+    "name": {
+      "zh": "殭屍菇菇",
+      "en": "Zombie Mushroom"
+    },
+    "level": 24,
+    "hp": 500,
+    "exp": 42,
+    "acc": 50,
+    "avoid": 7,
+    "isBoss": false,
+    "searchIndex": [
+      "殭屍菇菇",
+      "zombie mushroom"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      105050100,
+      105050200,
+      105050300,
+      105060100,
+      105070000,
+      105070001,
+      105050101
+    ]
+  },
+  "2230102": {
+    "id": 2230102,
+    "icon": "img_2230102.png",
+    "name": {
+      "zh": "黑肥肥",
+      "en": "Wild Boar"
+    },
+    "level": 25,
+    "hp": 550,
+    "exp": 42,
+    "acc": 50,
+    "avoid": 8,
+    "isBoss": false,
+    "searchIndex": [
+      "黑肥肥",
+      "wild boar"
+    ],
+    "mapIds": [
+      102020000,
+      101040000,
+      101030100,
+      101030000,
+      106000000,
+      106000100,
+      102020100,
+      102020200,
+      101040001,
+      101030001
+    ]
+  },
+  "2230103": {
+    "id": 2230103,
+    "icon": "img_2230103.png",
+    "name": {
+      "zh": "黃蜘蛛",
+      "en": "Trixter"
+    },
+    "level": 23,
+    "hp": 450,
+    "exp": 42,
+    "acc": 93,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "黃蜘蛛",
+      "trixter"
+    ],
+    "buffType": [
+      "火抵抗",
+      "神聖弱點",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      221022600
+    ]
+  },
+  "2230104": {
+    "id": 2230104,
+    "icon": "img_2230104.png",
+    "name": {
+      "zh": "紅蜘蛛",
+      "en": "Green Trixter"
+    },
+    "level": 28,
+    "hp": 780,
+    "exp": 55,
+    "acc": 115,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "紅蜘蛛",
+      "green trixter"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      221022500
+    ]
+  },
+  "2230105": {
+    "id": 2230105,
+    "icon": "img_2230105.png",
+    "name": {
+      "zh": "綠海馬",
+      "en": "Seacle"
+    },
+    "level": 68,
+    "hp": 12000,
+    "exp": 300,
+    "acc": 135,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "綠海馬",
+      "seacle"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      230030000
+    ]
+  },
+  "2230106": {
+    "id": 2230106,
+    "icon": "img_2230106.png",
+    "name": {
+      "zh": "黃金海馬",
+      "en": "Cico"
+    },
+    "level": 73,
+    "hp": 15250,
+    "exp": 330,
+    "acc": 180,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "黃金海馬",
+      "cico"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      230030000,
+      230030001
+    ]
+  },
+  "2230107": {
+    "id": 2230107,
+    "icon": "img_2230107.png",
+    "name": {
+      "zh": "獨角尼莫",
+      "en": "Krappy"
+    },
+    "level": 78,
+    "hp": 24000,
+    "exp": 800,
+    "acc": 150,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "獨角尼莫",
+      "krappy"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      230030100,
+      230030200
+    ]
+  },
+  "2230108": {
+    "id": 2230108,
+    "icon": "img_2230108.png",
+    "name": {
+      "zh": "海膽",
+      "en": "Pinboom"
+    },
+    "level": 80,
+    "hp": 27000,
+    "exp": 860,
+    "acc": 140,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "海膽",
+      "pinboom"
+    ],
+    "buffType": [
+      "火抵抗"
+    ],
+    "mapIds": [
+      230030200
+    ]
+  },
+  "2230109": {
+    "id": 2230109,
+    "icon": "img_2230109.png",
+    "name": {
+      "zh": "泡泡魚",
+      "en": "Bubble Fish"
+    },
+    "level": 63,
+    "hp": 7000,
+    "exp": 240,
+    "acc": 130,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "泡泡魚",
+      "bubble fish"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷弱點",
+      "毒弱點"
+    ],
+    "mapIds": [
+      230020300
+    ]
+  },
+  "2230110": {
+    "id": 2230110,
+    "icon": "img_2230110.png",
+    "name": {
+      "zh": "木面怪人",
+      "en": "Wooden Mask"
+    },
+    "level": 23,
+    "hp": 500,
+    "exp": 42,
+    "acc": 55,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "木面怪人",
+      "wooden mask"
+    ],
+    "mapIds": [
+      101030101,
+      101030102,
+      101030103
+    ]
+  },
+  "2230111": {
+    "id": 2230111,
+    "icon": "img_2230111.png",
+    "name": {
+      "zh": "石面怪人",
+      "en": "Rocky Mask"
+    },
+    "level": 24,
+    "hp": 600,
+    "exp": 45,
+    "acc": 55,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "石面怪人",
+      "rocky mask"
+    ],
+    "mapIds": [
+      101030102,
+      101030103
+    ]
+  },
+  "2230113": {
+    "id": 2230113,
+    "icon": "img_2230113.png",
+    "name": {
+      "zh": "黑獨眼獸",
+      "en": "Dark Eye"
+    },
+    "level": 48,
+    "hp": 3000,
+    "exp": 160,
+    "acc": 150,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "黑獨眼獸",
+      "dark eye"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      105070400,
+      105090400
+    ]
+  },
+  "2230200": {
+    "id": 2230200,
+    "icon": "img_2230200.png",
+    "name": {
+      "zh": "花鯰魚",
+      "en": "Flower Fish"
+    },
+    "level": 58,
+    "hp": 5000,
+    "exp": 200,
+    "acc": 130,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "花鯰魚",
+      "flower fish"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "毒抵抗"
+    ],
+    "mapIds": [
+      230020200
+    ]
+  },
+  "2300100": {
+    "id": 2300100,
+    "icon": "img_2300100.png",
+    "name": {
+      "zh": "蝙蝠",
+      "en": "Stirge"
+    },
+    "level": 20,
+    "hp": 300,
+    "exp": 33,
+    "acc": 80,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "蝙蝠",
+      "stirge"
+    ],
+    "mapIds": [
+      103000102,
+      105050400
+    ]
+  },
+  "3000000": {
+    "id": 3000000,
+    "icon": "img_3000000.png",
+    "name": {
+      "zh": "石球",
+      "en": "Sentinel"
+    },
+    "level": 30,
+    "hp": 900,
+    "exp": 55,
+    "acc": 75,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "石球",
+      "sentinel"
+    ],
+    "buffType": [
+      "冰弱點",
+      "雷抵抗",
+      "神聖抵抗"
+    ],
+    "mapIds": [
+      200080700
+    ]
+  },
+  "3000005": {
+    "id": 3000005,
+    "icon": "img_3000005.png",
+    "name": {
+      "zh": "褐色發條熊",
+      "en": "Brown Teddy"
+    },
+    "level": 30,
+    "hp": 950,
+    "exp": 60,
+    "acc": 65,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "褐色發條熊",
+      "brown teddy"
+    ],
+    "mapIds": [
+      220010500
+    ]
+  },
+  "3000006": {
+    "id": 3000006,
+    "icon": "img_3000006.png",
+    "name": {
+      "zh": "活跳蝦",
+      "en": "Krip"
+    },
+    "level": 53,
+    "hp": 4200,
+    "exp": 165,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "活跳蝦",
+      "krip"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      230020100
+    ]
+  },
+  "3110100": {
+    "id": 3110100,
+    "icon": "img_3110100.png",
+    "name": {
+      "zh": "鱷魚",
+      "en": "Ligator"
+    },
+    "level": 32,
+    "hp": 1200,
+    "exp": 60,
+    "acc": 70,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "鱷魚",
+      "ligator"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      107000000,
+      107000100,
+      107000200
+    ]
+  },
+  "3110101": {
+    "id": 3110101,
+    "icon": "img_3110101.png",
+    "name": {
+      "zh": "粉紅發條熊",
+      "en": "Pink Teddy"
+    },
+    "level": 32,
+    "hp": 1050,
+    "exp": 65,
+    "acc": 80,
+    "avoid": 14,
+    "isBoss": false,
+    "searchIndex": [
+      "粉紅發條熊",
+      "pink teddy"
+    ],
+    "mapIds": [
+      220010400
+    ]
+  },
+  "3110102": {
+    "id": 3110102,
+    "icon": "img_3110102.png",
+    "name": {
+      "zh": "白色發條鼠",
+      "en": "Ratz"
+    },
+    "level": 32,
+    "hp": 1000,
+    "exp": 65,
+    "acc": 90,
+    "avoid": 13,
+    "isBoss": false,
+    "searchIndex": [
+      "白色發條鼠",
+      "ratz"
+    ],
+    "mapIds": [
+      221023100,
+      221023200
+    ]
+  },
+  "3210100": {
+    "id": 3210100,
+    "icon": "img_3210100.png",
+    "name": {
+      "zh": "火肥肥",
+      "en": "Fire Boar"
+    },
+    "level": 32,
+    "hp": 1000,
+    "exp": 60,
+    "acc": 60,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "火肥肥",
+      "fire boar"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      106000300,
+      106000000,
+      106000100,
+      106000200,
+      102020100,
+      102020200,
+      102020300,
+      106000101,
+      106000110
+    ]
+  },
+  "3210200": {
+    "id": 3210200,
+    "icon": "img_3210200.png",
+    "name": {
+      "zh": "幼紅獨角獅",
+      "en": "Jr. Cellion"
+    },
+    "level": 33,
+    "hp": 1100,
+    "exp": 65,
+    "acc": 95,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "幼紅獨角獅",
+      "jr. cellion"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      200010100,
+      200010110
+    ]
+  },
+  "3210201": {
+    "id": 3210201,
+    "icon": "img_3210201.png",
+    "name": {
+      "zh": "幼黃獨角獅",
+      "en": "Jr. Lioner"
+    },
+    "level": 33,
+    "hp": 1100,
+    "exp": 65,
+    "acc": 95,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "幼黃獨角獅",
+      "jr. lioner"
+    ],
+    "buffType": [
+      "冰弱點",
+      "雷抵抗"
+    ],
+    "mapIds": [
+      200010100,
+      200010120
+    ]
+  },
+  "3210202": {
+    "id": 3210202,
+    "icon": "img_3210202.png",
+    "name": {
+      "zh": "幼藍獨角獅",
+      "en": "Jr. Grupin"
+    },
+    "level": 33,
+    "hp": 1100,
+    "exp": 65,
+    "acc": 95,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "幼藍獨角獅",
+      "jr. grupin"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      200010100,
+      200010130
+    ]
+  },
+  "3210203": {
+    "id": 3210203,
+    "icon": "img_3210203.png",
+    "name": {
+      "zh": "發條貓熊",
+      "en": "Panda Teddy"
+    },
+    "level": 36,
+    "hp": 1400,
+    "exp": 77,
+    "acc": 100,
+    "avoid": 16,
+    "isBoss": false,
+    "searchIndex": [
+      "發條貓熊",
+      "panda teddy"
+    ],
+    "mapIds": [
+      220010600
+    ]
+  },
+  "3210204": {
+    "id": 3210204,
+    "icon": "img_3210204.png",
+    "name": {
+      "zh": "玩具鴨",
+      "en": "Roloduck"
+    },
+    "level": 34,
+    "hp": 1200,
+    "exp": 70,
+    "acc": 100,
+    "avoid": 16,
+    "isBoss": false,
+    "searchIndex": [
+      "玩具鴨",
+      "roloduck"
+    ],
+    "mapIds": [
+      220010300
+    ]
+  },
+  "3210205": {
+    "id": 3210205,
+    "icon": "img_3210205.png",
+    "name": {
+      "zh": "黑色發條鼠",
+      "en": "Black Ratz"
+    },
+    "level": 34,
+    "hp": 1150,
+    "exp": 70,
+    "acc": 105,
+    "avoid": 14,
+    "isBoss": false,
+    "searchIndex": [
+      "黑色發條鼠",
+      "black ratz"
+    ],
+    "mapIds": [
+      221022700,
+      221023000
+    ]
+  },
+  "3210206": {
+    "id": 3210206,
+    "icon": "img_3210206.png",
+    "name": {
+      "zh": "黃色戰鬥機",
+      "en": "Helly"
+    },
+    "level": 36,
+    "hp": 1350,
+    "exp": 77,
+    "acc": 130,
+    "avoid": 17,
+    "isBoss": false,
+    "searchIndex": [
+      "黃色戰鬥機",
+      "helly"
+    ],
+    "mapIds": [
+      221021700,
+      221021800,
+      221022100
+    ]
+  },
+  "3210207": {
+    "id": 3210207,
+    "icon": "img_3210207.png",
+    "name": {
+      "zh": "鼬鼠",
+      "en": "Tick"
+    },
+    "level": 34,
+    "hp": 1100,
+    "exp": 70,
+    "acc": 90,
+    "avoid": 14,
+    "isBoss": false,
+    "searchIndex": [
+      "鼬鼠",
+      "tick"
+    ],
+    "mapIds": [
+      220040200
+    ]
+  },
+  "3210208": {
+    "id": 3210208,
+    "icon": "img_3210208.png",
+    "name": {
+      "zh": "發條楓葉鼠",
+      "en": "Retz"
+    },
+    "level": 36,
+    "hp": 1400,
+    "exp": 78,
+    "acc": 100,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "發條楓葉鼠",
+      "retz"
+    ]
+  },
+  "3210450": {
+    "id": 3210450,
+    "icon": "img_3210450.png",
+    "name": {
+      "zh": "潛水企鵝王",
+      "en": "Scuba Pepe"
+    },
+    "level": 36,
+    "hp": 1430,
+    "exp": 80,
+    "acc": 100,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "潛水企鵝王",
+      "scuba pepe"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      230010000,
+      230010001,
+      200082300
+    ]
+  },
+  "3210800": {
+    "id": 3210800,
+    "icon": "img_3210800.png",
+    "name": {
+      "zh": "猴子",
+      "en": "Lupin"
+    },
+    "level": 37,
+    "hp": 1500,
+    "exp": 77,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "猴子",
+      "lupin"
+    ],
+    "mapIds": [
+      100040100,
+      100040110,
+      100040101,
+      100040103,
+      107000400,
+      107000401,
+      107000402,
+      102020200,
+      102020300,
+      107000500,
+      105030000,
+      105040200
+    ]
+  },
+  "3220000": {
+    "id": 3220000,
+    "icon": "img_3220000.png",
+    "name": {
+      "zh": "樹妖王",
+      "en": "Stumpy"
+    },
+    "level": 35,
+    "hp": 3500,
+    "exp": 205,
+    "acc": 80,
+    "avoid": 12,
+    "isBoss": true,
+    "searchIndex": [
+      "樹妖王",
+      "stumpy"
+    ],
+    "mapIds": [
+      101030404
+    ]
+  },
+  "3230100": {
+    "id": 3230100,
+    "icon": "img_3230100.png",
+    "name": {
+      "zh": "風獨眼獸",
+      "en": "Curse Eye"
+    },
+    "level": 35,
+    "hp": 1250,
+    "exp": 70,
+    "acc": 60,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "風獨眼獸",
+      "curse eye"
+    ],
+    "buffType": [
+      "毒抵抗",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      101020008,
+      105030000,
+      105070200,
+      105040301,
+      105040100,
+      105040200
+    ]
+  },
+  "3230101": {
+    "id": 3230101,
+    "icon": "img_3230101.png",
+    "name": {
+      "zh": "小幽靈",
+      "en": "Jr. Wraith"
+    },
+    "level": 35,
+    "hp": 1200,
+    "exp": 70,
+    "acc": 100,
+    "avoid": 17,
+    "isBoss": false,
+    "searchIndex": [
+      "小幽靈",
+      "jr. wraith"
+    ],
+    "buffType": [
+      "火弱點",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      103000104,
+      103000200
+    ]
+  },
+  "3230102": {
+    "id": 3230102,
+    "icon": "img_3230102.png",
+    "name": {
+      "zh": "紅螃蟹",
+      "en": "Lorang"
+    },
+    "level": 37,
+    "hp": 1950,
+    "exp": 80,
+    "acc": 85,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "紅螃蟹",
+      "lorang"
+    ],
+    "buffType": [
+      "雷弱點"
+    ],
+    "mapIds": [
+      104010000,
+      104010002
+    ]
+  },
+  "3230103": {
+    "id": 3230103,
+    "icon": "img_3230103.png",
+    "name": {
+      "zh": "機器章魚王",
+      "en": "King Bloctopus"
+    },
+    "level": 38,
+    "hp": 1850,
+    "exp": 85,
+    "acc": 140,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "機器章魚王",
+      "king bloctopus"
+    ],
+    "mapIds": [
+      221021300
+    ]
+  },
+  "3230104": {
+    "id": 3230104,
+    "icon": "img_3230104.png",
+    "name": {
+      "zh": "蒙面河豚",
+      "en": "Mask Fish"
+    },
+    "level": 48,
+    "hp": 3100,
+    "exp": 135,
+    "acc": 90,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "蒙面河豚",
+      "mask fish"
+    ],
+    "buffType": [
+      "火抵抗"
+    ],
+    "mapIds": [
+      230020000
+    ]
+  },
+  "3230200": {
+    "id": 3230200,
+    "icon": "img_3230200.png",
+    "name": {
+      "zh": "星光精靈",
+      "en": "Star Pixie"
+    },
+    "level": 35,
+    "hp": 1300,
+    "exp": 72,
+    "acc": 145,
+    "avoid": 21,
+    "isBoss": false,
+    "searchIndex": [
+      "星光精靈",
+      "star pixie"
+    ],
+    "buffType": [
+      "神聖抵抗"
+    ],
+    "mapIds": [
+      200010000,
+      200020000
+    ]
+  },
+  "3230300": {
+    "id": 3230300,
+    "icon": "img_3230300.png",
+    "name": {
+      "zh": "幼魔精靈",
+      "en": "Jr. Boogie"
+    },
+    "level": 35,
+    "hp": 1700,
+    "exp": 150,
+    "acc": 150,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "幼魔精靈",
+      "jr. boogie"
+    ],
+    "mapIds": [
+      101040002,
+      105060100
+    ]
+  },
+  "3230302": {
+    "id": 3230302,
+    "icon": "img_3230302.png",
+    "name": {
+      "zh": "機器章魚",
+      "en": "Bloctopus"
+    },
+    "level": 35,
+    "hp": 1300,
+    "exp": 72,
+    "acc": 125,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "機器章魚",
+      "bloctopus"
+    ],
+    "mapIds": [
+      221021300,
+      221021400
+    ]
+  },
+  "3230303": {
+    "id": 3230303,
+    "icon": "img_3230303.png",
+    "name": {
+      "zh": "粉紅色戰鬥機",
+      "en": "Propelly"
+    },
+    "level": 37,
+    "hp": 1700,
+    "exp": 82,
+    "acc": 140,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "粉紅色戰鬥機",
+      "propelly"
+    ],
+    "mapIds": [
+      221021500,
+      221021700
+    ]
+  },
+  "3230304": {
+    "id": 3230304,
+    "icon": "img_3230304.png",
+    "name": {
+      "zh": "藍色戰鬥機",
+      "en": "Planey"
+    },
+    "level": 38,
+    "hp": 1830,
+    "exp": 85,
+    "acc": 150,
+    "avoid": 19,
+    "isBoss": false,
+    "searchIndex": [
+      "藍色戰鬥機",
+      "planey"
+    ],
+    "mapIds": [
+      221020900,
+      221021100,
+      221021200
+    ]
+  },
+  "3230305": {
+    "id": 3230305,
+    "icon": "img_3230305.png",
+    "name": {
+      "zh": "木馬士兵",
+      "en": "Toy Trojan"
+    },
+    "level": 39,
+    "hp": 1920,
+    "exp": 92,
+    "acc": 135,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "木馬士兵",
+      "toy trojan"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      220010700
+    ]
+  },
+  "3230306": {
+    "id": 3230306,
+    "icon": "img_3230306.png",
+    "name": {
+      "zh": "妖魔",
+      "en": "Chronos"
+    },
+    "level": 37,
+    "hp": 1750,
+    "exp": 82,
+    "acc": 135,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "妖魔",
+      "chronos"
+    ],
+    "buffType": [
+      "治療弱點"
+    ],
+    "mapIds": [
+      220040100,
+      220040300
+    ]
+  },
+  "3230307": {
+    "id": 3230307,
+    "icon": "img_3230307.png",
+    "name": {
+      "zh": "邱布",
+      "en": "Chirppy"
+    },
+    "level": 31,
+    "hp": 800,
+    "exp": 62,
+    "acc": 70,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "邱布",
+      "chirppy"
+    ],
+    "mapIds": [
+      221022100,
+      221022000
+    ]
+  },
+  "3230308": {
+    "id": 3230308,
+    "icon": "img_3230308.png",
+    "name": {
+      "zh": "特威德",
+      "en": "Tweeter"
+    },
+    "level": 39,
+    "hp": 1900,
+    "exp": 85,
+    "acc": 135,
+    "avoid": 17,
+    "isBoss": false,
+    "searchIndex": [
+      "特威德",
+      "tweeter"
+    ],
+    "mapIds": [
+      221020800,
+      221020900
+    ]
+  },
+  "3230400": {
+    "id": 3230400,
+    "icon": "img_3230400.png",
+    "name": {
+      "zh": "兔子鼓手",
+      "en": "Drumming Bunny"
+    },
+    "level": 30,
+    "hp": 950,
+    "exp": 60,
+    "acc": 65,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "兔子鼓手",
+      "drumming bunny"
+    ],
+    "mapIds": [
+      221023401
+    ]
+  },
+  "3230405": {
+    "id": 3230405,
+    "icon": "img_3230405.png",
+    "name": {
+      "zh": "粉紅小海豹",
+      "en": "Jr. Seal"
+    },
+    "level": 38,
+    "hp": 1850,
+    "exp": 85,
+    "acc": 130,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "粉紅小海豹",
+      "jr. seal"
+    ],
+    "buffType": [
+      "火抵抗"
+    ],
+    "mapIds": [
+      230010000
+    ]
+  },
+  "4130100": {
+    "id": 4130100,
+    "icon": "img_4130100.png",
+    "name": {
+      "zh": "土龍",
+      "en": "Copper Drake"
+    },
+    "level": 45,
+    "hp": 2700,
+    "exp": 105,
+    "acc": 70,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "土龍",
+      "copper drake"
+    ],
+    "mapIds": [
+      106000000,
+      101030404,
+      101030405,
+      101030406,
+      106000001
+    ]
+  },
+  "4130102": {
+    "id": 4130102,
+    "icon": "img_4130102.png",
+    "name": {
+      "zh": "黑食人花",
+      "en": "Dark Nependeath"
+    },
+    "level": 47,
+    "hp": 2700,
+    "exp": 115,
+    "acc": 165,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "黑食人花",
+      "dark nependeath"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      200060000,
+      200040001
+    ]
+  },
+  "4130103": {
+    "id": 4130103,
+    "icon": "img_4130103.png",
+    "name": {
+      "zh": "泥人領導者",
+      "en": "Rombot"
+    },
+    "level": 47,
+    "hp": 11000,
+    "exp": 720,
+    "acc": 135,
+    "avoid": 16,
+    "isBoss": true,
+    "searchIndex": [
+      "泥人領導者",
+      "rombot"
+    ],
+    "mapIds": [
+      221020701
+    ]
+  },
+  "4220000": {
+    "id": 4220000,
+    "icon": "img_4220000.png",
+    "name": {
+      "zh": "火蚌殼",
+      "en": "Seruf"
+    },
+    "level": 70,
+    "hp": 60000,
+    "exp": 3000,
+    "acc": 200,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "火蚌殼",
+      "seruf"
+    ],
+    "mapIds": [
+      230020101,
+      230030001
+    ]
+  },
+  "4230100": {
+    "id": 4230100,
+    "icon": "img_4230100.png",
+    "name": {
+      "zh": "冰獨眼獸",
+      "en": "Cold Eye"
+    },
+    "level": 40,
+    "hp": 2000,
+    "exp": 85,
+    "acc": 70,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "冰獨眼獸",
+      "cold eye"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "免疫冰凍狀態免疫"
+    ],
+    "mapIds": [
+      101020009,
+      105070300,
+      105090000,
+      105090100,
+      105040302,
+      105090300
+    ]
+  },
+  "4230101": {
+    "id": 4230101,
+    "icon": "img_4230101.png",
+    "name": {
+      "zh": "天使猴",
+      "en": "Zombie Lupin"
+    },
+    "level": 40,
+    "hp": 1800,
+    "exp": 90,
+    "acc": 110,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "天使猴",
+      "zombie lupin"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      100040101,
+      100040103,
+      107000402,
+      107000403
+    ]
+  },
+  "4230102": {
+    "id": 4230102,
+    "icon": "img_4230102.png",
+    "name": {
+      "zh": "大幽靈",
+      "en": "Wraith"
+    },
+    "level": 48,
+    "hp": 2800,
+    "exp": 120,
+    "acc": 130,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "大幽靈",
+      "wraith"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      103000105,
+      103000201
+    ]
+  },
+  "4230103": {
+    "id": 4230103,
+    "icon": "img_4230103.png",
+    "name": {
+      "zh": "鋼之肥肥",
+      "en": "Iron Hog"
+    },
+    "level": 42,
+    "hp": 2200,
+    "exp": 99,
+    "acc": 100,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "鋼之肥肥",
+      "iron hog"
+    ],
+    "mapIds": [
+      100000002,
+      100000003,
+      100000004,
+      100000005,
+      103020000,
+      103020100,
+      103020200,
+      103030100,
+      103030200,
+      104010001
+    ]
+  },
+  "4230104": {
+    "id": 4230104,
+    "icon": "img_4230104.png",
+    "name": {
+      "zh": "青螃蟹",
+      "en": "Clang"
+    },
+    "level": 48,
+    "hp": 3000,
+    "exp": 128,
+    "acc": 150,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "青螃蟹",
+      "clang"
+    ],
+    "buffType": [
+      "雷弱點"
+    ],
+    "mapIds": [
+      107000400,
+      104010002
+    ]
+  },
+  "4230105": {
+    "id": 4230105,
+    "icon": "img_4230105.png",
+    "name": {
+      "zh": "食人花",
+      "en": "Nependeath"
+    },
+    "level": 42,
+    "hp": 2100,
+    "exp": 99,
+    "acc": 150,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "食人花",
+      "nependeath"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      200030000,
+      200040001
+    ]
+  },
+  "4230106": {
+    "id": 4230106,
+    "icon": "img_4230106.png",
+    "name": {
+      "zh": "月光精靈",
+      "en": "Lunar Pixie"
+    },
+    "level": 45,
+    "hp": 2500,
+    "exp": 105,
+    "acc": 165,
+    "avoid": 24,
+    "isBoss": false,
+    "searchIndex": [
+      "月光精靈",
+      "lunar pixie"
+    ],
+    "mapIds": [
+      200020000,
+      200040000,
+      200050000
+    ]
+  },
+  "4230107": {
+    "id": 4230107,
+    "icon": "img_4230107.png",
+    "name": {
+      "zh": "獨眼蝙蝠",
+      "en": "Flyeye"
+    },
+    "level": 41,
+    "hp": 1600,
+    "exp": 95,
+    "acc": 160,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "獨眼蝙蝠",
+      "flyeye"
+    ],
+    "mapIds": [
+      211041500,
+      211041600,
+      211041700,
+      211041800,
+      211041900
+    ]
+  },
+  "4230108": {
+    "id": 4230108,
+    "icon": "img_4230108.png",
+    "name": {
+      "zh": "小獵犬",
+      "en": "Jr. Cerebes"
+    },
+    "level": 43,
+    "hp": 2300,
+    "exp": 102,
+    "acc": 155,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "小獵犬",
+      "jr. cerebes"
+    ],
+    "mapIds": [
+      211042000
+    ]
+  },
+  "4230109": {
+    "id": 4230109,
+    "icon": "img_4230109.png",
+    "name": {
+      "zh": "積木泥人",
+      "en": "Block Golem"
+    },
+    "level": 42,
+    "hp": 2400,
+    "exp": 102,
+    "acc": 95,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "積木泥人",
+      "block golem"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "雷抵抗"
+    ],
+    "mapIds": [
+      221020700,
+      221020300,
+      221020701
+    ]
+  },
+  "4230110": {
+    "id": 4230110,
+    "icon": "img_4230110.png",
+    "name": {
+      "zh": "積木泥人王",
+      "en": "King Block Golem"
+    },
+    "level": 45,
+    "hp": 2600,
+    "exp": 110,
+    "acc": 105,
+    "avoid": 14,
+    "isBoss": false,
+    "searchIndex": [
+      "積木泥人王",
+      "king block golem"
+    ],
+    "mapIds": [
+      221020000,
+      221020100,
+      221020700,
+      221020701
+    ]
+  },
+  "4230111": {
+    "id": 4230111,
+    "icon": "img_4230111.png",
+    "name": {
+      "zh": "藍色機器人",
+      "en": "Robo"
+    },
+    "level": 41,
+    "hp": 2000,
+    "exp": 99,
+    "acc": 105,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "藍色機器人",
+      "robo"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      220020000,
+      220020300,
+      220020600
+    ]
+  },
+  "4230112": {
+    "id": 4230112,
+    "icon": "img_4230112.png",
+    "name": {
+      "zh": "紅色機器人",
+      "en": "Master Robo"
+    },
+    "level": 44,
+    "hp": 2450,
+    "exp": 105,
+    "acc": 115,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "紅色機器人",
+      "master robo"
+    ],
+    "mapIds": [
+      220020000,
+      220020600,
+      220030200
+    ]
+  },
+  "4230113": {
+    "id": 4230113,
+    "icon": "img_4230113.png",
+    "name": {
+      "zh": "鼬鼠鬧鐘",
+      "en": "Tick-Tock"
+    },
+    "level": 40,
+    "hp": 1900,
+    "exp": 95,
+    "acc": 115,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "鼬鼠鬧鐘",
+      "tick-tock"
+    ],
+    "mapIds": [
+      220050100
+    ]
+  },
+  "4230114": {
+    "id": 4230114,
+    "icon": "img_4230114.png",
+    "name": {
+      "zh": "進化妖魔",
+      "en": "Platoon Chronos"
+    },
+    "level": 41,
+    "hp": 2050,
+    "exp": 99,
+    "acc": 145,
+    "avoid": 22,
+    "isBoss": false,
+    "searchIndex": [
+      "進化妖魔",
+      "platoon chronos"
+    ],
+    "buffType": [
+      "治療弱點"
+    ],
+    "mapIds": [
+      220040000,
+      220050000
+    ]
+  },
+  "4230115": {
+    "id": 4230115,
+    "icon": "img_4230115.png",
+    "name": {
+      "zh": "妖魔隊長",
+      "en": "Master Chronos"
+    },
+    "level": 46,
+    "hp": 2600,
+    "exp": 115,
+    "acc": 155,
+    "avoid": 24,
+    "isBoss": false,
+    "searchIndex": [
+      "妖魔隊長",
+      "master chronos"
+    ],
+    "buffType": [
+      "治療弱點"
+    ],
+    "mapIds": [
+      220040400,
+      220050200
+    ]
+  },
+  "4230116": {
+    "id": 4230116,
+    "icon": "img_4230116.png",
+    "name": {
+      "zh": "葛雷族人",
+      "en": "Barnard Gray"
+    },
+    "level": 92,
+    "hp": 47000,
+    "exp": 1920,
+    "acc": 197,
+    "avoid": 35,
+    "isBoss": false,
+    "searchIndex": [
+      "葛雷族人",
+      "barnard gray"
+    ],
+    "mapIds": [
+      221030000,
+      221040000,
+      221040201
+    ]
+  },
+  "4230117": {
+    "id": 4230117,
+    "icon": "img_4230117.png",
+    "name": {
+      "zh": "葛雷士兵",
+      "en": "Zeta Gray"
+    },
+    "level": 94,
+    "hp": 52000,
+    "exp": 2250,
+    "acc": 190,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "葛雷士兵",
+      "zeta gray"
+    ],
+    "mapIds": [
+      221030501,
+      221040100
+    ]
+  },
+  "4230118": {
+    "id": 4230118,
+    "icon": "img_4230118.png",
+    "name": {
+      "zh": "葛雷隊長",
+      "en": "Ultra Gray"
+    },
+    "level": 96,
+    "hp": 55000,
+    "exp": 2500,
+    "acc": 205,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "葛雷隊長",
+      "ultra gray"
+    ],
+    "mapIds": [
+      221030200,
+      221040200
+    ]
+  },
+  "4230119": {
+    "id": 4230119,
+    "icon": "img_4230119.png",
+    "name": {
+      "zh": "馬堤安",
+      "en": "Mateon"
+    },
+    "level": 80,
+    "hp": 28000,
+    "exp": 910,
+    "acc": 160,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "馬堤安",
+      "mateon"
+    ],
+    "mapIds": [
+      221030000,
+      221030300,
+      221030301
+    ]
+  },
+  "4230120": {
+    "id": 4230120,
+    "icon": "img_4230120.png",
+    "name": {
+      "zh": "培利堤安",
+      "en": "Plateon"
+    },
+    "level": 85,
+    "hp": 31000,
+    "exp": 1200,
+    "acc": 165,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "培利堤安",
+      "plateon"
+    ],
+    "mapIds": [
+      221030400,
+      221030401
+    ]
+  },
+  "4230121": {
+    "id": 4230121,
+    "icon": "img_4230121.png",
+    "name": {
+      "zh": "梅卡堤安",
+      "en": "Mecateon"
+    },
+    "level": 90,
+    "hp": 46000,
+    "exp": 1860,
+    "acc": 190,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "梅卡堤安",
+      "mecateon"
+    ],
+    "mapIds": [
+      221030100,
+      221030500
+    ]
+  },
+  "4230123": {
+    "id": 4230123,
+    "icon": "img_4230123.png",
+    "name": {
+      "zh": "長牙海豹",
+      "en": "Sparker"
+    },
+    "level": 43,
+    "hp": 2400,
+    "exp": 103,
+    "acc": 160,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "長牙海豹",
+      "sparker"
+    ],
+    "buffType": [
+      "冰抵抗",
+      "雷抵抗"
+    ],
+    "mapIds": [
+      230010400
+    ]
+  },
+  "4230124": {
+    "id": 4230124,
+    "icon": "img_4230124.png",
+    "name": {
+      "zh": "短牙海豹",
+      "en": "Freezer"
+    },
+    "level": 42,
+    "hp": 2300,
+    "exp": 102,
+    "acc": 170,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "短牙海豹",
+      "freezer"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      230010300
+    ]
+  },
+  "4230125": {
+    "id": 4230125,
+    "icon": "img_4230125.png",
+    "name": {
+      "zh": "骷髏犬",
+      "en": "Skeledog"
+    },
+    "level": 44,
+    "hp": 2450,
+    "exp": 107,
+    "acc": 120,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "骷髏犬",
+      "skeledog"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      101030105,
+      101030106
+    ]
+  },
+  "4230126": {
+    "id": 4230126,
+    "icon": "img_4230126.png",
+    "name": {
+      "zh": "木乃伊犬",
+      "en": "Mummydog"
+    },
+    "level": 47,
+    "hp": 2750,
+    "exp": 117,
+    "acc": 130,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "木乃伊犬",
+      "mummydog"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      101030105,
+      101030106,
+      101030107
+    ]
+  },
+  "4230131": {
+    "id": 4230131,
+    "icon": "img_4230131.png",
+    "name": {
+      "zh": "新葛雷白",
+      "en": "Gray Commuter Saucer"
+    },
+    "level": 102,
+    "hp": 58500,
+    "exp": 3100,
+    "acc": 205,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "新葛雷白",
+      "gray commuter saucer"
+    ],
+    "mapIds": [
+      221030510,
+      221030514,
+      221030511
+    ]
+  },
+  "4230132": {
+    "id": 4230132,
+    "icon": "img_4230132.png",
+    "name": {
+      "zh": "新葛雷黑",
+      "en": "Gray Luxury Saucer"
+    },
+    "level": 104,
+    "hp": 67000,
+    "exp": 3700,
+    "acc": 205,
+    "avoid": 40,
+    "isBoss": false,
+    "searchIndex": [
+      "新葛雷黑",
+      "gray luxury saucer"
+    ],
+    "mapIds": [
+      221030514,
+      221030610,
+      221030650
+    ]
+  },
+  "4230137": {
+    "id": 4230137,
+    "icon": "img_4230137.png",
+    "name": {
+      "zh": "無人機白",
+      "en": "White Alien Drone"
+    },
+    "level": 108,
+    "hp": 72000,
+    "exp": 4000,
+    "acc": 205,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "無人機白",
+      "white alien drone"
+    ],
+    "mapIds": [
+      221030512,
+      221030515,
+      221030620
+    ]
+  },
+  "4230138": {
+    "id": 4230138,
+    "icon": "img_4230138.png",
+    "name": {
+      "zh": "無人機黑",
+      "en": "Black Alien Drone"
+    },
+    "level": 110,
+    "hp": 80000,
+    "exp": 4450,
+    "acc": 210,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "無人機黑",
+      "black alien drone"
+    ],
+    "mapIds": [
+      221030513,
+      221030515,
+      221030630
+    ]
+  },
+  "4230200": {
+    "id": 4230200,
+    "icon": "img_4230200.png",
+    "name": {
+      "zh": "河豚",
+      "en": "Poopa"
+    },
+    "level": 40,
+    "hp": 1900,
+    "exp": 95,
+    "acc": 150,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "河豚",
+      "poopa"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      230010100
+    ]
+  },
+  "4230201": {
+    "id": 4230201,
+    "icon": "img_4230201.png",
+    "name": {
+      "zh": "毒河豚",
+      "en": "Poison Poopa"
+    },
+    "level": 40,
+    "hp": 1910,
+    "exp": 97,
+    "acc": 150,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "毒河豚",
+      "poison poopa"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒抵抗"
+    ],
+    "mapIds": [
+      230010200
+    ]
+  },
+  "4230300": {
+    "id": 4230300,
+    "icon": "img_4230300.png",
+    "name": {
+      "zh": "月妙",
+      "en": "Moon Bunny"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "月妙",
+      "moon bunny"
+    ]
+  },
+  "4230400": {
+    "id": 4230400,
+    "icon": "img_4230400.png",
+    "name": {
+      "zh": "鋼之黑肥肥",
+      "en": "Iron Boar"
+    },
+    "level": 45,
+    "hp": 2650,
+    "exp": 115,
+    "acc": 195,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "鋼之黑肥肥",
+      "iron boar"
+    ],
+    "mapIds": [
+      106000300,
+      106000200,
+      101040003,
+      106000110,
+      106000120
+    ]
+  },
+  "4240000": {
+    "id": 4240000,
+    "icon": "img_4240000.png",
+    "name": {
+      "zh": "葛雷元老",
+      "en": "Chief Gray"
+    },
+    "level": 100,
+    "hp": 115000,
+    "exp": 6000,
+    "acc": 230,
+    "avoid": 39,
+    "isBoss": false,
+    "searchIndex": [
+      "葛雷元老",
+      "chief gray"
+    ],
+    "mapIds": [
+      221040300,
+      221040400
+    ]
+  },
+  "5090000": {
+    "id": 5090000,
+    "icon": "img_5090000.png",
+    "name": {
+      "zh": "冥界幽靈",
+      "en": "Shade"
+    },
+    "level": 56,
+    "hp": 25000,
+    "exp": 1250,
+    "acc": 130,
+    "avoid": 20,
+    "isBoss": true,
+    "searchIndex": [
+      "冥界幽靈",
+      "shade"
+    ],
+    "buffType": [
+      "治療弱點"
+    ],
+    "mapIds": [
+      103000105
+    ]
+  },
+  "5100000": {
+    "id": 5100000,
+    "icon": "img_5100000.png",
+    "name": {
+      "zh": "小雪球",
+      "en": "Jr. Yeti"
+    },
+    "level": 50,
+    "hp": 3700,
+    "exp": 135,
+    "acc": 120,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "小雪球",
+      "jr. yeti"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211010000
+    ]
+  },
+  "5100001": {
+    "id": 5100001,
+    "icon": "img_5100000.png",
+    "name": {
+      "zh": "小雪球",
+      "en": "Transforming Jr. Yeti"
+    },
+    "level": 50,
+    "hp": 3700,
+    "exp": 0,
+    "acc": 120,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "小雪球",
+      "transforming jr. yeti"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211030001
+    ]
+  },
+  "5100002": {
+    "id": 5100002,
+    "icon": "img_5100002.png",
+    "name": {
+      "zh": "火精靈",
+      "en": "Firebomb"
+    },
+    "level": 51,
+    "hp": 3600,
+    "exp": 142,
+    "acc": 155,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "火精靈",
+      "firebomb"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      211042000
+    ]
+  },
+  "5100003": {
+    "id": 5100003,
+    "icon": "img_5100003.png",
+    "name": {
+      "zh": "小虎",
+      "en": "Hodori"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "小虎",
+      "hodori"
+    ]
+  },
+  "5100004": {
+    "id": 5100004,
+    "icon": "img_5100004.png",
+    "name": {
+      "zh": "三尾狐",
+      "en": "Samiho"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "三尾狐",
+      "samiho"
+    ]
+  },
+  "5100005": {
+    "id": 5100005,
+    "icon": "img_5100005.png",
+    "name": {
+      "zh": "虎傑",
+      "en": "Hogul"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "虎傑",
+      "hogul"
+    ]
+  },
+  "5120000": {
+    "id": 5120000,
+    "icon": "img_5120000.png",
+    "name": {
+      "zh": "日光精靈",
+      "en": "Luster Pixie"
+    },
+    "level": 52,
+    "hp": 4000,
+    "exp": 155,
+    "acc": 130,
+    "avoid": 22,
+    "isBoss": false,
+    "searchIndex": [
+      "日光精靈",
+      "luster pixie"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰抵抗",
+      "雷抵抗",
+      "神聖抵抗"
+    ],
+    "mapIds": [
+      200050000,
+      200070000
+    ]
+  },
+  "5120001": {
+    "id": 5120001,
+    "icon": "img_5120001.png",
+    "name": {
+      "zh": "紅獨角獅",
+      "en": "Cellion"
+    },
+    "level": 53,
+    "hp": 4200,
+    "exp": 160,
+    "acc": 150,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "紅獨角獅",
+      "cellion"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      200010111,
+      200010200
+    ]
+  },
+  "5120002": {
+    "id": 5120002,
+    "icon": "img_5120002.png",
+    "name": {
+      "zh": "黃獨角獅",
+      "en": "Lioner"
+    },
+    "level": 53,
+    "hp": 4200,
+    "exp": 160,
+    "acc": 150,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "黃獨角獅",
+      "lioner"
+    ],
+    "buffType": [
+      "冰弱點",
+      "雷抵抗"
+    ],
+    "mapIds": [
+      200010121,
+      200010200
+    ]
+  },
+  "5120003": {
+    "id": 5120003,
+    "icon": "img_5120003.png",
+    "name": {
+      "zh": "藍獨角獅",
+      "en": "Grupin"
+    },
+    "level": 53,
+    "hp": 4200,
+    "exp": 160,
+    "acc": 150,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "藍獨角獅",
+      "grupin"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      200010131,
+      200010200
+    ]
+  },
+  "5120100": {
+    "id": 5120100,
+    "icon": "img_5120100.png",
+    "name": {
+      "zh": "機器人堤安",
+      "en": "MT-09"
+    },
+    "level": 94,
+    "hp": 105000,
+    "exp": 4800,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "機器人堤安",
+      "mt-09"
+    ],
+    "mapIds": [
+      221030600,
+      221030601
+    ]
+  },
+  "5130100": {
+    "id": 5130100,
+    "icon": "img_5130100.png",
+    "name": {
+      "zh": "青龍",
+      "en": "Drake"
+    },
+    "level": 50,
+    "hp": 3200,
+    "exp": 135,
+    "acc": 75,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "青龍",
+      "drake"
+    ],
+    "mapIds": [
+      105080000,
+      105090000,
+      105090100,
+      105090300,
+      105090310
+    ]
+  },
+  "5130101": {
+    "id": 5130101,
+    "icon": "img_5130101.png",
+    "name": {
+      "zh": "石巨人",
+      "en": "Stone Golem"
+    },
+    "level": 55,
+    "hp": 4000,
+    "exp": 170,
+    "acc": 80,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "石巨人",
+      "stone golem"
+    ],
+    "mapIds": [
+      106010100,
+      106010101,
+      106010102,
+      106010103,
+      105040303
+    ]
+  },
+  "5130102": {
+    "id": 5130102,
+    "icon": "img_5130102.png",
+    "name": {
+      "zh": "黑曜石巨人",
+      "en": "Dark Stone Golem"
+    },
+    "level": 58,
+    "hp": 4800,
+    "exp": 200,
+    "acc": 70,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "黑曜石巨人",
+      "dark stone golem"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      106010102,
+      106010104,
+      105040304,
+      105040320,
+      105040305,
+      105040306
+    ]
+  },
+  "5130103": {
+    "id": 5130103,
+    "icon": "img_5130103.png",
+    "name": {
+      "zh": "黑鱷魚",
+      "en": "Croco"
+    },
+    "level": 52,
+    "hp": 3800,
+    "exp": 170,
+    "acc": 80,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "黑鱷魚",
+      "croco"
+    ],
+    "mapIds": [
+      107000200,
+      107000300,
+      107000400
+    ]
+  },
+  "5130104": {
+    "id": 5130104,
+    "icon": "img_5130104.png",
+    "name": {
+      "zh": "野狼",
+      "en": "Hector"
+    },
+    "level": 55,
+    "hp": 4600,
+    "exp": 170,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "野狼",
+      "hector"
+    ],
+    "mapIds": [
+      211030000
+    ]
+  },
+  "5130105": {
+    "id": 5130105,
+    "icon": "img_5130105.png",
+    "name": {
+      "zh": "黑色小雪球",
+      "en": "Dark Jr. Yeti"
+    },
+    "level": 56,
+    "hp": 4400,
+    "exp": 180,
+    "acc": 130,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "黑色小雪球",
+      "dark jr. yeti"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      211020000
+    ]
+  },
+  "5130106": {
+    "id": 5130106,
+    "icon": "img_5130105.png",
+    "name": {
+      "zh": "黑色小雪球",
+      "en": "Transforming Dark Jr. Yeti"
+    },
+    "level": 56,
+    "hp": 4400,
+    "exp": 0,
+    "acc": 130,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "黑色小雪球",
+      "transforming dark jr. yeti"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      211030001
+    ]
+  },
+  "5130107": {
+    "id": 5130107,
+    "icon": "img_5130107.png",
+    "name": {
+      "zh": "殭屍",
+      "en": "Coolie Zombie"
+    },
+    "level": 57,
+    "hp": 4500,
+    "exp": 190,
+    "acc": 135,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "殭屍",
+      "coolie zombie"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "毒抵抗",
+      "治療弱點",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      211041100,
+      211041200,
+      211041300,
+      211041400
+    ]
+  },
+  "5130108": {
+    "id": 5130108,
+    "icon": "img_5130108.png",
+    "name": {
+      "zh": "礦山殭屍",
+      "en": "Miner Zombie"
+    },
+    "level": 57,
+    "hp": 4500,
+    "exp": 190,
+    "acc": 135,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "礦山殭屍",
+      "miner zombie"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "毒抵抗",
+      "治療弱點",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      211041400,
+      211041500,
+      211041600,
+      211041700,
+      211041800,
+      103000202
+    ]
+  },
+  "5140000": {
+    "id": 5140000,
+    "icon": "img_5140000.png",
+    "name": {
+      "zh": "白狼",
+      "en": "White Fang"
+    },
+    "level": 58,
+    "hp": 5800,
+    "exp": 220,
+    "acc": 150,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "白狼",
+      "white fang"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211040000
+    ]
+  },
+  "5150000": {
+    "id": 5150000,
+    "icon": "img_5150000.png",
+    "name": {
+      "zh": "混種石巨人",
+      "en": "Mixed Golem"
+    },
+    "level": 59,
+    "hp": 6000,
+    "exp": 210,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "混種石巨人",
+      "mixed golem"
+    ],
+    "mapIds": [
+      106010102,
+      106010105,
+      105040305,
+      105040306
+    ]
+  },
+  "5150001": {
+    "id": 5150001,
+    "icon": "img_5150001.png",
+    "name": {
+      "zh": "骷髏士兵",
+      "en": "Skeleton Soldier"
+    },
+    "level": 57,
+    "hp": 4600,
+    "exp": 190,
+    "acc": 135,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "骷髏士兵",
+      "skeleton soldier"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      101030110,
+      101030107,
+      101030111,
+      101030108
+    ]
+  },
+  "5150002": {
+    "id": 5150002,
+    "icon": "img_5150002.png",
+    "name": {
+      "zh": "冰之混種石巨人",
+      "en": "Cold Mixed Golem"
+    },
+    "level": 68,
+    "hp": 13000,
+    "exp": 275,
+    "acc": 170,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "冰之混種石巨人",
+      "cold mixed golem"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "免疫冰凍狀態免疫"
+    ],
+    "mapIds": [
+      100040500,
+      105090500
+    ]
+  },
+  "5150003": {
+    "id": 5150003,
+    "icon": "img_5150003.png",
+    "name": {
+      "zh": "火之混種石巨人",
+      "en": "Hot Mixed Golem"
+    },
+    "level": 68,
+    "hp": 13000,
+    "exp": 275,
+    "acc": 170,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "火之混種石巨人",
+      "hot mixed golem"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      106010106,
+      106000130,
+      106000140
+    ]
+  },
+  "5200000": {
+    "id": 5200000,
+    "icon": "img_5200000.png",
+    "name": {
+      "zh": "小石球",
+      "en": "Jr. Sentinel"
+    },
+    "level": 23,
+    "hp": 600,
+    "exp": 40,
+    "acc": 5,
+    "avoid": 8,
+    "isBoss": false,
+    "searchIndex": [
+      "小石球",
+      "jr. sentinel"
+    ],
+    "mapIds": [
+      200080200
+    ]
+  },
+  "5200001": {
+    "id": 5200001,
+    "icon": "img_5200001.png",
+    "name": {
+      "zh": "冰石球",
+      "en": "Ice Sentinel"
+    },
+    "level": 30,
+    "hp": 900,
+    "exp": 55,
+    "acc": 75,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "冰石球",
+      "ice sentinel"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      200081500
+    ]
+  },
+  "5200002": {
+    "id": 5200002,
+    "icon": "img_5200002.png",
+    "name": {
+      "zh": "火石球",
+      "en": "Fire Sentinel"
+    },
+    "level": 30,
+    "hp": 900,
+    "exp": 55,
+    "acc": 75,
+    "avoid": 12,
+    "isBoss": false,
+    "searchIndex": [
+      "火石球",
+      "fire sentinel"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      200081200
+    ]
+  },
+  "5220002": {
+    "id": 5220002,
+    "icon": "img_5220002.png",
+    "name": {
+      "zh": "殭屍猴王",
+      "en": "Faust"
+    },
+    "level": 50,
+    "hp": 9800,
+    "exp": 410,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": true,
+    "searchIndex": [
+      "殭屍猴王",
+      "faust"
+    ],
+    "mapIds": [
+      100040106
+    ]
+  },
+  "5220003": {
+    "id": 5220003,
+    "icon": "img_5220003.png",
+    "name": {
+      "zh": "咕咕鐘",
+      "en": "Timer"
+    },
+    "level": 59,
+    "hp": 21000,
+    "exp": 650,
+    "acc": 150,
+    "avoid": 20,
+    "isBoss": true,
+    "searchIndex": [
+      "咕咕鐘",
+      "timer"
+    ],
+    "mapIds": [
+      220050100
+    ]
+  },
+  "5300000": {
+    "id": 5300000,
+    "icon": "img_5300000.png",
+    "name": {
+      "zh": "利堤",
+      "en": "Leatty"
+    },
+    "level": 32,
+    "hp": 1000,
+    "exp": 60,
+    "acc": 65,
+    "avoid": 13,
+    "isBoss": false,
+    "searchIndex": [
+      "利堤",
+      "leatty"
+    ],
+    "mapIds": [
+      200082100
+    ]
+  },
+  "5300001": {
+    "id": 5300001,
+    "icon": "img_5300001.png",
+    "name": {
+      "zh": "黑利堤",
+      "en": "Dark Leatty"
+    },
+    "level": 33,
+    "hp": 1100,
+    "exp": 65,
+    "acc": 65,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "黑利堤",
+      "dark leatty"
+    ],
+    "mapIds": [
+      211000200
+    ]
+  },
+  "5300100": {
+    "id": 5300100,
+    "icon": "img_5300100.png",
+    "name": {
+      "zh": "巫婆",
+      "en": "Malady"
+    },
+    "level": 55,
+    "hp": 4000,
+    "exp": 175,
+    "acc": 150,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "巫婆",
+      "malady"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      100040105,
+      100040106
+    ]
+  },
+  "5400000": {
+    "id": 5400000,
+    "icon": "img_5400000.png",
+    "name": {
+      "zh": "小企鵝王",
+      "en": "Jr. Pepe"
+    },
+    "level": 35,
+    "hp": 1400,
+    "exp": 75,
+    "acc": 105,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "小企鵝王",
+      "jr. pepe"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211000200
+    ]
+  },
+  "6090000": {
+    "id": 6090000,
+    "icon": "img_6090000.png",
+    "name": {
+      "zh": "厄運死神",
+      "en": "RIche"
+    },
+    "level": 75,
+    "hp": 100000,
+    "exp": 1750,
+    "acc": 160,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "厄運死神",
+      "riche"
+    ],
+    "buffType": [
+      "治療弱點"
+    ],
+    "mapIds": [
+      211041300
+    ]
+  },
+  "6090001": {
+    "id": 6090001,
+    "icon": "img_6090001.png",
+    "name": {
+      "zh": "冰之女巫",
+      "en": "Snow Witch"
+    },
+    "level": 70,
+    "hp": 93000,
+    "exp": 1580,
+    "acc": 175,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "冰之女巫",
+      "snow witch"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "免疫冰凍狀態免疫"
+    ],
+    "mapIds": [
+      211050000
+    ]
+  },
+  "6130100": {
+    "id": 6130100,
+    "icon": "img_6130100.png",
+    "name": {
+      "zh": "赤龍",
+      "en": "Red Drake"
+    },
+    "level": 60,
+    "hp": 6000,
+    "exp": 220,
+    "acc": 150,
+    "avoid": 22,
+    "isBoss": false,
+    "searchIndex": [
+      "赤龍",
+      "red drake"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      101030405,
+      101030406,
+      106000001,
+      106000002,
+      106000120,
+      106000130
+    ]
+  },
+  "6130101": {
+    "id": 6130101,
+    "icon": "img_6130101.png",
+    "name": {
+      "zh": "蘑菇王",
+      "en": "Mushmom"
+    },
+    "level": 60,
+    "hp": 20000,
+    "exp": 1200,
+    "acc": 150,
+    "avoid": 27,
+    "isBoss": true,
+    "searchIndex": [
+      "蘑菇王",
+      "mushmom"
+    ],
+    "mapIds": [
+      100000005
+    ]
+  },
+  "6130102": {
+    "id": 6130102,
+    "icon": "img_6130102.png",
+    "name": {
+      "zh": "孤單企鵝王",
+      "en": "Separated Pepe"
+    },
+    "level": 60,
+    "hp": 7200,
+    "exp": 420,
+    "acc": 200,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "孤單企鵝王",
+      "separated pepe"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ]
+  },
+  "6130103": {
+    "id": 6130103,
+    "icon": "img_6130102.png",
+    "name": {
+      "zh": "企鵝王",
+      "en": "Pepe"
+    },
+    "level": 60,
+    "hp": 7200,
+    "exp": 220,
+    "acc": 200,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "企鵝王",
+      "pepe"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211040000,
+      211040001
+    ]
+  },
+  "6130200": {
+    "id": 6130200,
+    "icon": "img_6130200.png",
+    "name": {
+      "zh": "小丑柏非",
+      "en": "Buffy"
+    },
+    "level": 61,
+    "hp": 7400,
+    "exp": 230,
+    "acc": 130,
+    "avoid": 23,
+    "isBoss": false,
+    "searchIndex": [
+      "小丑柏非",
+      "buffy"
+    ],
+    "mapIds": [
+      220060000
+    ]
+  },
+  "6130202": {
+    "id": 6130202,
+    "icon": "img_6130202.png",
+    "name": {
+      "zh": "變身小鬼怪",
+      "en": "Morphed Blin"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "變身小鬼怪",
+      "morphed blin"
+    ]
+  },
+  "6220000": {
+    "id": 6220000,
+    "icon": "img_6220000.png",
+    "name": {
+      "zh": "沼澤巨鱷",
+      "en": "Dyle\t"
+    },
+    "level": 65,
+    "hp": 31000,
+    "exp": 810,
+    "acc": 150,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "沼澤巨鱷",
+      "dyle\t"
+    ],
+    "mapIds": [
+      107000300
+    ]
+  },
+  "6220001": {
+    "id": 6220001,
+    "icon": "img_6220001.png",
+    "name": {
+      "zh": "葛雷金剛",
+      "en": "Zeno"
+    },
+    "level": 110,
+    "hp": 3500000,
+    "exp": 150000,
+    "acc": 230,
+    "avoid": 38,
+    "isBoss": true,
+    "searchIndex": [
+      "葛雷金剛",
+      "zeno"
+    ],
+    "mapIds": [
+      221040301
+    ]
+  },
+  "6230100": {
+    "id": 6230100,
+    "icon": "img_6230100.png",
+    "name": {
+      "zh": "魔龍",
+      "en": "Wild Kargo"
+    },
+    "level": 62,
+    "hp": 5500,
+    "exp": 240,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "魔龍",
+      "wild kargo"
+    ],
+    "mapIds": [
+      105090300,
+      105090301,
+      105090302
+    ]
+  },
+  "6230200": {
+    "id": 6230200,
+    "icon": "img_6230200.png",
+    "name": {
+      "zh": "黑企鵝王",
+      "en": "Dark Pepe"
+    },
+    "level": 64,
+    "hp": 7800,
+    "exp": 250,
+    "acc": 210,
+    "avoid": 31,
+    "isBoss": false,
+    "searchIndex": [
+      "黑企鵝王",
+      "dark pepe"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      211050000
+    ]
+  },
+  "6230201": {
+    "id": 6230201,
+    "icon": "img_6230200.png",
+    "name": {
+      "zh": "孤單黑企鵝王",
+      "en": "Separated Dark Pepe"
+    },
+    "level": 64,
+    "hp": 7800,
+    "exp": 700,
+    "acc": 210,
+    "avoid": 31,
+    "isBoss": false,
+    "searchIndex": [
+      "孤單黑企鵝王",
+      "separated dark pepe"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ]
+  },
+  "6230300": {
+    "id": 6230300,
+    "icon": "img_6230300.png",
+    "name": {
+      "zh": "小丑瑞奇",
+      "en": "Lazy Buffy"
+    },
+    "level": 66,
+    "hp": 9400,
+    "exp": 260,
+    "acc": 140,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "小丑瑞奇",
+      "lazy buffy"
+    ],
+    "mapIds": [
+      220060000
+    ]
+  },
+  "6230400": {
+    "id": 6230400,
+    "icon": "img_6230400.png",
+    "name": {
+      "zh": "幽魂發條熊",
+      "en": "Soul Teddy"
+    },
+    "level": 63,
+    "hp": 7600,
+    "exp": 245,
+    "acc": 140,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "幽魂發條熊",
+      "soul teddy"
+    ],
+    "buffType": [
+      "冰抵抗",
+      "雷抵抗",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070000
+    ]
+  },
+  "6230401": {
+    "id": 6230401,
+    "icon": "img_6230401.png",
+    "name": {
+      "zh": "幼黑格里芬",
+      "en": "Jr. Lucida"
+    },
+    "level": 63,
+    "hp": 7600,
+    "exp": 245,
+    "acc": 170,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "幼黑格里芬",
+      "jr. lucida"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      200010300
+    ]
+  },
+  "6230500": {
+    "id": 6230500,
+    "icon": "img_6230500.png",
+    "name": {
+      "zh": "幽魂發條熊隊長",
+      "en": "Master Soul Teddy"
+    },
+    "level": 67,
+    "hp": 11000,
+    "exp": 265,
+    "acc": 140,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "幽魂發條熊隊長",
+      "master soul teddy"
+    ],
+    "buffType": [
+      "冰抵抗",
+      "雷抵抗",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070000
+    ]
+  },
+  "6230600": {
+    "id": 6230600,
+    "icon": "img_6230600.png",
+    "name": {
+      "zh": "冰龍",
+      "en": "Ice Drake"
+    },
+    "level": 64,
+    "hp": 7700,
+    "exp": 250,
+    "acc": 150,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "冰龍",
+      "ice drake"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      105090300,
+      105090310,
+      105090311,
+      105090320
+    ]
+  },
+  "6230601": {
+    "id": 6230601,
+    "icon": "img_6230601.png",
+    "name": {
+      "zh": "黑龍",
+      "en": "Dark Drake"
+    },
+    "level": 68,
+    "hp": 13000,
+    "exp": 265,
+    "acc": 170,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "黑龍",
+      "dark drake"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      105090311,
+      105090312
+    ]
+  },
+  "6230602": {
+    "id": 6230602,
+    "icon": "img_6230602.png",
+    "name": {
+      "zh": "骷髏士官",
+      "en": "Officer Skeleton"
+    },
+    "level": 63,
+    "hp": 7500,
+    "exp": 240,
+    "acc": 150,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "骷髏士官",
+      "officer skeleton"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      101030110,
+      101030107,
+      101030111,
+      101030108,
+      101030112
+    ]
+  },
+  "6300000": {
+    "id": 6300000,
+    "icon": "img_6300000.png",
+    "name": {
+      "zh": "雪吉拉",
+      "en": "Yeti"
+    },
+    "level": 65,
+    "hp": 11000,
+    "exp": 255,
+    "acc": 110,
+    "avoid": 24,
+    "isBoss": false,
+    "searchIndex": [
+      "雪吉拉",
+      "yeti"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211040100,
+      211040200,
+      211040101
+    ]
+  },
+  "6300001": {
+    "id": 6300001,
+    "icon": "img_6300000.png",
+    "name": {
+      "zh": "變形雪吉拉",
+      "en": "Transformed Yeti"
+    },
+    "level": 65,
+    "hp": 14700,
+    "exp": 390,
+    "acc": 110,
+    "avoid": 24,
+    "isBoss": false,
+    "searchIndex": [
+      "變形雪吉拉",
+      "transformed yeti"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211030001
+    ]
+  },
+  "6300002": {
+    "id": 6300002,
+    "icon": "img_6300000.png",
+    "name": {
+      "zh": "孤單雪吉拉",
+      "en": "Separated Yeti"
+    },
+    "level": 65,
+    "hp": 11000,
+    "exp": 455,
+    "acc": 110,
+    "avoid": 24,
+    "isBoss": false,
+    "searchIndex": [
+      "孤單雪吉拉",
+      "separated yeti"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ]
+  },
+  "6300005": {
+    "id": 6300005,
+    "icon": "img_6300005.png",
+    "name": {
+      "zh": "殭屍蘑菇王",
+      "en": "Zombie Mushmom"
+    },
+    "level": 65,
+    "hp": 35000,
+    "exp": 1500,
+    "acc": 155,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "殭屍蘑菇王",
+      "zombie mushmom"
+    ],
+    "buffType": [
+      "治療弱點"
+    ],
+    "mapIds": [
+      105070002
+    ]
+  },
+  "6300100": {
+    "id": 6300100,
+    "icon": "img_6300100.png",
+    "name": {
+      "zh": "貝爾芬",
+      "en": "Buffoon"
+    },
+    "level": 74,
+    "hp": 16000,
+    "exp": 340,
+    "acc": 165,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "貝爾芬",
+      "buffoon"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點"
+    ],
+    "mapIds": [
+      220060100
+    ]
+  },
+  "6400000": {
+    "id": 6400000,
+    "icon": "img_6400000.png",
+    "name": {
+      "zh": "黑吉拉",
+      "en": "Dark Yeti"
+    },
+    "level": 68,
+    "hp": 13000,
+    "exp": 265,
+    "acc": 130,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "黑吉拉",
+      "dark yeti"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      211040300
+    ]
+  },
+  "6400001": {
+    "id": 6400001,
+    "icon": "img_6400000.png",
+    "name": {
+      "zh": "變形黑吉拉",
+      "en": "Transformed Dark Yeti"
+    },
+    "level": 68,
+    "hp": 17400,
+    "exp": 445,
+    "acc": 130,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "變形黑吉拉",
+      "transformed dark yeti"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      211030001
+    ]
+  },
+  "6400002": {
+    "id": 6400002,
+    "icon": "img_6400000.png",
+    "name": {
+      "zh": "孤單黑吉拉",
+      "en": "Separated Dark Yeti"
+    },
+    "level": 68,
+    "hp": 13000,
+    "exp": 715,
+    "acc": 130,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "孤單黑吉拉",
+      "separated dark yeti"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ]
+  },
+  "6400100": {
+    "id": 6400100,
+    "icon": "img_6400100.png",
+    "name": {
+      "zh": "特貝爾芬",
+      "en": "Deep Buffoon"
+    },
+    "level": 77,
+    "hp": 19000,
+    "exp": 385,
+    "acc": 170,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "特貝爾芬",
+      "deep buffoon"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點"
+    ],
+    "mapIds": [
+      220060100
+    ]
+  },
+  "7130000": {
+    "id": 7130000,
+    "icon": "img_7130000.png",
+    "name": {
+      "zh": "黑格里芬",
+      "en": "Lucida"
+    },
+    "level": 73,
+    "hp": 15500,
+    "exp": 320,
+    "acc": 160,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "黑格里芬",
+      "lucida"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      200010300,
+      200010301,
+      200010302
+    ]
+  },
+  "7130001": {
+    "id": 7130001,
+    "icon": "img_7130001.png",
+    "name": {
+      "zh": "地獄獵犬",
+      "en": "Cerebes"
+    },
+    "level": 72,
+    "hp": 15200,
+    "exp": 295,
+    "acc": 175,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "地獄獵犬",
+      "cerebes"
+    ],
+    "mapIds": [
+      211042100
+    ]
+  },
+  "7130002": {
+    "id": 7130002,
+    "icon": "img_7130002.png",
+    "name": {
+      "zh": "橡木甲蟲",
+      "en": "Beetle"
+    },
+    "level": 72,
+    "hp": 15200,
+    "exp": 295,
+    "acc": 175,
+    "avoid": 30,
+    "isBoss": false,
+    "buffType": [
+      "雷抵抗"
+    ],
+    "mapIds": [
+      240011000,
+      240010900
+    ],
+    "searchIndex": [
+      "橡木甲蟲",
+      "beetle"
+    ]
+  },
+  "7130003": {
+    "id": 7130003,
+    "icon": "img_7130003.png",
+    "name": {
+      "zh": "金屬甲蟲",
+      "en": "Dual Beetle"
+    },
+    "level": 76,
+    "hp": 18000,
+    "exp": 370,
+    "acc": 140,
+    "avoid": 27,
+    "isBoss": false,
+    "buffType": [
+      "雷抵抗"
+    ],
+    "mapIds": [
+      240010900,
+      240010901
+    ],
+    "searchIndex": [
+      "金屬甲蟲",
+      "dual beetle"
+    ]
+  },
+  "7130004": {
+    "id": 7130004,
+    "icon": "img_7130004.png",
+    "name": {
+      "zh": "變種侏儒怪",
+      "en": "Hankie"
+    },
+    "level": 78,
+    "hp": 20000,
+    "exp": 400,
+    "acc": 145,
+    "avoid": 30,
+    "isBoss": false,
+    "buffType": [
+      "火弱點",
+      "毒弱點"
+    ],
+    "mapIds": [
+      240010300
+    ],
+    "searchIndex": [
+      "變種侏儒怪",
+      "hankie"
+    ]
+  },
+  "7130010": {
+    "id": 7130010,
+    "icon": "img_7130010.png",
+    "name": {
+      "zh": "怨靈發條熊",
+      "en": "Death Teddy"
+    },
+    "level": 85,
+    "hp": 32000,
+    "exp": 1300,
+    "acc": 160,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "怨靈發條熊",
+      "death teddy"
+    ],
+    "buffType": [
+      "火弱點",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070200
+    ]
+  },
+  "7130020": {
+    "id": 7130020,
+    "icon": "img_7130020.png",
+    "name": {
+      "zh": "刺鰭魚",
+      "en": "Goby"
+    },
+    "level": 85,
+    "hp": 17000,
+    "exp": 1400,
+    "acc": 160,
+    "avoid": 29,
+    "isBoss": false,
+    "searchIndex": [
+      "刺鰭魚",
+      "goby"
+    ],
+    "buffType": [
+      "火抵抗"
+    ]
+  },
+  "7130100": {
+    "id": 7130100,
+    "icon": "img_7130100.png",
+    "name": {
+      "zh": "月牙牛魔王",
+      "en": "Tauromacis"
+    },
+    "level": 70,
+    "hp": 15000,
+    "exp": 270,
+    "acc": 120,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "月牙牛魔王",
+      "tauromacis"
+    ],
+    "buffType": [
+      "毒抵抗",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      105090600
+    ]
+  },
+  "7130101": {
+    "id": 7130101,
+    "icon": "img_7130101.png",
+    "name": {
+      "zh": "長槍牛魔王",
+      "en": "Taurospear"
+    },
+    "level": 75,
+    "hp": 18000,
+    "exp": 350,
+    "acc": 130,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "長槍牛魔王",
+      "taurospear"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷抵抗",
+      "毒抵抗",
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      105090700
+    ]
+  },
+  "7130102": {
+    "id": 7130102,
+    "icon": "img_7130102.png",
+    "name": {
+      "zh": "雪吉拉戰車",
+      "en": "Yeti & Pepe"
+    },
+    "level": 78,
+    "hp": 20000,
+    "exp": 0,
+    "acc": 145,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "雪吉拉戰車",
+      "yeti & pepe"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211040200,
+      211040400,
+      211040101
+    ]
+  },
+  "7130103": {
+    "id": 7130103,
+    "icon": "img_7130103.png",
+    "name": {
+      "zh": "骷髏指揮官",
+      "en": "Commander Skeleton"
+    },
+    "level": 73,
+    "hp": 15300,
+    "exp": 315,
+    "acc": 190,
+    "avoid": 32,
+    "isBoss": false,
+    "searchIndex": [
+      "骷髏指揮官",
+      "commander skeleton"
+    ],
+    "buffType": [
+      "冰抵抗",
+      "神聖弱點",
+      "毒抵抗",
+      "治療弱點",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      101030108,
+      101030112,
+      101030109
+    ]
+  },
+  "7130200": {
+    "id": 7130200,
+    "icon": "img_7130200.png",
+    "name": {
+      "zh": "狼人",
+      "en": "Werewolf"
+    },
+    "level": 75,
+    "hp": 16000,
+    "exp": 350,
+    "acc": 160,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "狼人",
+      "werewolf"
+    ],
+    "mapIds": [
+      211040500,
+      211040600,
+      211040800
+    ]
+  },
+  "7130300": {
+    "id": 7130300,
+    "icon": "img_7130300.png",
+    "name": {
+      "zh": "怨靈發條熊隊長",
+      "en": "Master Death Teddy"
+    },
+    "level": 89,
+    "hp": 40000,
+    "exp": 1720,
+    "acc": 180,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "怨靈發條熊隊長",
+      "master death teddy"
+    ],
+    "buffType": [
+      "冰抵抗",
+      "雷抵抗",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070201
+    ]
+  },
+  "7130400": {
+    "id": 7130400,
+    "icon": "img_7130400.png",
+    "name": {
+      "zh": "黃色鬼怪",
+      "en": "Yellow King Goblin"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "黃色鬼怪",
+      "yellow king goblin"
+    ]
+  },
+  "7130401": {
+    "id": 7130401,
+    "icon": "img_7130401.png",
+    "name": {
+      "zh": "藍色鬼怪",
+      "en": "Blue King Goblin"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "藍色鬼怪",
+      "blue king goblin"
+    ]
+  },
+  "7130402": {
+    "id": 7130402,
+    "icon": "img_7130402.png",
+    "name": {
+      "zh": "綠色鬼怪",
+      "en": "Green King Goblin"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "綠色鬼怪",
+      "green king goblin"
+    ]
+  },
+  "7130500": {
+    "id": 7130500,
+    "icon": "img_7130500.png",
+    "name": {
+      "zh": "萊西",
+      "en": "Rash"
+    },
+    "level": 70,
+    "hp": 14500,
+    "exp": 270,
+    "acc": 130,
+    "avoid": 25,
+    "isBoss": false,
+    "buffType": [
+      "毒弱點"
+    ],
+    "mapIds": [
+      240010000
+    ],
+    "searchIndex": [
+      "萊西",
+      "rash"
+    ]
+  },
+  "7130501": {
+    "id": 7130501,
+    "icon": "img_7130501.png",
+    "name": {
+      "zh": "黑暗萊西",
+      "en": "Dark Rash"
+    },
+    "level": 74,
+    "hp": 15500,
+    "exp": 340,
+    "acc": 160,
+    "avoid": 27,
+    "isBoss": false,
+    "buffType": [
+      "毒抵抗"
+    ],
+    "mapIds": [
+      240010101
+    ],
+    "searchIndex": [
+      "黑暗萊西",
+      "dark rash"
+    ]
+  },
+  "7130600": {
+    "id": 7130600,
+    "icon": "img_7130600.png",
+    "name": {
+      "zh": "侏儒怪",
+      "en": "Hobi"
+    },
+    "level": 72,
+    "hp": 15000,
+    "exp": 295,
+    "acc": 160,
+    "avoid": 25,
+    "isBoss": false,
+    "buffType": [
+      "毒弱點"
+    ],
+    "mapIds": [
+      240010100
+    ],
+    "searchIndex": [
+      "侏儒怪",
+      "hobi"
+    ]
+  },
+  "7130601": {
+    "id": 7130601,
+    "icon": "img_7130601.png",
+    "name": {
+      "zh": "邪惡侏儒怪",
+      "en": "Green Hobi"
+    },
+    "level": 76,
+    "hp": 18000,
+    "exp": 370,
+    "acc": 170,
+    "avoid": 28,
+    "isBoss": false,
+    "buffType": [
+      "毒抵抗"
+    ],
+    "mapIds": [
+      240010200
+    ],
+    "searchIndex": [
+      "邪惡侏儒怪",
+      "green hobi"
+    ]
+  },
+  "7140000": {
+    "id": 7140000,
+    "icon": "img_7140000.png",
+    "name": {
+      "zh": "百烈",
+      "en": "Ghost Pirate"
+    },
+    "level": 83,
+    "hp": 30000,
+    "exp": 1100,
+    "acc": 150,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "百烈",
+      "ghost pirate"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      220060200
+    ]
+  },
+  "7160000": {
+    "id": 7160000,
+    "icon": "img_7160000.png",
+    "name": {
+      "zh": "多立百烈",
+      "en": "Dual Ghost Pirate"
+    },
+    "level": 87,
+    "hp": 35000,
+    "exp": 1500,
+    "acc": 160,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "多立百烈",
+      "dual ghost pirate"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      220060201
+    ]
+  },
+  "7220001": {
+    "id": 7220001,
+    "icon": "img_7220001.png",
+    "name": {
+      "zh": "九尾妖狐",
+      "en": "Nine-Tailed Fox"
+    },
+    "level": 0,
+    "hp": 0,
+    "exp": 0,
+    "acc": 0,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "九尾妖狐",
+      "nine-tailed fox"
+    ]
+  },
+  "8130100": {
+    "id": 8130100,
+    "icon": "img_8130100.png",
+    "name": {
+      "zh": "巴洛古",
+      "en": "Jr. Balrog"
+    },
+    "level": 80,
+    "hp": 50000,
+    "exp": 2000,
+    "acc": 150,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "巴洛古",
+      "jr. balrog"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "毒抵抗",
+      "免疫毒狀態免疫"
+    ],
+    "mapIds": [
+      105090900
+    ]
+  },
+  "8140000": {
+    "id": 8140000,
+    "icon": "img_8140000.png",
+    "name": {
+      "zh": "白狼人",
+      "en": "Lycanthrope"
+    },
+    "level": 80,
+    "hp": 27000,
+    "exp": 850,
+    "acc": 140,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "白狼人",
+      "lycanthrope"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211040800,
+      211040900,
+      211041000
+    ]
+  },
+  "8140001": {
+    "id": 8140001,
+    "icon": "img_8140001.png",
+    "name": {
+      "zh": "哈維",
+      "en": "Harp"
+    },
+    "level": 80,
+    "hp": 27000,
+    "exp": 850,
+    "acc": 140,
+    "avoid": 28,
+    "isBoss": false,
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      240010800,
+      240010700
+    ],
+    "searchIndex": [
+      "哈維",
+      "harp"
+    ]
+  },
+  "8140002": {
+    "id": 8140002,
+    "icon": "img_8140002.png",
+    "name": {
+      "zh": "血腥哈維",
+      "en": "Blood Harp"
+    },
+    "level": 83,
+    "hp": 30000,
+    "exp": 1100,
+    "acc": 150,
+    "avoid": 27,
+    "isBoss": false,
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "毒弱點"
+    ],
+    "mapIds": [
+      240010700,
+      240010600
+    ],
+    "searchIndex": [
+      "血腥哈維",
+      "blood harp"
+    ]
+  },
+  "8140100": {
+    "id": 8140100,
+    "icon": "img_8140100.png",
+    "name": {
+      "zh": "黑吉拉戰車",
+      "en": "Dark Yeti & Pepe"
+    },
+    "level": 82,
+    "hp": 29000,
+    "exp": 0,
+    "acc": 160,
+    "avoid": 30,
+    "isBoss": false,
+    "searchIndex": [
+      "黑吉拉戰車",
+      "dark yeti & pepe"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ],
+    "mapIds": [
+      211040300,
+      211040700
+    ]
+  },
+  "8140101": {
+    "id": 8140101,
+    "icon": "img_8140101.png",
+    "name": {
+      "zh": "暗黑半人馬",
+      "en": "Black Kentaurus"
+    },
+    "level": 88,
+    "hp": 37000,
+    "exp": 1600,
+    "acc": 170,
+    "avoid": 28,
+    "isBoss": false,
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      240020300,
+      240020200,
+      240020100
+    ],
+    "searchIndex": [
+      "暗黑半人馬",
+      "black kentaurus"
+    ]
+  },
+  "8140102": {
+    "id": 8140102,
+    "icon": "img_8140102.png",
+    "name": {
+      "zh": "火焰半人馬",
+      "en": "Red Kentaurus"
+    },
+    "level": 88,
+    "hp": 37000,
+    "exp": 1600,
+    "acc": 170,
+    "avoid": 28,
+    "isBoss": false,
+    "buffType": [
+      "火抵抗",
+      "冰弱點"
+    ],
+    "mapIds": [
+      240020000,
+      240020100,
+      240020500
+    ],
+    "searchIndex": [
+      "火焰半人馬",
+      "red kentaurus"
+    ]
+  },
+  "8140103": {
+    "id": 8140103,
+    "icon": "img_8140103.png",
+    "name": {
+      "zh": "寒冰半人馬",
+      "en": "Blue Kentaurus"
+    },
+    "level": 88,
+    "hp": 37000,
+    "exp": 1600,
+    "acc": 170,
+    "avoid": 28,
+    "isBoss": false,
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      240020300,
+      240020500,
+      240020400
+    ],
+    "searchIndex": [
+      "寒冰半人馬",
+      "blue kentaurus"
+    ]
+  },
+  "8140110": {
+    "id": 8140110,
+    "icon": "img_8140110.png",
+    "name": {
+      "zh": "邪惡綿羊",
+      "en": "Birk"
+    },
+    "level": 85,
+    "hp": 32000,
+    "exp": 1420,
+    "acc": 160,
+    "avoid": 27,
+    "isBoss": false,
+    "buffType": [
+      "冰弱點",
+      "神聖抵抗"
+    ],
+    "mapIds": [
+      240010500
+    ],
+    "searchIndex": [
+      "邪惡綿羊",
+      "birk"
+    ]
+  },
+  "8140111": {
+    "id": 8140111,
+    "icon": "img_8140111.png",
+    "name": {
+      "zh": "惡魔綿羊",
+      "en": "Dual Birk"
+    },
+    "level": 88,
+    "hp": 37000,
+    "exp": 1620,
+    "acc": 170,
+    "avoid": 28,
+    "isBoss": false,
+    "buffType": [
+      "神聖抵抗",
+      "毒抵抗"
+    ],
+    "mapIds": [
+      240010400
+    ],
+    "searchIndex": [
+      "惡魔綿羊",
+      "dual birk"
+    ]
+  },
+  "8140200": {
+    "id": 8140200,
+    "icon": "img_8140200.png",
+    "name": {
+      "zh": "冥鐘",
+      "en": "Klock"
+    },
+    "level": 70,
+    "hp": 15000,
+    "exp": 270,
+    "acc": 130,
+    "avoid": 26,
+    "isBoss": false,
+    "searchIndex": [
+      "冥鐘",
+      "klock"
+    ],
+    "buffType": [
+      "火弱點",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070100
+    ]
+  },
+  "8140300": {
+    "id": 8140300,
+    "icon": "img_8140300.png",
+    "name": {
+      "zh": "黑暗冥鐘",
+      "en": "Dark Klock"
+    },
+    "level": 76,
+    "hp": 18000,
+    "exp": 370,
+    "acc": 140,
+    "avoid": 27,
+    "isBoss": false,
+    "searchIndex": [
+      "黑暗冥鐘",
+      "dark klock"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070100
+    ]
+  },
+  "8140500": {
+    "id": 8140500,
+    "icon": "img_8140500.png",
+    "name": {
+      "zh": "煉獄獵犬",
+      "en": "Bain"
+    },
+    "level": 90,
+    "hp": 45000,
+    "exp": 1800,
+    "acc": 195,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "煉獄獵犬",
+      "bain"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      211042200,
+      211042101
+    ]
+  },
+  "8140600": {
+    "id": 8140600,
+    "icon": "img_8140600.png",
+    "name": {
+      "zh": "骨骸魚",
+      "en": "Bone Fish"
+    },
+    "level": 92,
+    "hp": 42500,
+    "exp": 2000,
+    "acc": 197,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "骨骸魚",
+      "bone fish"
+    ],
+    "buffType": [
+      "火抵抗",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      230040100,
+      230040101
+    ]
+  },
+  "8140700": {
+    "id": 8140700,
+    "icon": "img_8140700.png",
+    "name": {
+      "zh": "藍色雙角龍",
+      "en": "Blue Dragon Turtle"
+    },
+    "level": 90,
+    "hp": 40000,
+    "exp": 1780,
+    "acc": 195,
+    "avoid": 37,
+    "isBoss": false,
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      240030000
+    ],
+    "searchIndex": [
+      "藍色雙角龍",
+      "blue dragon turtle"
+    ]
+  },
+  "8140701": {
+    "id": 8140701,
+    "icon": "img_8140701.png",
+    "name": {
+      "zh": "暗黑三角龍",
+      "en": "Red Dragon Turtle"
+    },
+    "level": 93,
+    "hp": 49000,
+    "exp": 2100,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "buffType": [
+      "火抵抗",
+      "冰弱點"
+    ],
+    "mapIds": [
+      240030100
+    ],
+    "searchIndex": [
+      "暗黑三角龍",
+      "red dragon turtle"
+    ]
+  },
+  "8140702": {
+    "id": 8140702,
+    "icon": "img_8140702.png",
+    "name": {
+      "zh": "獨角迅猛龍",
+      "en": "Rexton"
+    },
+    "level": 95,
+    "hp": 50000,
+    "exp": 2280,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "buffType": [
+      "雷弱點",
+      "毒弱點"
+    ],
+    "mapIds": [
+      240030102
+    ],
+    "searchIndex": [
+      "獨角迅猛龍",
+      "rexton"
+    ]
+  },
+  "8140703": {
+    "id": 8140703,
+    "icon": "img_8140703.png",
+    "name": {
+      "zh": "進化迅猛龍",
+      "en": "Brexton"
+    },
+    "level": 97,
+    "hp": 55000,
+    "exp": 2500,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "buffType": [
+      "火抵抗",
+      "冰弱點"
+    ],
+    "mapIds": [
+      240030101
+    ],
+    "searchIndex": [
+      "進化迅猛龍",
+      "brexton"
+    ]
+  },
+  "8141000": {
+    "id": 8141000,
+    "icon": "img_8141000.png",
+    "name": {
+      "zh": "維京",
+      "en": "Spirit Viking"
+    },
+    "level": 93,
+    "hp": 50000,
+    "exp": 2100,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "維京",
+      "spirit viking"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷弱點"
+    ],
+    "mapIds": [
+      220060300
+    ]
+  },
+  "8141100": {
+    "id": 8141100,
+    "icon": "img_8141100.png",
+    "name": {
+      "zh": "巨人維京",
+      "en": "Gigantic Spirit Viking"
+    },
+    "level": 98,
+    "hp": 58000,
+    "exp": 2600,
+    "acc": 205,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "巨人維京",
+      "gigantic spirit viking"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷弱點"
+    ],
+    "mapIds": [
+      220060301
+    ]
+  },
+  "8141300": {
+    "id": 8141300,
+    "icon": "img_8141300.png",
+    "name": {
+      "zh": "烏賊怪",
+      "en": "Squid"
+    },
+    "level": 94,
+    "hp": 46000,
+    "exp": 2200,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "烏賊怪",
+      "squid"
+    ],
+    "buffType": [
+      "火抵抗",
+      "毒抵抗"
+    ],
+    "mapIds": [
+      230040200,
+      230040201
+    ]
+  },
+  "8142000": {
+    "id": 8142000,
+    "icon": "img_8142000.png",
+    "name": {
+      "zh": "幽魂女巫",
+      "en": "Phantom Watch"
+    },
+    "level": 95,
+    "hp": 53000,
+    "exp": 2300,
+    "acc": 200,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "幽魂女巫",
+      "phantom watch"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070300
+    ]
+  },
+  "8142100": {
+    "id": 8142100,
+    "icon": "img_8142100.png",
+    "name": {
+      "zh": "致命烏賊怪",
+      "en": "Risell Squid"
+    },
+    "level": 97,
+    "hp": 49000,
+    "exp": 2500,
+    "acc": 203,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "致命烏賊怪",
+      "risell squid"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷抵抗"
+    ],
+    "mapIds": [
+      230040300,
+      230040302
+    ]
+  },
+  "8143000": {
+    "id": 8143000,
+    "icon": "img_8143000.png",
+    "name": {
+      "zh": "怨靈女巫",
+      "en": "Grim Phantom Watch"
+    },
+    "level": 99,
+    "hp": 60000,
+    "exp": 2800,
+    "acc": 205,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "怨靈女巫",
+      "grim phantom watch"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗",
+      "神聖弱點",
+      "治療弱點",
+      "免疫冰凍狀態免疫"
+    ],
+    "mapIds": [
+      220070301
+    ]
+  },
+  "8148008": {
+    "id": 8148008,
+    "icon": "img_8148008.png",
+    "name": {
+      "zh": "紅蝙蝠",
+      "en": "Crimson Stirge"
+    },
+    "level": 26,
+    "hp": 600,
+    "exp": 66,
+    "acc": 90,
+    "avoid": 14,
+    "isBoss": false,
+    "searchIndex": [
+      "紅蝙蝠",
+      "crimson stirge"
+    ],
+    "mapIds": [
+      103000103,
+      105060000
+    ]
+  },
+  "8150000": {
+    "id": 8150000,
+    "icon": "img_8150000.png",
+    "name": {
+      "zh": "地獄巴洛古",
+      "en": "Crimson Balrog"
+    },
+    "level": 100,
+    "hp": 100000,
+    "exp": 3500,
+    "acc": 180,
+    "avoid": 40,
+    "isBoss": true,
+    "searchIndex": [
+      "地獄巴洛古",
+      "crimson balrog"
+    ],
+    "buffType": [
+      "神聖弱點"
+    ]
+  },
+  "8150100": {
+    "id": 8150100,
+    "icon": "img_8150100.png",
+    "name": {
+      "zh": "鯊魚",
+      "en": "Shark"
+    },
+    "level": 100,
+    "hp": 56000,
+    "exp": 3000,
+    "acc": 205,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "鯊魚",
+      "shark"
+    ],
+    "buffType": [
+      "火抵抗"
+    ],
+    "mapIds": [
+      230040400,
+      230040402
+    ]
+  },
+  "8150101": {
+    "id": 8150101,
+    "icon": "img_8150101.png",
+    "name": {
+      "zh": "尖鼻鯊魚",
+      "en": "Cold Shark"
+    },
+    "level": 102,
+    "hp": 58500,
+    "exp": 3100,
+    "acc": 205,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "尖鼻鯊魚",
+      "cold shark"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      230040400,
+      230040403
+    ]
+  },
+  "8150200": {
+    "id": 8150200,
+    "icon": "img_8150200.png",
+    "name": {
+      "zh": "短刃龍戰士",
+      "en": "Green Cornian"
+    },
+    "level": 100,
+    "hp": 56000,
+    "exp": 3000,
+    "acc": 205,
+    "avoid": 45,
+    "isBoss": false,
+    "buffType": [
+      "毒抵抗"
+    ],
+    "mapIds": [
+      240030103
+    ],
+    "searchIndex": [
+      "短刃龍戰士",
+      "green cornian"
+    ]
+  },
+  "8150201": {
+    "id": 8150201,
+    "icon": "img_8150201.png",
+    "name": {
+      "zh": "雙刀龍戰士",
+      "en": "Dark Cornian"
+    },
+    "level": 105,
+    "hp": 67000,
+    "exp": 3700,
+    "acc": 205,
+    "avoid": 45,
+    "isBoss": false,
+    "buffType": [
+      "毒抵抗"
+    ],
+    "mapIds": [
+      240030104
+    ],
+    "searchIndex": [
+      "雙刀龍戰士",
+      "dark cornian"
+    ]
+  },
+  "8160000": {
+    "id": 8160000,
+    "icon": "img_8160000.png",
+    "name": {
+      "zh": "通道守門人",
+      "en": "Gatekeeper"
+    },
+    "level": 108,
+    "hp": 78000,
+    "exp": 4300,
+    "acc": 210,
+    "avoid": 37,
+    "isBoss": false,
+    "searchIndex": [
+      "通道守門人",
+      "gatekeeper"
+    ],
+    "buffType": [
+      "雷抵抗"
+    ],
+    "mapIds": [
+      220060400
+    ]
+  },
+  "8170000": {
+    "id": 8170000,
+    "icon": "img_8170000.png",
+    "name": {
+      "zh": "達納托斯",
+      "en": "Thanatos"
+    },
+    "level": 108,
+    "hp": 70000,
+    "exp": 4100,
+    "acc": 210,
+    "avoid": 38,
+    "isBoss": false,
+    "searchIndex": [
+      "達納托斯",
+      "thanatos"
+    ],
+    "buffType": [
+      "冰抵抗",
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      220070400
+    ]
+  },
+  "8180000": {
+    "id": 8180000,
+    "icon": "img_8180000.png",
+    "name": {
+      "zh": "噴火龍",
+      "en": "Manon"
+    },
+    "level": 105,
+    "hp": 3700000,
+    "exp": 13500,
+    "acc": 200,
+    "avoid": 39,
+    "isBoss": true,
+    "buffType": [
+      "火抵抗",
+      "冰弱點"
+    ],
+    "mapIds": [
+      240020401
+    ],
+    "searchIndex": [
+      "噴火龍",
+      "manon"
+    ]
+  },
+  "8180001": {
+    "id": 8180001,
+    "icon": "img_8180001.png",
+    "name": {
+      "zh": "格瑞芬多",
+      "en": "Griffey"
+    },
+    "level": 105,
+    "hp": 3700000,
+    "exp": 13500,
+    "acc": 200,
+    "avoid": 39,
+    "isBoss": true,
+    "buffType": [
+      "雷抵抗",
+      "毒弱點"
+    ],
+    "mapIds": [
+      240020101
+    ],
+    "searchIndex": [
+      "格瑞芬多",
+      "griffey"
+    ]
+  },
+  "8220000": {
+    "id": 8220000,
+    "icon": "img_8220000.png",
+    "name": {
+      "zh": "艾利傑",
+      "en": "Eliza"
+    },
+    "level": 83,
+    "hp": 87000,
+    "exp": 2800,
+    "acc": 150,
+    "avoid": 30,
+    "isBoss": true,
+    "searchIndex": [
+      "艾利傑",
+      "eliza"
+    ],
+    "mapIds": [
+      200010300
+    ]
+  },
+  "8220001": {
+    "id": 8220001,
+    "icon": "img_8220001.png",
+    "name": {
+      "zh": "雪毛怪人",
+      "en": "Snowman"
+    },
+    "level": 90,
+    "hp": 120000,
+    "exp": 5200,
+    "acc": 195,
+    "avoid": 38,
+    "isBoss": true,
+    "searchIndex": [
+      "雪毛怪人",
+      "snowman"
+    ],
+    "mapIds": [
+      211040101
+    ]
+  },
+  "8220017": {
+    "id": 8220017,
+    "icon": "img_8220017.png",
+    "name": {
+      "zh": "雙刀龍戰士",
+      "en": "Apex Cornian"
+    },
+    "level": 110,
+    "hp": 84000,
+    "exp": 4700,
+    "acc": 206,
+    "avoid": 45,
+    "isBoss": false,
+    "buffType": [
+      "毒抵抗"
+    ],
+    "mapIds": [
+      240030200,
+      240030300
+    ],
+    "searchIndex": [
+      "雙刀龍戰士",
+      "apex cornian"
+    ]
+  },
+  "8220019": {
+    "id": 8220019,
+    "icon": "img_8220019.png",
+    "name": {
+      "zh": "墮落的半人馬",
+      "en": "Elite Kentaurus"
+    },
+    "level": 92,
+    "hp": 43300,
+    "exp": 2030,
+    "acc": 175,
+    "avoid": 29,
+    "isBoss": false,
+    "buffType": [
+      "神聖弱點",
+      "毒抵抗",
+      "治療弱點"
+    ],
+    "mapIds": [
+      240020201
+    ],
+    "searchIndex": [
+      "墮落的半人馬",
+      "elite kentaurus"
+    ]
+  },
+  "8510000": {
+    "id": 8510000,
+    "icon": "img_8510000.png",
+    "name": {
+      "zh": "海怒斯(右)",
+      "en": "Pianus (R)"
+    },
+    "level": 120,
+    "hp": 30000000,
+    "exp": 2000000,
+    "acc": 245,
+    "avoid": 40,
+    "isBoss": true,
+    "searchIndex": [
+      "海怒斯(右)",
+      "pianus (r)"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      230040420
+    ]
+  },
+  "8520000": {
+    "id": 8520000,
+    "icon": "img_8520000.png",
+    "name": {
+      "zh": "海怒斯(左)",
+      "en": "Pianus (L)"
+    },
+    "level": 120,
+    "hp": 24000000,
+    "exp": 1400000,
+    "acc": 245,
+    "avoid": 38,
+    "isBoss": true,
+    "searchIndex": [
+      "海怒斯(左)",
+      "pianus (l)"
+    ],
+    "buffType": [
+      "火弱點"
+    ],
+    "mapIds": [
+      230040420
+    ]
+  },
+  "8645263": {
+    "id": 8645263,
+    "icon": "img_8645263.png",
+    "name": {
+      "zh": "守護者機器人",
+      "en": "Turbo Robo"
+    },
+    "level": 47,
+    "hp": 2600,
+    "exp": 120,
+    "acc": 125,
+    "avoid": 19,
+    "isBoss": false,
+    "searchIndex": [
+      "守護者機器人",
+      "turbo robo"
+    ],
+    "buffType": [
+      "雷抵抗"
+    ],
+    "mapIds": [
+      220020000,
+      220020600
+    ]
+  },
+  "9000001": {
+    "id": 9000001,
+    "icon": "img_3230100.png",
+    "name": {
+      "zh": "風獨眼獸",
+      "en": "Exam Curse Eye"
+    },
+    "level": 35,
+    "hp": 800,
+    "exp": 0,
+    "acc": 50,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "風獨眼獸",
+      "exam curse eye"
+    ],
+    "buffType": [
+      "毒抵抗",
+      "免疫毒狀態免疫"
+    ]
+  },
+  "9000002": {
+    "id": 9000002,
+    "icon": "img_2110200.png",
+    "name": {
+      "zh": "刺菇菇",
+      "en": "Exam Horny Mushroom"
+    },
+    "level": 35,
+    "hp": 600,
+    "exp": 0,
+    "acc": 50,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "刺菇菇",
+      "exam horny mushroom"
+    ]
+  },
+  "9000100": {
+    "id": 9000100,
+    "icon": "img_3210100.png",
+    "name": {
+      "zh": "火肥肥",
+      "en": "Exam Fire Boar"
+    },
+    "level": 35,
+    "hp": 600,
+    "exp": 0,
+    "acc": 50,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "火肥肥",
+      "exam fire boar"
+    ],
+    "buffType": [
+      "火抵抗",
+      "冰弱點",
+      "免疫燃燒狀態免疫"
+    ]
+  },
+  "9000101": {
+    "id": 9000101,
+    "icon": "img_3210800.png",
+    "name": {
+      "zh": "猴子",
+      "en": "Exam Lupin"
+    },
+    "level": 35,
+    "hp": 800,
+    "exp": 0,
+    "acc": 90,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "猴子",
+      "exam lupin"
+    ]
+  },
+  "9000200": {
+    "id": 9000200,
+    "icon": "img_2230100.png",
+    "name": {
+      "zh": "火獨眼獸",
+      "en": "Exam Evil Eye"
+    },
+    "level": 35,
+    "hp": 800,
+    "exp": 0,
+    "acc": 50,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "火獨眼獸",
+      "exam evil eye"
+    ]
+  },
+  "9000201": {
+    "id": 9000201,
+    "icon": "img_2230101.png",
+    "name": {
+      "zh": "殭屍菇菇",
+      "en": "Exam Zombie Mushroom"
+    },
+    "level": 35,
+    "hp": 600,
+    "exp": 0,
+    "acc": 50,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "殭屍菇菇",
+      "exam zombie mushroom"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ]
+  },
+  "9000300": {
+    "id": 9000300,
+    "icon": "img_1120100.png",
+    "name": {
+      "zh": "三眼章魚",
+      "en": "Exam Octopus"
+    },
+    "level": 35,
+    "hp": 800,
+    "exp": 0,
+    "acc": 50,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "三眼章魚",
+      "exam octopus"
+    ],
+    "buffType": [
+      "雷弱點"
+    ]
+  },
+  "9000301": {
+    "id": 9000301,
+    "icon": "img_2220100.png",
+    "name": {
+      "zh": "藍菇菇",
+      "en": "Exam Blue Mushroom"
+    },
+    "level": 35,
+    "hp": 600,
+    "exp": 0,
+    "acc": 60,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "藍菇菇",
+      "exam blue mushroom"
+    ]
+  },
+  "9001000": {
+    "id": 9001000,
+    "icon": "img_9001000.png",
+    "name": {
+      "zh": "鎧長的分身",
+      "en": "Dances with Balrog's Clone"
+    },
+    "level": 80,
+    "hp": 150000,
+    "exp": 0,
+    "acc": 150,
+    "avoid": 15,
+    "isBoss": false,
+    "searchIndex": [
+      "鎧長的分身",
+      "dances with balrog's clone"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫",
+      "免疫冰凍狀態免疫"
+    ]
+  },
+  "9001001": {
+    "id": 9001001,
+    "icon": "img_9001001.png",
+    "name": {
+      "zh": "漢斯的分身",
+      "en": "Grendel the Really Old's Clone"
+    },
+    "level": 80,
+    "hp": 90000,
+    "exp": 0,
+    "acc": 100,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "漢斯的分身",
+      "grendel the really old's clone"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫",
+      "免疫冰凍狀態免疫"
+    ]
+  },
+  "9001002": {
+    "id": 9001002,
+    "icon": "img_9001002.png",
+    "name": {
+      "zh": "赫麗娜的分身",
+      "en": "Athena Pierce's Clone"
+    },
+    "level": 80,
+    "hp": 120000,
+    "exp": 0,
+    "acc": 210,
+    "avoid": 25,
+    "isBoss": false,
+    "searchIndex": [
+      "赫麗娜的分身",
+      "athena pierce's clone"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫",
+      "免疫冰凍狀態免疫"
+    ]
+  },
+  "9001003": {
+    "id": 9001003,
+    "icon": "img_9001003.png",
+    "name": {
+      "zh": "達克魯的分身",
+      "en": "Dark Lord's Clone"
+    },
+    "level": 80,
+    "hp": 120000,
+    "exp": 0,
+    "acc": 180,
+    "avoid": 32,
+    "isBoss": false,
+    "searchIndex": [
+      "達克魯的分身",
+      "dark lord's clone"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫",
+      "免疫冰凍狀態免疫"
+    ]
+  },
+  "9001004": {
+    "id": 9001004,
+    "icon": "img_9001004.png",
+    "name": {
+      "zh": "卡伊琳的分身",
+      "en": "Shadow Kyrin"
+    },
+    "level": 80,
+    "hp": 130000,
+    "exp": 0,
+    "acc": 180,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "卡伊琳的分身",
+      "shadow kyrin"
+    ],
+    "buffType": [
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫",
+      "免疫冰凍狀態免疫"
+    ]
+  },
+  "9001005": {
+    "id": 9001005,
+    "icon": "img_9001005.png",
+    "name": {
+      "zh": "海盜章魚",
+      "en": "Exam Octo Pirate"
+    },
+    "level": 35,
+    "hp": 800,
+    "exp": 0,
+    "acc": 60,
+    "avoid": 10,
+    "isBoss": false,
+    "searchIndex": [
+      "海盜章魚",
+      "exam octo pirate"
+    ]
+  },
+  "9300018": {
+    "id": 9300018,
+    "icon": "img_9300018.png",
+    "name": {
+      "zh": "小石球",
+      "en": "Tutorial Jr. Sentinel"
+    },
+    "level": 1,
+    "hp": 8,
+    "exp": 1,
+    "acc": 30,
+    "avoid": 0,
+    "isBoss": false,
+    "searchIndex": [
+      "小石球",
+      "tutorial jr. sentinel"
+    ],
+    "mapIds": [
+      30000
+    ]
+  },
+  "9300038": {
+    "id": 9300038,
+    "icon": "img_9300038.png",
+    "name": {
+      "zh": "鬼精靈",
+      "en": "Ghost Pixie"
+    },
+    "level": 58,
+    "hp": 5000,
+    "exp": 180,
+    "acc": 130,
+    "avoid": 18,
+    "isBoss": false,
+    "searchIndex": [
+      "鬼精靈",
+      "ghost pixie"
+    ],
+    "buffType": [
+      "神聖弱點",
+      "治療弱點"
+    ],
+    "mapIds": [
+      200080000
+    ]
+  },
+  "9300437": {
+    "id": 9300437,
+    "icon": "img_9300437.png",
+    "name": {
+      "zh": "水母",
+      "en": "Jellyfish"
+    },
+    "level": 60,
+    "hp": 4600,
+    "exp": 180,
+    "acc": 130,
+    "avoid": 23,
+    "isBoss": false,
+    "searchIndex": [
+      "水母",
+      "jellyfish"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷弱點"
+    ],
+    "mapIds": [
+      230020101
+    ]
+  },
+  "9300476": {
+    "id": 9300476,
+    "icon": "img_9300476.png",
+    "name": {
+      "zh": "葛雷金剛",
+      "en": "Zenomega"
+    },
+    "level": 120,
+    "hp": 30000000,
+    "exp": 1980000,
+    "acc": 250,
+    "avoid": 40,
+    "isBoss": true,
+    "searchIndex": [
+      "葛雷金剛",
+      "zenomega"
+    ],
+    "mapIds": [
+      221030900
+    ]
+  },
+  "9300482": {
+    "id": 9300482,
+    "icon": "img_9300482.png",
+    "name": {
+      "zh": "半人馬國王",
+      "en": "Chief Kentaurus"
+    },
+    "level": 105,
+    "hp": 3500000,
+    "exp": 13500,
+    "acc": 200,
+    "avoid": 39,
+    "isBoss": true,
+    "buffType": [
+      "神聖弱點",
+      "毒抵抗",
+      "治療弱點"
+    ],
+    "mapIds": [
+      240020201
+    ],
+    "searchIndex": [
+      "半人馬國王",
+      "chief kentaurus"
+    ]
+  },
+  "9300659": {
+    "id": 9300659,
+    "icon": "img_9300659.png",
+    "name": {
+      "zh": "矮胖蝸牛",
+      "en": "Chunky Snail"
+    },
+    "level": 15,
+    "hp": 250,
+    "exp": 26,
+    "acc": 45,
+    "avoid": 5,
+    "isBoss": false,
+    "searchIndex": [
+      "矮胖蝸牛",
+      "chunky snail"
+    ],
+    "mapIds": [
+      1010004
+    ]
+  },
+  "9308021": {
+    "id": 9308021,
+    "icon": "img_9308021.png",
+    "name": {
+      "zh": "海盜領主",
+      "en": "Southperry Pirate Lord"
+    },
+    "level": 35,
+    "hp": 1250,
+    "exp": 700,
+    "acc": 60,
+    "avoid": 10,
+    "isBoss": true,
+    "searchIndex": [
+      "海盜領主",
+      "southperry pirate lord"
+    ],
+    "mapIds": [
+      60002
+    ]
+  },
+  "9500148": {
+    "id": 9500148,
+    "icon": "img_9500148.png",
+    "name": {
+      "zh": "冰烏龜",
+      "en": "Tortice"
+    },
+    "level": 52,
+    "hp": 3700,
+    "exp": 172,
+    "acc": 120,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "冰烏龜",
+      "tortice"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211030001
+    ]
+  },
+  "9834151": {
+    "id": 9834151,
+    "icon": "img_9834151.png",
+    "name": {
+      "zh": "盾牌牛魔王",
+      "en": "Tauroshield"
+    },
+    "level": 80,
+    "hp": 27000,
+    "exp": 900,
+    "acc": 175,
+    "avoid": 28,
+    "isBoss": false,
+    "searchIndex": [
+      "盾牌牛魔王",
+      "tauroshield"
+    ],
+    "buffType": [
+      "火抵抗",
+      "雷抵抗",
+      "毒抵抗",
+      "免疫毒狀態免疫",
+      "免疫燃燒狀態免疫"
+    ],
+    "mapIds": [
+      105090800
+    ]
+  },
+  "9834178": {
+    "id": 9834178,
+    "icon": "img_9834178.png",
+    "name": {
+      "zh": "雪球企鵝王",
+      "en": "Snowball Pepe"
+    },
+    "level": 63,
+    "hp": 5800,
+    "exp": 250,
+    "acc": 100,
+    "avoid": 20,
+    "isBoss": false,
+    "searchIndex": [
+      "雪球企鵝王",
+      "snowball pepe"
+    ],
+    "buffType": [
+      "火弱點",
+      "冰抵抗"
+    ],
+    "mapIds": [
+      211040002
+    ]
+  }
+}

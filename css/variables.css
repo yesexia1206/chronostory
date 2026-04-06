@@ -1,0 +1,156 @@
+/* === ChronoStory Encyclopedia — Design Tokens === */
+
+:root {
+  /* Background */
+  --bg-primary: #111111;
+  --bg-secondary: #222526;
+  --bg-tertiary: #3B3B3B;
+  --bg-card: #363839;
+  --bg-card-hover: #424548;
+  --bg-input: rgba(0, 0, 0, 0.2);
+  --bg-overlay: rgba(0, 0, 0, 0.8);
+
+  /* Text */
+  --text-primary: #FFFFFF;
+  --text-secondary: rgba(255, 255, 255, 0.95);
+  --text-muted: rgba(235, 235, 245, 0.6);
+  --text-dimmed: rgba(235, 235, 245, 0.45);
+  --text-link: #9E9EFF;
+
+  /* Accent */
+  --accent: #00B4D8;
+  --accent-hover: #00B0B6;
+  --accent-bright: #00E2E2;
+  --accent-subtle: rgba(0, 180, 216, 0.1);
+  --accent-orange: #E67600;
+  --accent-pink: #EA81AA;
+
+  /* Borders */
+  --border: #2F3233;
+  --border-light: #4D4D4D;
+  --border-subtle: #67676C;
+
+  /* Tags / Badges */
+  --tag-bg: rgba(200, 209, 211, 0.15);
+  --tag-bg-active: #00B4D8;
+  --tag-text: rgba(235, 235, 245, 0.6);
+  --tag-text-active: #fff;
+
+  /* Stat colors */
+  --stat-str: #ef4444;
+  --stat-dex: #22c55e;
+  --stat-int: #3b82f6;
+  --stat-luk: #eab308;
+  --stat-hp: #f87171;
+  --stat-mp: #60a5fa;
+  --stat-attack: #fb923c;
+  --stat-def: #a78bfa;
+  --stat-acc: #34d399;
+  --stat-avoid: #fbbf24;
+  --stat-speed: #2dd4bf;
+
+  /* Status */
+  --boss-badge: #dc2626;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --error: #ef4444;
+
+  /* Category colors */
+  --cat-equip: #a78bfa;
+  --cat-use: #34d399;
+  --cat-scroll: #fbbf24;
+  --cat-etc: #8b949e;
+  --cat-cash: #f472b6;
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+  --space-lg: 16px;
+  --space-xl: 24px;
+  --space-2xl: 32px;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+
+  /* Typography */
+  --font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Cascadia Code', 'Fira Code', Consolas, monospace;
+  --font-xs: 14px;
+  --font-sm: 16px;
+  --font-base: 20px;
+  --font-lg: 22px;
+  --font-xl: 26px;
+  --font-2xl: 32px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.4);
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.25s ease;
+
+  /* Header height */
+  --header-height: 56px;
+  --mobile-tabs-height: 40px;
+  --filter-bar-height: auto;
+}
+
+/* === Reset === */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-base);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.5;
+  overflow: hidden;
+  height: 100vh;
+}
+
+a {
+  color: var(--text-link);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--border-light);
+}
+
+/* Utility */
+.hidden { display: none !important; }

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="ChronoStory Game Encyclopedia - Monster & Item Database">
+<title>ChronoStory 圖鑑</title>
+<link rel="stylesheet" href="css/variables.css">
+<link rel="stylesheet" href="css/layout.css">
+<link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+
+<!-- Loading Overlay -->
+<div id="loading-overlay" class="loading-overlay">
+  <div class="loading-content">
+    <div class="loading-spinner"></div>
+    <p class="loading-text" data-i18n="loading">載入中...</p>
+    <div class="loading-progress">
+      <div class="loading-progress-bar" id="loading-bar"></div>
+    </div>
+    <p class="loading-status" id="loading-status"></p>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <div class="header-left">
+    <h1 class="logo">ChronoStory</h1>
+    <nav class="main-nav" id="main-nav">
+      <button class="nav-btn active" data-page="encyclopedia" data-i18n="nav.encyclopedia">圖鑑</button>
+      <button class="nav-btn" data-page="gacha" data-i18n="nav.gacha">轉蛋機</button>
+      <button class="nav-btn" data-page="favorites" data-i18n="nav.favorites">收藏</button>
+    </nav>
+    <div class="panel-toggle" id="panel-toggle">
+      <button class="panel-toggle-btn active" data-panel="monsters" data-i18n="section.monsters">怪物</button>
+      <button class="panel-toggle-btn" data-panel="items" data-i18n="section.items">道具</button>
+    </div>
+  </div>
+  <div class="header-center">
+    <div class="search-box">
+      <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <input type="text" id="global-search" class="search-input" data-i18n-placeholder="search.placeholder" placeholder="搜尋怪物或道具...">
+    </div>
+  </div>
+  <div class="header-right">
+    <button class="info-btn" id="info-btn" title="關於本站">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/>
+      </svg>
+      <span class="info-btn-label" data-i18n="nav.about">關於</span>
+    </button>
+    <div class="lang-toggle" id="lang-toggle">
+      <button class="lang-btn active" data-lang="zh">中</button>
+      <button class="lang-btn" data-lang="en">EN</button>
+    </div>
+  </div>
+</header>
+
+<!-- Mobile Tab (for encyclopedia page, <768px) -->
+<div class="mobile-tabs" id="mobile-tabs">
+  <button class="mobile-tab active" data-section="monsters" data-i18n="section.monsters">怪物</button>
+  <button class="mobile-tab" data-section="items" data-i18n="section.items">道具</button>
+</div>
+
+<!-- Main Content: Encyclopedia Page -->
+<main class="main-content" id="page-encyclopedia">
+  <!-- Monster Section -->
+  <section class="panel panel-monsters" id="panel-monsters">
+    <div class="panel-header">
+      <h2 class="panel-title" data-i18n="section.monsters">怪物</h2>
+      <div class="panel-header-right">
+        <button class="filter-toggle-btn" id="monster-filter-toggle" data-i18n="filter.toggle">篩選</button>
+        <span class="panel-count" id="monster-count"></span>
+        <button class="panel-close-btn" id="monster-panel-close" title="Close">✕</button>
+      </div>
+    </div>
+    <div class="filter-dropdown" id="monster-filters">
+      <!-- Filters rendered by JS -->
+    </div>
+    <div class="panel-body" id="monster-body">
+      <!-- List or Detail rendered by JS -->
+    </div>
+  </section>
+
+  <!-- Item Section -->
+  <section class="panel panel-items" id="panel-items">
+    <div class="panel-header">
+      <h2 class="panel-title" data-i18n="section.items">道具</h2>
+      <div class="panel-header-right">
+        <button class="filter-toggle-btn" id="item-filter-toggle" data-i18n="filter.toggle">篩選</button>
+        <span class="panel-count" id="item-count"></span>
+        <button class="panel-close-btn" id="item-panel-close" title="Close">✕</button>
+      </div>
+    </div>
+    <div class="filter-dropdown" id="item-filters">
+      <!-- Filters rendered by JS -->
+    </div>
+    <div class="panel-body" id="item-body">
+      <!-- List or Detail rendered by JS -->
+    </div>
+  </section>
+</main>
+
+<!-- Main Content: Gacha Page -->
+<main class="main-content main-content--gacha hidden" id="page-gacha">
+  <div class="gacha-container" id="gacha-container">
+    <!-- Gacha machines rendered by JS -->
+  </div>
+</main>
+
+<!-- Main Content: Favorites Page -->
+<main class="main-content main-content--favorites hidden" id="page-favorites">
+  <div class="favorites-container" id="favorites-container">
+    <!-- Favorites rendered by JS -->
+  </div>
+</main>
+
+<!-- Info Modal -->
+<div class="modal-overlay hidden" id="info-modal">
+  <div class="modal-box">
+    <div class="modal-header">
+      <h2 class="modal-title" data-i18n="info.title">關於本站與參考資料</h2>
+      <button class="modal-close" id="info-modal-close">✕</button>
+    </div>
+    <div class="modal-body">
+
+      <div class="info-section">
+        <p class="info-disclaimer" data-i18n="info.personal">本站為我個人使用和備份用途，資料不保證最新和其正確性，內容如有誤請依遊戲內和官方為準。</p>
+        <p class="info-feedback"><span data-i18n="info.feedbackLabel">問題回報 / 建議表單：</span><a href="https://forms.gle/Ajw7xgucwUjk5vax7" target="_blank" rel="noopener">Google Form</a></p>
+      </div>
+
+      <div class="info-section">
+        <h3 class="info-section-title" data-i18n="info.official">1. 官方文件</h3>
+        <ul class="info-link-list">
+          <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpKuZGJQIFFxSi6kzYx4ALI0MQborpLEkh3J1qIGSd0Bw7U4NYg5CK-3ESzyK580z4D8NO59SUeC3k/pubhtml?gid=1888753114&single=true" target="_blank" rel="noopener">ChronoStory - Mobs : Public Drop Table</a></li>
+          <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIUj-72ADgwMqShxt4Dn7OP7dBN54l0wda1IPwlIVTZUN_ZtTlRx5DDidr43VXv2HYQ5RNqccLbbGS/pubhtml" target="_blank" rel="noopener">ChronoStory Map and Monster Database</a></li>
+          <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbiXUm7I36S4JtWrnja8GzlYmfa-PFMd-gXZOA9t16o6IFlG8K1gn6WvWh1-I2QHHdz7-46zRy7_8R/pubhtml" target="_blank" rel="noopener">ChronoStory - Skill Changes</a></li>
+          <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xZXUXsjc7kiktd4aAcNrvawk5sodq4gRxmz7Vt5gCK4xqwcHhPVHr1YJ57cUpnn0-trzKuEEFzyW/pubhtml" target="_blank" rel="noopener">Chronostory - Gachapon List</a></li>
+          <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpKuZGJQIFFxSi6kzYx4ALI0MQborpLEkh3J1qIGSd0Bw7U4NYg5CK-3ESzyK580z4D8NO59SUeC3k/pubhtml?gid=839121566&single=true" target="_blank" rel="noopener">ChronoStory - Mobs : ScrollExchange</a></li>
+        </ul>
+      </div>
+
+      <div class="info-section">
+        <h3 class="info-section-title" data-i18n="info.websites">2. 網頁（圖鑑、含小工具）</h3>
+        <ul class="info-link-list">
+          <li><a href="https://chronostorydex.com/" target="_blank" rel="noopener">ChronoDEX</a></li>
+          <li><a href="https://www.chronostorysearch.com/" target="_blank" rel="noopener">ChronostorySearch</a> <span class="info-note" data-i18n="info.paused">（暫停更新）</span></li>
+        </ul>
+      </div>
+
+      <div class="info-section">
+        <h3 class="info-section-title" data-i18n="info.community">3. DC 討論串相關連結</h3>
+        <p class="info-note" data-i18n="info.disclaimer">注意：部分資訊可能過舊，請斟酌參考</p>
+        <ul class="info-link-list">
+          <li>
+            <strong data-i18n="info.skillChanges">技能調整 — 中文版、連結與資訊頁</strong>
+            <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnQH4rzTaZ4ExDKC-yHL6dvovUBs8Nx14q2HPo51FMqgF5792NhieBgyk93dhEYlNqiCtuNYqi_VEk/pubhtml#gid=1357703318" target="_blank" rel="noopener">Google Sheets</a>
+          </li>
+          <li>
+            <strong data-i18n="info.faq">DC 指南中文 FAQ</strong>
+            <a href="https://discord.com/channels/1326772066124566538/1432726969719722034" target="_blank" rel="noopener">Discord</a>
+          </li>
+          <li>
+            <strong data-i18n="info.classGuides">技改與配點建議（中文）</strong>
+            <div class="info-sub-links">
+              <a href="https://docs.google.com/document/d/1TPMIV-2YA3qF7bVfBLcJiYpJf3cGz0AVV62ghVJhs3g/edit?usp=sharing" target="_blank" rel="noopener" data-i18n="info.warrior">劍士</a>
+              <a href="https://docs.google.com/document/d/1rAHvFuxmpkT7YaQpF9ZbDIdagkW0kwt3Ov9_RwwJRHk/edit?usp=sharing" target="_blank" rel="noopener" data-i18n="info.magician">法師</a>
+              <a href="https://docs.google.com/document/d/1Ssj--N4UBS9XUFrUrZ8qt2Ht7yT2K3dO4zaVDqUsKnU/edit?usp=sharing" target="_blank" rel="noopener" data-i18n="info.bowman">弓箭手</a>
+              <a href="https://docs.google.com/document/d/1mlt4yc6vr442G1ggFfdBLyidJ-pkGIowOsVGsjTdtnA/edit?usp=sharing" target="_blank" rel="noopener" data-i18n="info.thief">盜賊</a>
+              <a href="https://docs.google.com/document/d/17mX7JIUuPbrjTFfTyjsJ9ykzc4b9406mQj4mufF0bCY/edit?usp=sharing" target="_blank" rel="noopener" data-i18n="info.pirate">海盜</a>
+            </div>
+          </li>
+          <li>
+            <strong data-i18n="info.updates">UPDATE — 中文翻譯</strong>
+            <a href="https://discord.com/channels/1326772066124566538/1449964478254022656" target="_blank" rel="noopener">Discord</a>
+          </li>
+          <li>
+            <strong data-i18n="info.lastUnwelcomeGuest">不速之客相關</strong>
+            <a href="https://discord.com/channels/1326772066124566538/1463404720851779607" target="_blank" rel="noopener">Discord</a>
+          </li>
+          <li>
+            <strong data-i18n="info.zenomega">黑金剛相關</strong>
+            <a href="https://discord.com/channels/1326772066124566538/1464197257774497907" target="_blank" rel="noopener">Discord</a>
+          </li>
+          <li>
+            <strong data-i18n="info.pianus">海怒斯相關</strong>
+            <a href="https://discord.com/channels/1326772066124566538/1474949594486935552" target="_blank" rel="noopener">Discord</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script src="js/i18n.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/favorites.js"></script>
+<script src="js/data.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/search.js"></script>
+<script src="js/render-list.js"></script>
+<script src="js/render-detail.js"></script>
+<script src="js/calc.js"></script>
+<script src="js/render-gacha.js"></script>
+<script src="js/render-favorites.js"></script>
+<script src="js/router.js"></script>
+<script src="js/app.js"></script>
+<script>
+(function() {
+  const btn = document.getElementById('info-btn');
+  const modal = document.getElementById('info-modal');
+  const close = document.getElementById('info-modal-close');
+  btn.addEventListener('click', () => modal.classList.remove('hidden'));
+  close.addEventListener('click', () => modal.classList.add('hidden'));
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) modal.classList.add('hidden');
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+node_modules/
+.claude/
+*.bak
+backups/
+.DS_Store
+Thumbs.db
+unused/
+scripts/
+docs/
