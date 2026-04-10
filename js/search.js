@@ -12,7 +12,11 @@ const Search = (() => {
       const q = input.value.trim();
       monsterQuery = q;
       itemQuery = q;
-      if (q) App.showPanel('items'); // #3: Show item panel when searching
+      if (q) {
+        Filters.resetMonsterState();
+        Filters.resetItemState();
+        App.showPanel('items'); // #3: Show item panel when searching
+      }
       RenderList.renderMonsters();
       RenderList.renderItems();
     }, 200));

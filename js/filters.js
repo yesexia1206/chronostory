@@ -758,10 +758,32 @@ const Filters = (() => {
     return list;
   }
 
+  function resetMonsterState() {
+    monsterState.levelRange = null;
+    monsterState.levelCustom = null;
+    monsterState.bossOnly = null;
+    monsterState.regions = [];
+    monsterState.elements = [];
+    renderMonsterFilters();
+  }
+
+  function resetItemState() {
+    itemState.category = null;
+    itemState.subCategory = null;
+    itemState.job = null;
+    itemState.levelRange = null;
+    itemState.levelCustom = null;
+    itemState.scrollRate = null;
+    itemState.scrollTarget = null;
+    itemState.scrollStat = null;
+    renderItemFilters();
+  }
+
   return {
     init, render,
     applyMonsterFilters, applyItemFilters,
     hasActiveMonsterFilters, hasActiveItemFilters,
     getBuffTypeDisplay,
+    resetMonsterState, resetItemState,
   };
 })();
