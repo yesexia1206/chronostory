@@ -5953,7 +5953,7 @@
     "hp": 30000000,
     "exp": 2000000,
     "acc": 245,
-    "avoid": 40,
+    "avoid": 14,
     "isBoss": true,
     "searchIndex": [
       "海怒斯(右)",
@@ -5977,7 +5977,7 @@
     "hp": 24000000,
     "exp": 1400000,
     "acc": 245,
-    "avoid": 38,
+    "avoid": 14,
     "isBoss": true,
     "searchIndex": [
       "海怒斯(左)",

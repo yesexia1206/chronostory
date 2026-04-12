@@ -30,6 +30,7 @@ const I18n = (() => {
       'info.zenomega': '黑金剛相關',
       'info.pianus': '海怒斯相關',
       'info.personal': '本站為我個人使用和備份用途，資料不保證最新和其正確性，內容如有誤請依遊戲內和官方為準。',
+      'info.lastUpdatedLabel': '最後更新：',
       'info.feedbackLabel': '問題回報 / 建議表單：',
       'nav.about': '關於',
 
@@ -260,6 +261,7 @@ const I18n = (() => {
       'info.zenomega': 'Zenomega Boss',
       'info.pianus': 'Pianus Boss',
       'info.personal': 'This site is for personal use and backup purposes. Data may not be up-to-date or fully accurate. Please refer to in-game info and official sources.',
+      'info.lastUpdatedLabel': 'Last updated: ',
       'info.feedbackLabel': 'Bug Report / Suggestion Form: ',
       'nav.about': 'About',
 

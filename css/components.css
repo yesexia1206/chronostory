@@ -1019,6 +1019,12 @@ mark {
   line-height: 1.6;
   margin-bottom: var(--space-sm);
 }
+.info-updated {
+  font-size: var(--font-xs);
+  color: var(--text-muted);
+  margin-top: calc(var(--space-xs) * -1);
+  margin-bottom: var(--space-sm);
+}
 .info-feedback {
   font-size: var(--font-sm);
   color: var(--text-secondary);
