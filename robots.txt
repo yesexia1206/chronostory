@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yesexia1206.github.io/chronostory/sitemap.xml
